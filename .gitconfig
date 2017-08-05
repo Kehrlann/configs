@@ -1,0 +1,21 @@
+; This is a trimmed-down version of the config we use at Pivotal
+; It's pretty cool !
+[user]
+    name = Daniel Garnier-Moiroux
+    email = git@garnier.wf
+
+[alias]
+    st = status
+    di = diff
+    co = checkout
+    ci = commit 
+    br = branch
+    sta = stash
+    lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+    blog = log origin/master... --left-right
+    ds = diff --staged
+    unstage = reset HEAD
+
+[rebase]
+    autosquash = true
+
