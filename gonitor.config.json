@@ -1,0 +1,63 @@
+{
+  "globalcommand": "/home/daniel/go/src/github.com/kehrlann/gonitor/post.sh",
+  "smtp": {
+    "host" : "smtp.gmail.com",
+    "port" : 587,
+    "username" : "**redacted**",
+    "password" : "**redacted",
+    "fromAddress" : "**redacted**",
+    "fromName" : "Gonitor",
+    "to" : ["**redacted**"]
+  },
+  "resources": [
+    {
+      "url": "http://ratp.garnier.wf",
+      "intervalInSeconds": 60,
+      "timeoutInSeconds": 2,
+      "numberOfTries": 10,
+      "failureThreshold": 10
+    },
+    {
+      "url": "http://cv.garnier.wf",
+      "intervalInSeconds": 60,
+      "timeoutInSeconds": 2,
+      "numberOfTries": 10,
+      "failureThreshold": 10
+    },
+    {
+      "url": "http://blog.garnier.wf",
+      "intervalInSeconds": 60,
+      "timeoutInSeconds": 2,
+      "numberOfTries": 10,
+      "failureThreshold": 10
+    },
+    {
+      "url": "http://totem.garnier.wf",
+      "intervalInSeconds": 60,
+      "timeoutInSeconds": 2,
+      "numberOfTries": 10,
+      "failureThreshold": 10
+    },
+    {
+      "url": "http://www.levallois-osteopathe.fr/",
+      "intervalInSeconds": 60,
+      "timeoutInSeconds": 2,
+      "numberOfTries": 10,
+      "failureThreshold": 10
+    },
+    {
+      "url": "https://api.kraken.com/0/public/Ticker?pair=XETHZEUR",
+      "intervalInSeconds": 30,
+      "timeoutInSeconds": 2,
+      "numberOfTries": 5,
+      "failureThreshold": 3
+    },
+    {
+      "url": "https://boutiquepro.orange.fr",
+      "intervalInSeconds": 60,
+      "timeoutInSeconds": 2,
+      "numberOfTries": 10,
+      "failureThreshold": 5
+    }
+  ]
+}
