@@ -12,4 +12,4 @@ export PS1="${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\
 stty -ixon
 
 # Set default editor to vim
-export EDITOR=vim
+#export EDITOR=vim
