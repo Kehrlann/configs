@@ -1,6 +1,3 @@
-# Z is the new J, yo
-. ~/apps/z/z.sh
-
 # Show git branch if exists
 parse_git_branch() {
      git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
@@ -18,3 +15,11 @@ stty -ixon
 
 # Set default editor to vim
 #export EDITOR=vim
+
+
+# Z is the new J, yo
+source /home/daniel/apps/z/z.sh
+
+# Thefuck ... https://github.com/nvbn/thefuck
+# eval $(thefuck --alias)
+
