@@ -21,5 +21,6 @@ stty -ixon
 source /home/daniel/apps/z/z.sh
 
 # Thefuck ... https://github.com/nvbn/thefuck
-# eval $(thefuck --alias)
+export PATH=$PATH:~/.local/bin
+eval $(thefuck --alias)
 
