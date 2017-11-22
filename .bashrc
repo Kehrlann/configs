@@ -16,7 +16,6 @@ stty -ixon
 # Set default editor to vim
 #export EDITOR=vim
 
-
 # Z is the new J, yo
 source /home/daniel/apps/z/z.sh
 
@@ -24,3 +23,7 @@ source /home/daniel/apps/z/z.sh
 export PATH=$PATH:~/.local/bin
 eval $(thefuck --alias)
 
+copy() {
+    FILE_TO_COPY=$1
+    copyq copy - < $FILE_TO_COPY
+}
