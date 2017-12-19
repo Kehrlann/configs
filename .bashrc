@@ -30,3 +30,8 @@ copy() {
     FILE_TO_COPY=$1
     copyq copy - < $FILE_TO_COPY
 }
+
+paste() {
+    DESTINATION=$1
+    copyq clipboard >> $DESTINATION
+}
