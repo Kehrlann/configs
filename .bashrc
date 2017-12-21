@@ -26,12 +26,5 @@ source /home/daniel/apps/z/z.sh
 export PATH=$PATH:~/.local/bin
 eval $(thefuck --alias)
 
-copy() {
-    FILE_TO_COPY=$1
-    copyq copy - < $FILE_TO_COPY
-}
+export PATH=$PATH:~/bin
 
-paste() {
-    DESTINATION=$1
-    copyq clipboard >> $DESTINATION
-}

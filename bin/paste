@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+DESTINATION=$1
+copyq clipboard >> $DESTINATION
+

@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+FILE_TO_COPY=$1
+copyq copy - < $FILE_TO_COPY
+
