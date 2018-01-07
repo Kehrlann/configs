@@ -27,4 +27,5 @@ export PATH=$PATH:~/.local/bin
 eval $(thefuck --alias)
 
 export PATH=$PATH:~/bin
+export PATH=$PATH:~/.yarn/bin
 
