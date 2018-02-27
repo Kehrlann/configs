@@ -28,4 +28,4 @@ eval $(thefuck --alias)
 
 export PATH=$PATH:~/bin
 export PATH=$PATH:~/.yarn/bin
-
+export ANDROID_EMULATOR_USE_SYSTEM_LIBS=1
