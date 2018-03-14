@@ -24,8 +24,8 @@ source /home/daniel/apps/z/z.sh
 
 # Thefuck ... https://github.com/nvbn/thefuck
 export PATH=$PATH:~/.local/bin
-eval $(thefuck --alias)
+eval "$(thefuck --alias)"
+eval "$(direnv hook bash)"
 
 export PATH=$PATH:~/bin
 export PATH=$PATH:~/.yarn/bin
-export ANDROID_EMULATOR_USE_SYSTEM_LIBS=1
