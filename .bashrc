@@ -29,3 +29,4 @@ eval "$(direnv hook bash)"
 
 export PATH=$PATH:~/bin
 export PATH=$PATH:~/.yarn/bin
+export PATH=$PATH:~/apps/spring/bin

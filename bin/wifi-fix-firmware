@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo cp /lib/firmware/ath10k/QCA6174/hw3.0/firmware-6.bin{_the_correct_one,}
+sudo cp /lib/firmware/ath10k/QCA6174/hw3.0/board-2.bin{_the_correct_one,}
