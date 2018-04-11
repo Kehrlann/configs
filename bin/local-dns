@@ -1,3 +1,4 @@
 #!/bin/bash
 
+sudo /bin/bash -c "echo 'nameserver 127.0.1.1' >> /etc/resolv.conf"
 sudo /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --clear-on-reload --conf-file=/dev/null --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
