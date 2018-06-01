@@ -31,9 +31,6 @@ eval "$(thefuck --alias)"
 # direnv !
 eval "$(direnv hook bash)"
 
-# minikube user docker as a backend
-eval $(minikube docker-env)
-
 # Paths updates
 export PATH=$PATH:~/.local/bin
 export PATH=$PATH:~/bin
