@@ -19,14 +19,24 @@ stty -ixon
 # Set default editor to vim
 #export EDITOR=vim
 
+# golang
+export GOPATH=~/workspace/go
+
 # Z is the new J, yo
 source /home/daniel/apps/z/z.sh
 
 # Thefuck ... https://github.com/nvbn/thefuck
-export PATH=$PATH:~/.local/bin
 eval "$(thefuck --alias)"
+
+# direnv !
 eval "$(direnv hook bash)"
 
+# minikube user docker as a backend
+eval $(minikube docker-env)
+
+# Paths updates
+export PATH=$PATH:~/.local/bin
 export PATH=$PATH:~/bin
 export PATH=$PATH:~/.yarn/bin
 export PATH=$PATH:~/apps/spring/bin
+export PATH=$PATH:$GOPATH/bin
