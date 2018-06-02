@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+minikube start --memory=4096 --bootstrapper=kubeadm
+eval $(minikube docker-env)
