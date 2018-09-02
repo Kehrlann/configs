@@ -1,9 +1,11 @@
 set number
+set history=1000
+set hlsearch
+
+" Tabs
 set tabstop=2
 set shiftwidth=2
 set expandtab
-set history=1000
-
 
 " Saving
 nmap <c-s> :w<CR>
