@@ -20,6 +20,8 @@
     blog = log origin/master... --left-right
     ds = diff --staged
     unstage = reset HEAD
+; stats : https://github.com/arzzen/git-quick-stats
+    stats = ! ~/bin/git-quick-stats
 
 [rebase]
     autosquash = true
