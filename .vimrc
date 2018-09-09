@@ -12,3 +12,9 @@ set expandtab
 nmap <c-s> :w<CR>
 vmap <c-s> <Esc><c-s>gv
 imap <c-s> <Esc><c-s>
+
+" Train your hjkl movement
+noremap <Up> <Nop>
+noremap <Down> <Nop>
+noremap <Left> <Nop>
+noremap <Right> <Nop>
