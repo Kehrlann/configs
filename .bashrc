@@ -1,5 +1,6 @@
 # Aliases
 alias ll='ls -ahlF'
+alias ..='cd ..'
 
 # Show git branch if exists
 parse_git_branch() {
