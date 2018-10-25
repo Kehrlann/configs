@@ -32,6 +32,9 @@ eval "$(thefuck --alias)"
 # direnv !
 eval "$(direnv hook bash)"
 
+# fzf: https://github.com/junegunn/fzf
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
+
 # Paths updates
 export PATH=$PATH:~/.local/bin
 export PATH=$PATH:~/bin
