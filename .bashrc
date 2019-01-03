@@ -41,3 +41,13 @@ export PATH=$PATH:~/bin
 export PATH=$PATH:~/.yarn/bin
 export PATH=$PATH:~/apps/spring/bin
 export PATH=$PATH:$GOPATH/bin
+export PATH=$PATH:~/apps/flutter/bin
+
+# jenv
+export PATH="$HOME/.jenv/bin:$PATH"
+eval "$(jenv init -)"
+
+# history syncing
+export HISTCONTROL=ignoredups:erasedups
+shopt -s histappend
+export PROMPT_COMMAND="${PROMPT_COMMAND:+$PROMPT_COMMAND$'\n'}history -a; history -c; history -r"
