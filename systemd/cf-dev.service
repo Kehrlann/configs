@@ -1,0 +1,15 @@
+# Place this file in $HOME/.config/systemd/user/
+# and then run: $ systemctl --user start cf-dev
+#
+# It assumes there is a VM to be resumed
+[Unit]
+Description=CF-Dev auto-suspend
+
+[Service]
+Type=oneshot
+RemainAfterExit=true
+ExecStart=/usr/bin/cf dev resume
+ExecStop=/usr/bin/cf dev suspend
+
+[Install]
+WantedBy=default.target
