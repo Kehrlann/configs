@@ -1,0 +1,10 @@
+# Copy this in : ~/.local/share/applications/notes.desktop
+[Desktop Entry]
+Type=Application
+Name=Notes
+Exec=code "/home/daniel/Dropbox/notes"
+Icon=/home/daniel/Dropbox/task-icon.png
+StartupNotify=false
+Categories=Productivity;
+Terminal=false
+X-GNOME-Autostart-enabled=true
