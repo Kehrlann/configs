@@ -1,0 +1,19 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "window.zoomLevel": 1,
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "prettier.singleQuote": true,
+  "editor.fontFamily": " 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.fontSize": 14,
+  "vsicons.projectDetection.autoReload": true,
+  "[html]": {
+    "editor.formatOnSave": false
+  },
+  "[yaml]": {
+    "editor.formatOnSave": false
+  },
+  "window.titleBarStyle": "custom",
+  "editor.tabSize": 2
+}
