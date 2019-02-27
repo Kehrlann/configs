@@ -17,6 +17,13 @@
     "body": ["($1) => { $2 }"],
     "description": "Simple arrow function"
   },
+  "console.log": {
+    "prefix": "clog",
+    "body": ["console.log(`$1`);"],
+    "description": "Console.log"
+  },
+
+  // Jasmine stuff
   "jasmine it": {
     "prefix": "it",
     "body": ["it('$1', () => { $2 });"],
