@@ -15,5 +15,7 @@
     "editor.formatOnSave": false
   },
   "window.titleBarStyle": "custom",
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "breadcrumbs.enabled": false
 }
