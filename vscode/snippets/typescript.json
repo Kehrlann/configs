@@ -47,6 +47,16 @@
   "jasmine beforeAll": {
     "prefix": "befall",
     "body": ["beforeAll(() => { $1 });"],
-    "description": "Jasmine beforeEach"
+    "description": "Jasmine beforeAll"
+  },
+  "jasmine afterEach": {
+    "prefix": "aft",
+    "body": ["afterEach(() => { $1 });"],
+    "description": "Jasmine afterEach"
+  },
+  "jasmine afterAll": {
+    "prefix": "aftall",
+    "body": ["afterAll(() => { $1 });"],
+    "description": "Jasmine afterAll"
   }
 }
