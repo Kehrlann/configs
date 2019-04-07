@@ -7,10 +7,7 @@
   "prettier.singleQuote": true,
   "editor.fontFamily": " 'monospace', monospace, 'Droid Sans Fallback'",
   "editor.fontSize": 14,
-  "vsicons.projectDetection.autoReload": true,
-  "[html]": {
-    "editor.formatOnSave": false
-  },
+  "vsicons.projectDetection.autoReload": false,
   "[yaml]": {
     "editor.formatOnSave": false
   },
