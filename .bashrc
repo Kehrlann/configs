@@ -1,3 +1,12 @@
+# Paths updates
+export PATH=$PATH:~/bin
+export PATH=$PATH:~/.local/bin
+export PATH=$PATH:~/bin
+export PATH=$PATH:~/.yarn/bin
+export PATH=$PATH:~/apps/spring/bin
+export PATH=$PATH:$GOPATH/bin
+export PATH=$PATH:~/apps/flutter/bin
+
 # Show git branch if exists
 parse_git_branch() {
      git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
@@ -28,14 +37,6 @@ eval "$(direnv hook bash)"
 
 # fzf: https://github.com/junegunn/fzf
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
-
-# Paths updates
-export PATH=$PATH:~/.local/bin
-export PATH=$PATH:~/bin
-export PATH=$PATH:~/.yarn/bin
-export PATH=$PATH:~/apps/spring/bin
-export PATH=$PATH:$GOPATH/bin
-export PATH=$PATH:~/apps/flutter/bin
 
 # jenv
 export PATH="$HOME/.jenv/bin:$PATH"
