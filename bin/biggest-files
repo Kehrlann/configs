@@ -1,6 +1,8 @@
 #!/bin/bash
 
-echo 'Computing biggest files, this might take a while ...'
+DIR_TO_SCAN=${1:-.}
+
+echo "Computing biggest files for path '$DIR_TO_SCAN', this might take a while ..."
 echo '/!\ This script will only show files in directories you can scan.'
 echo '----'
-du -h / 2> /dev/null | sort -rh | head -10
+du -h "$DIR_TO_SCAN" 2> /dev/null | sort -rh | head -10
