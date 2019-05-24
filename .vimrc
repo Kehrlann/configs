@@ -9,6 +9,10 @@ set shiftwidth=2
 set expandtab
 set autoindent
 
+" Wrapping
+set wrap
+set linebreak
+
 " Saving
 nmap <c-s> :w<CR>
 vmap <c-s> <Esc><c-s>gv
