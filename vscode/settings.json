@@ -8,6 +8,9 @@
   "[yaml]": {
     "editor.formatOnSave": false
   },
+  "[markdown]": {
+    "editor.wordWrap": "on"
+  },
   "window.titleBarStyle": "custom",
   "editor.tabSize": 2,
   "typescript.updateImportsOnFileMove.enabled": "always",
