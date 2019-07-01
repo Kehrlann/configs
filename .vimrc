@@ -1,7 +1,11 @@
 set number
 set history=1000
+
+" Search
 set incsearch
 set hlsearch
+set ignorecase
+set smartcase
 
 " Tabs
 set tabstop=2
