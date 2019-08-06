@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+set -e
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+java -jar "$SCRIPT_DIR/bfg.jar" "$@"
+
+echo ' ... All done !'
+echo 'Now, check your files, and when you are done, consider forcing garbage collection:'
+echo ''
+echo '    $ git reflog expire --expire=now --all && git gc --prune=now --aggressive'
+echo ''
