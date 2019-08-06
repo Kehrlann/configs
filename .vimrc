@@ -27,3 +27,19 @@ noremap <Up> <Nop>
 noremap <Down> <Nop>
 noremap <Left> <Nop>
 noremap <Right> <Nop>
+
+" vim-plug
+" Specify a directory for plugins
+" - For Neovim: ~/.local/share/nvim/plugged
+" - Avoid using standard Vim directory names like 'plugin'
+call plug#begin('~/.vim/plugged')
+
+" Make sure you use single quotes
+
+" On-demand loading
+Plug 'scrooloose/nerdtree'
+Plug 'tpope/vim-surround'
+Plug 'ctrlpvim/ctrlp.vim'
+
+" Initialize plugin system
+call plug#end()
