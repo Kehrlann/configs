@@ -28,6 +28,9 @@ noremap <Down> <Nop>
 noremap <Left> <Nop>
 noremap <Right> <Nop>
 
+" NERDtree
+map <c-n> :NERDTreeToggle<CR>
+
 " vim-plug
 " Specify a directory for plugins
 " - For Neovim: ~/.local/share/nvim/plugged
