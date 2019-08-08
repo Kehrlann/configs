@@ -3,4 +3,4 @@
 NAMESPACE=$1
 OPTIONS="--namespace $1"
 if [ -z $NAMESPACE ]; then OPTIONS="--all-namespaces"; fi
-watch -n 1 kubectl get pods,deployments "$OPTIONS"
+watch -n 1 kubectl get pods,deployments,services "$OPTIONS"
