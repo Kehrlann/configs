@@ -29,7 +29,8 @@ noremap <Left> <Nop>
 noremap <Right> <Nop>
 
 " NERDtree
-map <c-n> :NERDTreeToggle<CR>
+map \ :NERDTreeToggle<CR>
+map \| :NERDTreeFind<CR>
 
 " vim-plug
 " Specify a directory for plugins
