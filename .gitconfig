@@ -22,7 +22,7 @@
     unstage = reset HEAD
 ; stats : https://github.com/arzzen/git-quick-stats
     stats = ! ~/bin/git-quick-stats
+    please = push --force-with-lease
 
 [rebase]
     autosquash = true
-
