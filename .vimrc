@@ -47,3 +47,6 @@ Plug 'ctrlpvim/ctrlp.vim'
 
 " Initialize plugin system
 call plug#end()
+
+" HTML tag matching with %
+runtime macros/matchit.vim
