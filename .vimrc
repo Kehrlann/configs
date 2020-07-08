@@ -44,6 +44,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'scrooloose/nerdtree'
 Plug 'tpope/vim-surround'
 Plug 'ctrlpvim/ctrlp.vim'
+Plug 'tpope/vim-repeat'
 
 " Initialize plugin system
 call plug#end()
