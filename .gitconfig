@@ -11,7 +11,7 @@
     st = status
     di = diff
     co = checkout
-    ci = commit 
+    ci = duet-commit
     br = branch
     sta = stash
     lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
@@ -23,6 +23,7 @@
 ; stats : https://github.com/arzzen/git-quick-stats
     stats = ! ~/bin/git-quick-stats
     please = push --force-with-lease
+    pff = pull --ff-only
 
 [rebase]
     autosquash = true
