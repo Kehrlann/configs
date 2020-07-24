@@ -6,6 +6,9 @@ STATE_FILE="$SCRIPT_DIR/ping-state.txt"
 GREEN=🟩
 YELLOW=🟨
 RED=🟥
+NUMBER_OF_CHARS=4
+CHAR_SIZE=4
+SIZE=$(($NUMBER_OF_CHARS*$CHAR_SIZE))
 
 # touch the statefile ; in case it doesn't exist
 touch "$STATE_FILE"
@@ -19,8 +22,8 @@ fi
 
 # Load previous state
 PREVIOUS_STATE=$(cat $STATE_FILE)
-if [[ ${#PREVIOUS_STATE} -gt 12 ]]; then
-  PREVIOUS_STATE=${PREVIOUS_STATE:4}
+if [[ ${#PREVIOUS_STATE} -gt $SIZE ]]; then
+  PREVIOUS_STATE=${PREVIOUS_STATE:$CHAR_SIZE}
 fi
 
 # Compute new state
