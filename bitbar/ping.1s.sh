@@ -2,7 +2,8 @@
 
 
 SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
-STATE_FILE="$SCRIPT_DIR/ping-state.txt"
+STATE_DIR="$SCRIPT_DIR/ping-state"
+STATE_FILE="$STATE_DIR/state.txt"
 GREEN=🟩
 YELLOW=🟨
 RED=🟥
@@ -10,7 +11,8 @@ NUMBER_OF_CHARS=4
 CHAR_SIZE=4
 SIZE=$(($NUMBER_OF_CHARS*$CHAR_SIZE))
 
-# touch the statefile ; in case it doesn't exist
+# Create folders and files in case they don't exist
+mkdir -p "$STATE_DIR"
 touch "$STATE_FILE"
 
 # Ping google
