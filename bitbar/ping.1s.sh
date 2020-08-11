@@ -16,7 +16,7 @@ mkdir -p "$STATE_DIR"
 touch "$STATE_FILE"
 
 # Ping google
-PING_RESULT=$(ping -c 1 -n -q google.com 2>/dev/null)
+PING_RESULT=$(ping -W 1 -c 1 -n -q google.com 2>/dev/null)
 PING=1000
 if [[ ! -z $PING_RESULT ]]; then
   PING=$(echo "$PING_RESULT" | awk -F '/' 'END {printf "%.0f\n", $5}')
