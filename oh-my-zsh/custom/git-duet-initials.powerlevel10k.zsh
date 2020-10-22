@@ -1,3 +1,5 @@
+export GIT_DUET_ROTATE_AUTHOR=1
+
 ################################################################
 # Git-duet: Support for committer/author pair in git
 # see: https://github.com/git-duet/git-duet
