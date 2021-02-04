@@ -27,6 +27,6 @@ fi
 
 STORY_ID=$(echo "$API_RESULT" | jq ".[0].id")
 STORY_NAME=$(echo "$API_RESULT" | jq -r ".[0].name")
-echo "$STORY_ID" > "$FILE"
+echo "[#$STORY_ID]" > "$FILE"
 echo "# $STORY_NAME" >> "$FILE"
 echo "👍 Current story set to: [#$STORY_ID] $STORY_NAME"
