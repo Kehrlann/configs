@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+
+set -ue
+
+DIR="$HOME/.config/sso4k8s"
+FILE="$DIR/current_story.txt"
+
+mkdir -p "$DIR"
+
+AUTH_HEADER="X-TrackerToken: $PIVOTAL_TRACKER_TOKEN"
+BASE_URL="https://www.pivotaltracker.com/services/v5/projects/$PIVOTAL_TRACKER_PROJECT_ID/stories"
+FILTER="?filter=owner%3A%22$PIVOTAL_TRACKER_USER_INITIALS%22%20state%3Astarted"
+URL="$BASE_URL$FILTER"
+
+if ! API_RESULT=$(curl -X GET -H "$AUTH_HEADER" "$URL" 2>/dev/null); then
+  echo "🤦 Failed getting a result from the Tracker API"
+  exit 1
+fi
+
+NUMBER_RESULTS=$(echo "$API_RESULT" | jq '. | length')
+if [[ $NUMBER_RESULTS -gt 1 ]]; then
+  echo "😱 Too many open stories in your name: $NUMBER_RESULTS stories!"
+  echo "Deleting current_story.txt"
+  rm "$FILE"
+  exit 2
+fi
+
+STORY_ID=$(echo "$API_RESULT" | jq ".[0].id")
+STORY_NAME=$(echo "$API_RESULT" | jq -r ".[0].name")
+echo "$STORY_ID" > "$FILE"
+echo "$STORY_NAME" >> "$FILE"
+echo "👍 Current story set to: [#$STORY_ID] $STORY_NAME"
