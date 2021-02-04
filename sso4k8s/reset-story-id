@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+rm "$HOME/.config/sso4k8s/current_story.txt" 2>/dev/null || true
+echo "👋 Removed current_story.txt"
