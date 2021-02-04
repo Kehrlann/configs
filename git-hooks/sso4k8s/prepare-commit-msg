@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+
+set -ue
+
+COMMIT_MSG_FILE=$1
+CURRENT_COMMIT_MSG=$(cat "$COMMIT_MSG_FILE")
+COMMIT_SOURCE=${2:-commit}
+CURRENT_STORY_FILE="$HOME/.config/sso4k8s/current_story.txt"
+
+if [[ ! -f "$CURRENT_STORY_FILE" ]]; then
+  # no current story file...
+  exit 0
+fi
+
+OPTIONAL_NEWLINE=""
+HAS_SIGNED_OFF_BY=false
+if grep "Signed-off-by" "$COMMIT_MSG_FILE"; then
+  HAS_SIGNED_OFF_BY=true
+fi
+
+if [[ "$COMMIT_SOURCE" == commit ]]; then
+  STORY_ID=$(cat "$CURRENT_STORY_FILE")
+  OPTIONAL_NEWLINE=""
+  if [[ "$HAS_SIGNED_OFF_BY" == false ]]; then
+    OPTIONAL_NEWLINE="\n"
+  fi
+  echo -e "\n\n$STORY_ID$OPTIONAL_NEWLINE$CURRENT_COMMIT_MSG" > "$COMMIT_MSG_FILE"
+elif [[ "$COMMIT_SOURCE" == message ]]; then
+  STORY_ID=$(head -n 1 "$CURRENT_STORY_FILE")
+  if [[ "$HAS_SIGNED_OFF_BY" == true ]]; then
+    gsed -i -z "s/Signed-off-by: \(.*\)/${STORY_ID}\n\nSigned-off-by: \1/" "$COMMIT_MSG_FILE"
+  else
+    echo -e "$CURRENT_COMMIT_MSG\n\n$STORY_ID" > "$COMMIT_MSG_FILE"
+  fi
+fi
