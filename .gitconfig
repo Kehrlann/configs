@@ -31,3 +31,6 @@
 	defaultBranch = main
 [pull]
 	ff = only
+[pager]
+  branch = false
+  stash = false
