@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+terminal-notifier -sound default -message "🔔 $*" -ignoreDnD
