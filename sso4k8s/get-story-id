@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+STORY_FILE="$HOME/.config/sso4k8s/current_story.txt"
+
+if [[ -f "$STORY_FILE" ]]; then
+  cat $STORY_FILE
+else
+  echo "😶 No story id set"
+  echo "Try set-story-id !"
+  exit 1
+fi
