@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+
+set -ue
+
+PENDING="Some checks are still pending"
+SUCCESS="All checks were successful"
+FAILURE="Some checks were not successful"
+
+ATTEMPT=1
+
+while [[ $ATTEMPT -le 8 ]]; do
+  echo -e "Checking PR, attempt #$ATTEMPT\n"
+  set +e
+  RESULT=$(unbuffer gh pr checks "$1")
+  set -e
+  echo "$RESULT"
+  echo -e "\n\n"
+
+  if `echo "$RESULT" | grep --ignore-case --silent "$SUCCESS"`; then
+    terminal-notifier -sound default -title "Success!" -message "🎉 PR built successfully!" -ignoreDnD
+    exit 0
+  elif `echo "$RESULT" | grep --ignore-case --silent "$FAILURE"`; then
+    terminal-notifier -sound default -title "Failure..." -message "😢 Some checks failed..." -ignoreDnD -open "$1"
+    exit 1
+  fi
+
+  sleep 60
+  ATTEMPT=$(($ATTEMPT-1))
+done
+
+terminal-notifier -sound default -title "Timeout..." -message "⏰ PR timed out, still in progress" -ignoreDnD -open "$1" 
+exit 2
