@@ -8,7 +8,7 @@ FAILURE="Some checks were not successful"
 
 ATTEMPT=1
 
-while [[ $ATTEMPT -le 8 ]]; do
+while [[ $ATTEMPT -le 10 ]]; do
   echo -e "Checking PR, attempt #$ATTEMPT\n"
   set +e
   RESULT=$(unbuffer gh pr checks "$1")
