@@ -25,7 +25,7 @@ while [[ $ATTEMPT -le 8 ]]; do
   fi
 
   sleep 60
-  ATTEMPT=$(($ATTEMPT-1))
+  ATTEMPT=$(($ATTEMPT+1))
 done
 
 terminal-notifier -sound default -title "Timeout..." -message "⏰ PR timed out, still in progress" -ignoreDnD -open "$1" 
