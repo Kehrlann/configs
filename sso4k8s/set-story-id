@@ -12,6 +12,7 @@ BASE_URL="https://www.pivotaltracker.com/services/v5/projects/$PIVOTAL_TRACKER_P
 
 STORY_ID=${1:-""}
 if [[ -n $STORY_ID ]]; then
+  STORY_ID=$(echo "$STORY_ID" | sed "s/\(https:\/\/www.pivotaltracker.com\/story\/show\/\)\{0,1\}\([0-9]*\)/\2/")
   FILTER="filter=id%3A$STORY_ID"
 else
   FILTER="filter=owner%3A%22$PIVOTAL_TRACKER_USER_INITIALS%22%20state%3Astarted"
