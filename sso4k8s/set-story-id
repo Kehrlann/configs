@@ -26,6 +26,9 @@ fi
 NUMBER_RESULTS=$(echo "$API_RESULT" | jq '. | length')
 if [[ $NUMBER_RESULTS -gt 1 ]]; then
   echo "😱 Too many open stories in your name: $NUMBER_RESULTS stories!"
+  echo "---"
+  echo "$API_RESULT" | jq -r '.[] | ["📎", (.id|tostring), "-", .name] | join(" ")'
+  echo "---"
   echo "Deleting current_story.txt"
   rm "$FILE" 2>/dev/null || true
   exit 2
