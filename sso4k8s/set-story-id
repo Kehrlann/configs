@@ -24,7 +24,12 @@ if ! API_RESULT=$(curl -X GET -H "$AUTH_HEADER" "$BASE_URL?$FILTER" 2>/dev/null)
 fi
 
 NUMBER_RESULTS=$(echo "$API_RESULT" | jq '. | length')
-if [[ $NUMBER_RESULTS -gt 1 ]]; then
+if [[ $NUMBER_RESULTS -eq 0 ]]; then
+  echo "📭 No open stories in your name!"
+  echo "Deleting current_story.txt"
+  rm "$FILE" 2>/dev/null || true
+  exit 2
+elif [[ $NUMBER_RESULTS -gt 1 ]]; then
   echo "😱 Too many open stories in your name: $NUMBER_RESULTS stories!"
   echo "---"
   echo "$API_RESULT" | jq -r '.[] | ["📎", (.id|tostring), "-", .name] | join(" ")'
