@@ -1,4 +1,5 @@
 set number
+set ruler
 set history=1000
 
 " Search
@@ -51,3 +52,6 @@ call plug#end()
 
 " HTML tag matching with %
 runtime macros/matchit.vim
+
+" ctrl-p: show hidden
+let g:ctrlp_show_hidden = 1
