@@ -2,6 +2,11 @@ set number
 set ruler
 set history=1000
 
+" Width = 100
+set textwidth=100
+set colorcolumn=+0
+set cursorcolumn
+
 " Search
 set incsearch
 set hlsearch
