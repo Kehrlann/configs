@@ -1,0 +1,10 @@
+name: default
+root: ~/
+
+windows:
+  - sso4k8s:
+      root: ~/workspace/sso/sso4k8s
+  - k9s:
+      panes:
+        - kubectx kind-kind && k9s
+  - misc: {}
