@@ -1,5 +1,37 @@
 # Configuration for Alacritty, the GPU enhanced terminal emulator.
 
+import:
+  #- .alacritty-colorscheme/themes/iterm.yaml
+  #- .alacritty-colorscheme/themes/thelovelace.yaml
+  #- .alacritty-colorscheme/themes/dracula.yaml
+  #- .alacritty-colorscheme/themes/papercolor_light.yaml
+  - .alacritty-colorscheme/themes/Cobalt2.yaml
+
+colors:
+  primary:
+    foreground: '#ededed'
+    background: '#121e28'
+
+  cursor:
+    cursor: "#ff6868"
+
+  normal:
+    red: '#cc2020'
+    #indexed_colors: []
+
+hints:
+  enabled:
+    - regex: "http(s)?://[^\\s]*"
+      hyperlinks: true
+      command: open
+      mouse:
+        enabled: true
+
+font:
+  normal:
+    family: MesloLGS NF
+  size: 15.0
+
 # Import additional configuration files
 #
 # Imports are loaded in order, skipping all missing files, with the importing
@@ -110,16 +142,16 @@
   #multiplier: 3
 
 # Font configuration
-font:
+#font:
   # Normal (roman) font face
-  normal:
+  #normal:
     # Font family
     #
     # Default:
     #   - (macOS) Menlo
     #   - (Linux/BSD) monospace
     #   - (Windows) Consolas
-    family: MesloLGS NF
+    #family: MesloLGS NF
 
     # The `style` can be specified to pick a specific face.
     #style: Regular
@@ -158,7 +190,7 @@ font:
     #style: Bold Italic
 
   # Point size
-  size: 15.0
+  #size: 15.0
 
   # Offset is the extra space around each character. `offset.y` can be thought
   # of as modifying the line spacing, and `offset.x` as modifying the letter
@@ -185,7 +217,7 @@ font:
 #draw_bold_text_with_bright_colors: false
 
 # Colors (Tomorrow Night)
-colors:
+#colors:
   # Default colors
   #primary:
   #  background: '#1d1f21'
@@ -206,10 +238,10 @@ colors:
   #
   # Allowed values are CellForeground/CellBackground, which reference the
   # affected cell, or hexadecimal colors like #ff00ff.
-  cursor:
+  #  cursor:
   #  text: CellBackground
   #  cursor: CellForeground
-    cursor: "#ff6868"
+  #  cursor: "#ff6868"
 
   # Vi mode cursor colors
   #
