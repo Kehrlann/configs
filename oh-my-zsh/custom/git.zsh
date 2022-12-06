@@ -10,3 +10,5 @@ function prompt_git_duet() {
     p10k segment -f 15 -t "$GIT_DUET_INITIALS"
   fi
 }
+
+# To include in powerlevel10k, add "git_duet" to POWERLEVEL9k_LEFT_PROMPT_ELEMENTS in ~/.p10k.zsh
