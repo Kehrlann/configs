@@ -1,7 +1,7 @@
 ; This is a trimmed-down version of the config we use at Pivotal
 ; It's pretty cool !
 [core]
-    editor = vim
+    editor = nvim
 
 [user]
     name = Daniel Garnier-Moiroux
