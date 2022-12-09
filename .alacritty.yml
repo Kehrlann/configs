@@ -5,19 +5,26 @@ import:
   #- .alacritty-colorscheme/themes/thelovelace.yaml
   #- .alacritty-colorscheme/themes/dracula.yaml
   #- .alacritty-colorscheme/themes/papercolor_light.yaml
-  - .alacritty-colorscheme/themes/Cobalt2.yaml
+  #- .alacritty-colorscheme/themes/Cobalt2.yaml
+  - /Users/dgarnier/.config/alacritty/catppuccin/catppuccin-mocha.yml
+  #- ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml
+  #- ~/.config/alacritty/catppuccin/catppuccin-frappe.yml
+  #- ~/.config/alacritty/catppuccin/catppuccin-latte.yml
+
+env:
+  TERM: xterm-256color
 
 colors:
-  primary:
-    foreground: '#ededed'
-    background: '#121e28'
+# primary:
+#   foreground: '#ededed'
+#   background: '#121e28'
 
   cursor:
     cursor: "#ff6868"
 
-  normal:
-    red: '#cc2020'
-    #indexed_colors: []
+# normal:
+#   red: '#cc2020'
+#   indexed_colors: []
 
 hints:
   enabled:
@@ -31,6 +38,11 @@ font:
   normal:
     family: MesloLGS NF
   size: 15.0
+
+key_bindings:
+  - { key: Key0,           mods: Command,                    action: ResetFontSize         }
+  - { key: Equals,         mods: Command,                    action: IncreaseFontSize      }
+  - { key: Minus,          mods: Command,                    action: DecreaseFontSize      }
 
 # Import additional configuration files
 #
