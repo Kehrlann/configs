@@ -42,7 +42,7 @@ map \| :NERDTreeFind<CR>
 " Specify a directory for plugins
 " - For Neovim: ~/.local/share/nvim/plugged
 " - Avoid using standard Vim directory names like 'plugin'
-call plug#begin('~/.vim/plugged')
+call plug#begin('~/.config/nvim/plugged')
 
 " Make sure you use single quotes
 
@@ -62,7 +62,6 @@ runtime macros/matchit.vim
 " ctrl-p: show hidden
 let g:ctrlp_show_hidden = 1
 
-"set background=dark
 set termguicolors
 colorscheme catppuccin_mocha
 "colorscheme catppuccin_latte
