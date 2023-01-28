@@ -1,0 +1,15 @@
+name: tile
+
+windows:
+  - broker:
+      root: ~/workspace/sso/identity-service-broker-release
+      panes:
+        - ssh-load && git pull --ff-only && git fetch --prune
+  - ci:
+      root: ~/workspace/sso/identity-service-ci
+      panes:
+        - ssh-load && git pull --ff-only && git fetch --prune
+  - toolsmiths:
+      root: ~/workspace/sso/tile-toolsmiths
+      panes:
+        - ssh-load && git pull --ff-only && git fetch --prune
