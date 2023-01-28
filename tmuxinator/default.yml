@@ -2,10 +2,11 @@ name: default
 root: ~/workspace/sso/sso4k8s
 
 windows:
-  - sso4k8s: {}
+  - sso4k8s:
+      panes:
+      - ssh-load && git pull --ff-only && git fetch --prune
   - k9s:
       layout: even-horizontal
       panes:
-        - kubectx kind-kind && k9s
-        - ponysay 'Hello there!'
+        - kubectx kind-kind
   - misc: {}
