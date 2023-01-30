@@ -64,5 +64,7 @@ runtime macros/matchit.vim
 let g:ctrlp_show_hidden = 1
 
 set termguicolors
-colorscheme catppuccin_mocha
+"colorscheme catppuccin_mocha
+colorscheme catppuccin_macchiato
+"colorscheme catppuccin_frappe
 "colorscheme catppuccin_latte

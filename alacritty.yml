@@ -31,8 +31,8 @@ hints:
         enabled: true
 
 font:
-  normal:
-    family: MesloLGS NF
+  #normal:
+  #  family: MesloLGS NF
   size: 15.0
 
 window:
