@@ -4,13 +4,43 @@
 # Inserts a blank line between shell prompts
 add_newline = false
 
-format = "$all${custom.git-duet}$fill$time$line_break$character"
+
+format = """
+$directory\
+$java\
+$nodejs\
+$kubernetes\
+$git_branch\
+$git_commit\
+$git_status\
+$git_state\
+${custom.git-duet}\
+$cmd_duration\
+$fill\
+$time\
+$line_break\
+$character"""
+
+[directory]
+truncation_length = 5
+truncate_to_repo = false
+truncation_symbol = "…/"
 
 [time]
 disabled = false
 
 [fill]
 symbol = " "
+
+[kubernetes]
+disabled = false
+
+[java]
+detect_files = ['pom.xml', 'build.gradle.kts', 'build.sbt', '.java-version', 'deps.edn', 'project.clj', 'build.boot', 'build.gradle', 'settings.gradle', 'settings.gradle.kts']
+symbol = '☕️'
+
+[git_status]
+disabled = false
 
 [custom.git-duet]
 when = "git-change"
