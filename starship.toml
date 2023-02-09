@@ -21,6 +21,10 @@ $time\
 $line_break\
 $character"""
 
+[cmd_duration]
+format = '[$duration]($style)'
+min_time=10_000
+
 [directory]
 truncation_length = 5
 truncate_to_repo = false
@@ -28,20 +32,35 @@ truncation_symbol = "…/"
 
 [time]
 disabled = false
+format = '[$time]($style)'
 
 [fill]
 symbol = " "
 
 [kubernetes]
 disabled = false
+format = '[$symbol$context]($style) '
+style = 'blue'
 
 [java]
+format = '[${symbol}(${version})]($style) '
 detect_files = ['pom.xml', 'build.gradle.kts', 'build.sbt', '.java-version', 'deps.edn', 'project.clj', 'build.boot', 'build.gradle', 'settings.gradle', 'settings.gradle.kts']
 symbol = '☕️'
+version_format = '${major}'
+
+[nodejs]
+format = '[$symbol$version]($style) '
+style = 'green'
+version_format = '${major}'
 
 [git_status]
 disabled = false
 
+[git_branch]
+format = '[$symbol$branch(:$remote_branch)]($style) '
+style = 'purple'
+
 [custom.git-duet]
 when = "git-change"
 command = "git-initials"
+style = 'white'
