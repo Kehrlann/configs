@@ -1,0 +1,26 @@
+#!/usr/bin/env zsh
+
+set -euo pipefail
+
+SAVEIFS=$IFS
+IFS=$'\n'
+BUILD_INFO=($(fly -t runway builds --current-team | grep started))
+IFS=$SAVEIFS
+
+if [[ ${#BUILD_INFO[@]} == 1 ]]; then
+  BUILD_ID=$(echo "${BUILD_INFO[1]}" | awk '{ print $1; }')
+else
+  echo "~~~"
+  i=1
+  for line in "${BUILD_INFO[@]}"; do
+    formatted_line=$(echo $line | awk '{ print $2 " .. " $4; }')
+    printf "%s - %s\n" "$i" "$formatted_line"
+    i=$((i + 1))
+  done
+  echo "~~~"
+  echo -n "Select build: "
+  read selection
+  BUILD_ID=$(echo "${BUILD_INFO[$selection]}" | awk '{ print $1; }')
+fi
+
+fly -t runway watch --build "$BUILD_ID" ; notify
