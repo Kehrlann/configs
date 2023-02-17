@@ -7,20 +7,21 @@ _lazy_load_nvm() {
 
 node() {
   _lazy_load_nvm
-  node $@
+  node "$@"
 }
 
 nvm() {
   _lazy_load_nvm
-  nvm $@
+  nvm "$@"
 }
 
 npm() {
   _lazy_load_nvm
-  npm $@
+  npm "$@"
 }
 
 npx() {
   _lazy_load_nvm
-  npx $@
+  npx "$@"
 }
+

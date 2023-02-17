@@ -1,0 +1,5 @@
+export PATH="$HOME/bin:$PATH"
+export PATH="$HOME/workspace/go/bin:$PATH"
+export PATH="/opt/homebrew/opt/make/libexec/gnubin:$PATH"
+export PATH="$GEM_HOME/bin:$PATH"
+export PATH="/opt/homebrew/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/bin:$PATH"
