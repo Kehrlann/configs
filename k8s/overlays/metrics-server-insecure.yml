@@ -1,0 +1,14 @@
+#@ load("@ytt:overlay", "overlay")
+
+#@overlay/match by=overlay.subset({"kind":"Deployment"})
+---
+spec:
+  template:
+    spec:
+      containers:
+        #@overlay/match by=overlay.all, missing_ok=True
+        - args:
+          #@overlay/match missing_ok=True
+          #@overlay/append
+          - --kubelet-insecure-tls
+
