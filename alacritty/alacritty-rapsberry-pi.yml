@@ -1,0 +1,10 @@
+# Configuration for Alacritty, the GPU enhanced terminal emulator.
+
+import:
+  - .config/alacritty/catppuccin/catppuccin-mocha.yml
+  - .config/alacritty/common.yml
+
+font:
+  normal:
+    family: UbuntuMono Nerd Font
+  size: 14.0
