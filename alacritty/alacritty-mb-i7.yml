@@ -1,0 +1,14 @@
+# Configuration for Alacritty, the GPU enhanced terminal emulator.
+# Last login: 1670574777
+
+import:
+  #- .config/alacritty/catppuccin/catppuccin-mocha.yml
+  - .config/alacritty/catppuccin/catppuccin-macchiato.yml
+  #- .config/alacritty/catppuccin/catppuccin-frappe.yml
+  #- .config/alacritty/catppuccin/catppuccin-latte.yml
+  - .config/alacritty/common.yml
+
+font:
+  normal:
+    family: MesloLGS Nerd Font
+  size: 15.0
