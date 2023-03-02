@@ -1,0 +1,13 @@
+# Configuration for Alacritty, the GPU enhanced terminal emulator.
+
+import:
+  #- .config/alacritty/catppuccin/catppuccin-mocha.yml
+  - .config/alacritty/catppuccin/catppuccin-macchiato.yml
+  #- .config/alacritty/catppuccin/catppuccin-frappe.yml
+  #- .config/alacritty/catppuccin/catppuccin-latte.yml
+  - .config/alacritty/common.yml
+
+font:
+  #normal:
+  family: Courier New
+  size: 15.0
