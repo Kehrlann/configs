@@ -1,0 +1,1 @@
+/home/daniel/workspace/github/kehrlann/configs/oh-my-zsh/custom/common/common-aliases.zsh

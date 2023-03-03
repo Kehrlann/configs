@@ -1,0 +1,1 @@
+alias pe="pet exec"
