@@ -41,6 +41,12 @@ symbol = " "
 disabled = false
 format = '[$symbol$context]($style) '
 style = 'blue'
+[kubernetes.context_aliases]
+# Contexts from GKE, AWS and other cloud providers usually carry additional information, like the region/zone.
+# The following entry matches on the GKE format (`gke_projectname_zone_cluster-name`)
+# and renames every matching kube context into a more readable format (`gke-cluster-name`):
+'gke_.*_(?P<var_cluster>[\w-]+)' = '$var_cluster'
+
 
 [java]
 format = '[${symbol}(${version})]($style) '
