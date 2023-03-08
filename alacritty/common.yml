@@ -30,3 +30,5 @@ key_bindings:
   - { key: Left,           mods: Alt,                        chars: "\x1BB"                }
   - { key: Right,          mods: Alt,                        chars: "\x1BF"                }
   - { key: N,              mods: Command,                    action: CreateNewWindow       }
+  - { key: Q,              mods: Command,                    action: None                  }
+  - { key: W,              mods: Command,                    action: None                  }
