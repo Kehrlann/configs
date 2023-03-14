@@ -8,6 +8,6 @@ import:
   - .config/alacritty/common.yml
 
 font:
-  #normal:
-  family: Courier New
+  normal:
+    family: MesloLGS Nerd Font
   size: 15.0
