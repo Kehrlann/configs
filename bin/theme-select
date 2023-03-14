@@ -1,0 +1,29 @@
+#!/usr/bin/env zsh
+
+set -euo pipefail
+
+THEME="$1"
+
+# alacritty
+ALACRITTY_SOURCE=$(ls -l "$HOME/.config/alacritty/source.yml" | sed 's/^.*-> //g')
+ALACRITTY="$HOME/.config/alacritty/alacritty.yml"
+# Comment current theme
+sed -i "" -e 's/^  \(- .*catppuccin-.*\.yml\)/  #\1/' "$ALACRITTY_SOURCE"
+# Uncomment target theme
+sed -i "" -e "s/^  #\\(- .*catppuccin-$THEME\\.yml\\)/  \1/" "$ALACRITTY_SOURCE"
+# Copy config so that alacritty picks it up
+cp "$ALACRITTY_SOURCE" "$ALACRITTY"
+
+# neovim
+NVIM=$(ls -l "$HOME/.config/nvim/init.vim" | sed 's/^.*-> //g')
+# Comment current theme
+sed  -i "" -e 's/^\(colorscheme.*\)/\"\1/' "$NVIM"
+# Uncomment target theme
+sed  -i "" -e "s/^\"\\(colorscheme catppuccin_$THEME\\)/\\1/" "$NVIM"
+
+# tmux
+TMUX=$(ls -l "$HOME/.tmux.conf" | sed "s/^.*-> //g")
+# Comment current theme
+sed  -i "" -e 's/^\(set -g @catppuccin_flavour\.*\)/\#\1/' "$TMUX"
+# Uncomment target theme
+sed  -i "" -e "s/^#\\(set -g @catppuccin_flavour '$THEME'\\)/\\1/" "$TMUX"
