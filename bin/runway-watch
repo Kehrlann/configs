@@ -4,6 +4,13 @@ set -euo pipefail
 
 SAVEIFS=$IFS
 IFS=$'\n'
+
+# Ensure log-in
+echo "~~~ Ensuring you are logged in ..."
+if ! fly -t runway status; then
+  fly -t runway login
+fi
+
 BUILD_INFO=($(fly -t runway builds --current-team | grep started))
 IFS=$SAVEIFS
 
