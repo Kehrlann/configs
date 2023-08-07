@@ -36,3 +36,6 @@
 [pager]
   branch = false
   stash = false
+
+[url "git@gitlab.eng.vmware.com:services-control-plane/resource-claims.git"]
+  insteadOf = "https://gitlab.eng.vmware.com/services-control-plane/resource-claims.git"
