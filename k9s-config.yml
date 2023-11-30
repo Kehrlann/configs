@@ -1,0 +1,75 @@
+k9s:
+  liveViewAutoRefresh: false
+  refreshRate: 2
+  maxConnRetry: 5
+  enableMouse: false
+  headless: false
+  logoless: false
+  crumbsless: false
+  readOnly: false
+  noExitOnCtrlC: false
+  noIcons: false
+  skipLatestRevCheck: false
+  logger:
+    tail: 100
+    buffer: 5000
+    sinceSeconds: 60
+    fullScreenLogs: false
+    textWrap: false
+    showTime: false
+  currentContext: gke_cf-identity-service-oak_europe-west9-a_daniel
+  currentCluster: gke_cf-identity-service-oak_europe-west9-a_daniel
+  clusters:
+    gke_cf-identity-service-oak_europe-west9-a_daniel:
+      namespace:
+        active: workloads
+        lockFavorites: false
+        favorites:
+        - workloads
+        - all
+        - default
+      view:
+        active: cwrc
+      featureGates:
+        nodeShell: false
+      shellPod:
+        image: busybox:1.35.0
+        command: []
+        args: []
+        namespace: default
+        limits:
+          cpu: 100m
+          memory: 100Mi
+        labels: {}
+      portForwardAddress: localhost
+    tap-sandbox:
+      namespace:
+        active: apps
+        lockFavorites: false
+        favorites:
+        - tap-install
+        - all
+        - apps
+        - default
+      view:
+        active: apps
+      featureGates:
+        nodeShell: false
+      shellPod:
+        image: busybox:1.35.0
+        command: []
+        args: []
+        namespace: default
+        limits:
+          cpu: 100m
+          memory: 100Mi
+        labels: {}
+      portForwardAddress: localhost
+  thresholds:
+    cpu:
+      critical: 90
+      warn: 70
+    memory:
+      critical: 90
+      warn: 70
+  screenDumpDir: /var/folders/g7/jx27y6fs23lc1wdwn89r7pfc0000gq/T/k9s-screens-dgarnier
