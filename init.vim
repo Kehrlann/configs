@@ -53,6 +53,8 @@ Plug 'tpope/vim-surround'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'tpope/vim-repeat'
 Plug 'catppuccin/vim', { 'as': 'catppuccin', 'branch': 'main'}
+Plug 'cappyzawa/starlark.vim'
+Plug 'vmware-tanzu/ytt.vim'
 
 " Initialize plugin system
 call plug#end()
@@ -63,8 +65,23 @@ runtime macros/matchit.vim
 " ctrl-p: show hidden
 let g:ctrlp_show_hidden = 1
 
+
 set termguicolors
 "colorscheme catppuccin_mocha
 colorscheme catppuccin_macchiato
 "colorscheme catppuccin_frappe
 "colorscheme catppuccin_latte
+" plugin code is here
+
+function! WrapYttEnable()
+    call ytt#enable()
+    highlight yttStatement guifg=#A57CFF
+endfunction
+
+command! -bar YttOn call WrapYttEnable()
+command! -bar YttOff call ytt#disable()
+
+augroup filetypedetect
+    au BufRead,BufNew *.yml YttOn
+    au BufRead,BufNew *.yaml YttOn
+augroup END
