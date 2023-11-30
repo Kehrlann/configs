@@ -1,0 +1,4 @@
+#!/usr/bin/env zsh
+
+ARRAY=($(git config --get-regexp "^duet.env.git-.*-initials" 2>/dev/null | cut -d ' ' -f 2))
+IFS='+'; echo "${ARRAY[*]}"
