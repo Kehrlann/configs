@@ -1,0 +1,89 @@
+[[snippets]]
+  description = "OAuth2 Token request, client_credentials grant"
+  command = "curl -XPOST https://$ISSUER_URI/oauth2/token\\?grant_type\\=client_credentials -u \"$CLIENT_ID:$CLIENT_SECRET\" | jq"
+  tag = ["oauth2"]
+  output = ""
+
+[[snippets]]
+  description = "UAAC add redirect uris to Operator Dashboard"
+  command = "uaac client update sso-operator-dashboard --redirect_uri \"https://p-identity.sfo.identity.team/operator/**\",\"http://127.0.0.1:8003/operator/**\",\"http://localhost:8003/operator/**\""
+  tag = ["tile", "uaac"]
+  output = ""
+
+[[snippets]]
+  description = "Run go mod tidy in all go directories"
+  command = "for i in controller k8s-tests template-tests; do pushd \"$i\"; go mod tidy; popd; done"
+  tag = ["go", "mod", "tidy", "sso4k8s"]
+  output = ""
+
+[[snippets]]
+  description = "start daniels build vm"
+  command = "gcloud compute instances start --zone \"europe-west9-a\" \"daniel-build-vm\"  --project \"cf-identity-service-oak\""
+  tag = ["gcloud", "start"]
+  output = ""
+
+[[snippets]]
+  description = "stop daniels build vm"
+  command = "gcloud compute instances stop --zone \"europe-west9-a\" \"daniel-build-vm\"  --project \"cf-identity-service-oak\""
+  tag = ["gcloud", "stop"]
+  output = ""
+
+[[snippets]]
+  description = "ssh into daniels build VM"
+  command = "gcloud compute ssh --zone \"europe-west9-a\" \"daniel-build-vm\"  --project \"cf-identity-service-oak\" -- -R 2222:localhost:22"
+  tag = ["gcloud", "stop"]
+  output = ""
+
+[[snippets]]
+  description = "copy init script into daniels build vm"
+  command = "lpass show --notes sso4k8s/init-script.sh > ~/tmp/init.sh && gawk -i inplace '{sub(/\r$/,\"\")}1' ~/tmp/init.sh && gcloud compute scp --zone \"europe-west9-a\" --project \"cf-identity-service-oak\" ~/tmp/init.sh daniel-build-vm:~/ && rm ~/tmp/init.sh"
+  tag = ["gcloud", "copy", "init"]
+  output = ""
+
+[[snippets]]
+  description = "Gradle dependency insight"
+  command = "./gradlew :authserver:dependencyInsight --configuration runtimeClasspath --dependency DEPENDENCY"
+  tag = ["gradle"]
+  output = ""
+
+[[snippets]]
+  description = "update go dependencies"
+  command = "pushd controller && go mod tidy && popd && pushd k8s-tests && go mod tidy && popd"
+  tag = ["go", "mod", "tidy"]
+  output = ""
+
+[[snippets]]
+  description = "toolsmiths copy user password"
+  command = "jq -r \".credentials.user.password\" gcp/state/cf-credentials.json | pbcopy"
+  tag = ["toolsmiths", "tile", "copy", "password"]
+  output = ""
+
+[[snippets]]
+  description = "toolsmiths copy admin password"
+  command = "jq -r \".credentials.admin.password\" gcp/state/cf-credentials.json | pbcopy"
+  tag = ["toolsmiths", "tile", "copy", "password"]
+  output = ""
+
+[[snippets]]
+  description = "get dev k8s context"
+  command = "DOMAIN_NAME=dev.identity.team make gcp-cluster-get-context"
+  tag = ["sso", "sso4k8s", "gcp", "dev"]
+  output = ""
+
+[[snippets]]
+  description = "gcloud ssh"
+  command = "ssh-add ~/.ssh/google_compute_engine && GCLOUD_IP=$(gcloud compute instances list | grep daniel-build-vm | awk '{print $5}') && sudo ssh \"dgarnier@$GCLOUD_IP\" -L 443:localhost:443 -L 80:localhost:80"
+  tag = ["ssh"]
+  output = ""
+
+[[snippets]]
+  description = "kitty ssh"
+  command = "ssh-add ~/.ssh/google_compute_engine && GCLOUD_IP=$(gcloud compute instances list | grep daniel-build-vm | awk '{print $5}') && kitty +kitten ssh \"dgarnier@$GCLOUD_IP\""
+  tag = ["ssh", "kitty"]
+  output = ""
+
+
+[[snippets]]
+  description = "list cfp"
+  command = "http https://developers.events/all-cfps.json | jq \"[.[] | select(.untilDate > $(($(date +%s) * 1000)) )]\""
+  tag = ["cfp", "cfps"]
