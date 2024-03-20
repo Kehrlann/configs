@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+VM_NAME=daniel-build-vm
+
+ssh-add ~/.ssh/google_compute_engine
+GCLOUD_IP=$(gcloud compute instances list | grep "$VM_NAME" | awk '{print $5}')
+kitty +kitten ssh "dgarnier@${GCLOUD_IP}" $@
+
