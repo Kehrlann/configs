@@ -55,6 +55,7 @@ Plug 'tpope/vim-repeat'
 Plug 'catppuccin/vim', { 'as': 'catppuccin', 'branch': 'main'}
 Plug 'cappyzawa/starlark.vim'
 Plug 'vmware-tanzu/ytt.vim'
+Plug 'mikesmithgh/kitty-scrollback.nvim'
 
 " Initialize plugin system
 call plug#end()
