@@ -12,8 +12,7 @@ sed  -i "" -e 's/^\(colorscheme.*\)/\"\1/' "$NVIM"
 sed  -i "" -e "s/^\"\\(colorscheme catppuccin_$THEME\\)/\\1/" "$NVIM"
 
 # k9s
-rm "$HOME/.config/k9s/skin.yml"
-ln -s "$HOME/.config/k9s/catpuccin/dist/$THEME.yml" "$HOME/.config/k9s/skin.yml"
+sed  -i "" -e "s/catppuccin-.*\$/catppuccin-$THEME/" "$HOME/.config/k9s/config.yaml"
 
 # kitty
 kitty +kitten themes --reload-in=all "catppuccin-$THEME"
