@@ -23,9 +23,8 @@ get_time() {
 get_time_diff () {
     start="$1"
     end="$2"
-    nanoDigits="$3"
     seconds="$( echo "${end} ${start}" | awk '{printf "%f", $1 - $2}' )"
-    gdate -d@"${seconds}" -u +"%H:%M:%S.%${nanoDigits}N"
+    gdate -d@"${seconds}" -u +"%H:%M:%S"
 }
 
 normalFormat="$( echo -e '\e[0m' )"
@@ -52,15 +51,15 @@ while true; do
     if [[ "${c}" == ' ' || ( "${c}" == '*' && "${last}" != "${start}" ) ]]; then
         reset_line
         echo -n "Round ${nthFormat}$( printf '%2s' "${round}" )${normalFormat}, finished at: "
-        echo -n "${elapsedFormat}$( get_time_diff "${start}" "${time}" 3 )${normalFormat}"
+        echo -n "${elapsedFormat}$( get_time_diff "${start}" "${time}" )${normalFormat}"
         echo -n ' | round time: '
-        echo -n "${roundFormat}$( get_time_diff "${last}" "${time}" 3 )${normalFormat}"
+        echo -n "${roundFormat}$( get_time_diff "${last}" "${time}" )${normalFormat}"
         echo ''
         round="$( expr "${round}" + 1 )"
         last="${time}"
     elif [ "$c" = '*' ]; then
         reset_line
-        echo "Elapsed time: ${finalFormat}$( get_time_diff "${start}" "${time}" 3 )${normalFormat}"
+        echo "Elapsed time: ${finalFormat}$( get_time_diff "${start}" "${time}" )${normalFormat}"
         exit 0
     fi
     if [ "$c" = '*' ]; then
