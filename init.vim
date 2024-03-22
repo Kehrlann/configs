@@ -86,3 +86,9 @@ augroup filetypedetect
     au BufRead,BufNew *.yml YttOn
     au BufRead,BufNew *.yaml YttOn
 augroup END
+
+" Kitty scrollback pager
+lua require('kitty-scrollback').setup()
+
+" Ctrl-p same-dir lookup
+let g:ctrlp_working_path_mode = 'a'
