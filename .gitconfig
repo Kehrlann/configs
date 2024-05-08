@@ -1,7 +1,8 @@
 ; This is a trimmed-down version of the config we use at Pivotal
 ; It's pretty cool !
 [core]
-    editor = nvim
+  editor = nvim
+  pager = cat
 
 [user]
     name = Daniel Garnier-Moiroux
@@ -33,9 +34,7 @@
 	defaultBranch = main
 [pull]
 	ff = only
-[pager]
-  branch = false
-  stash = false
 
-[url "git@gitlab.eng.vmware.com:services-control-plane/resource-claims.git"]
-  insteadOf = "https://gitlab.eng.vmware.com/services-control-plane/resource-claims.git"
+
+[rerere]
+	enabled = true
