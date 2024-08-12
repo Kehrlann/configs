@@ -15,7 +15,7 @@ sed  -i "" -e "s/^\"\\(colorscheme catppuccin_$THEME\\)/\\1/" "$NVIM"
 sed  -i "" -e "s/catppuccin-.*\$/catppuccin-$THEME/" "$HOME/.config/k9s/config.yaml"
 
 # kitty
-kitty +kitten themes --reload-in=all "catppuccin-$THEME"
+kitty +kitten themes --reload-in=all --cache-age -1 "catppuccin-$THEME"
 
 # tmux
 # TMUX=$(ls -l "$HOME/.tmux.conf" | sed "s/^.*-> //g")
