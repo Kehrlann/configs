@@ -12,21 +12,21 @@
     st = status
     di = diff
     co = checkout
+    sw = switch
     ci = duet-commit
     cp = cherry-pick
     br = branch
-    sta = stash
     lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
     lol = log --graph --decorate --oneline
     lola = log --graph --decorate --oneline --all
-    blog = log origin/master... --left-right
-    ds = diff --staged
+    rbi = rebase --interactive --autosquash --autostash
     unstage = reset HEAD
 ; stats : https://github.com/arzzen/git-quick-stats
     stats = ! ~/bin/git-quick-stats
     please = push --force-with-lease
     pff = pull --ff-only
     fp = fetch -p
+    fu = duet-commit --fixup
 
 [rebase]
     autosquash = true
