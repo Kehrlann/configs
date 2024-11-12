@@ -1,7 +1,6 @@
 authors:
-  dg: Daniel Garnier-Moiroux; dgarnier
-  dgm: Daniel Garnier-Moiroux
-email:
-  domain: vmware.com
+  home: Daniel Garnier-Moiroux
+  work: Daniel Garnier-Moiroux
 email_addresses:
-  dgm: git@garnier.wf
+  home: git@garnier.wf
+  work: daniel.garnier-moiroux@broadcom.com
