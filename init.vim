@@ -68,8 +68,8 @@ let g:ctrlp_show_hidden = 1
 
 
 set termguicolors
-"colorscheme catppuccin_mocha
-colorscheme catppuccin_macchiato
+colorscheme catppuccin_mocha
+"colorscheme catppuccin_macchiato
 "colorscheme catppuccin_frappe
 "colorscheme catppuccin_latte
 " plugin code is here
@@ -92,3 +92,6 @@ lua require('kitty-scrollback').setup()
 
 " Ctrl-p same-dir lookup
 let g:ctrlp_working_path_mode = 'a'
+
+" clipboard?
+set clipboard=unnamedplus
