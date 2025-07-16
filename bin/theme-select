@@ -11,11 +11,15 @@ sed  -i "" -e 's/^\(colorscheme.*\)/\"\1/' "$NVIM"
 # Uncomment target theme
 sed  -i "" -e "s/^\"\\(colorscheme catppuccin_$THEME\\)/\\1/" "$NVIM"
 
-# k9s
-sed  -i "" -e "s/catppuccin-.*\$/catppuccin-$THEME/" "$HOME/.config/k9s/config.yaml"
+# ghostty
+sed  -i "" -e "s/catppuccin-.*\$/catppuccin-$THEME/" "$HOME/.config/ghostty/config"
+echo "Changed the theme in Ghostty, don't forget to reload the config with: ⌘+⇧+,"
 
 # kitty
-kitty +kitten themes --reload-in=all --cache-age -1 "catppuccin-$THEME"
+#kitty +kitten themes --reload-in=all --cache-age -1 "catppuccin-$THEME"
+
+# k9s
+# sed  -i "" -e "s/catppuccin-.*\$/catppuccin-$THEME/" "$HOME/.config/k9s/config.yaml"
 
 # tmux
 # TMUX=$(ls -l "$HOME/.tmux.conf" | sed "s/^.*-> //g")
