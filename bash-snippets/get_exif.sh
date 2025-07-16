@@ -10,8 +10,9 @@ function date_exif() {
   mdls $1 | grep "kMDItemContentCreationDate" | head -n1 | sed 's/.*= //g' | gdate +"%Y_%m_%d" -f -
 }
 
-mogrify -monitor -format jpg *.heic *.HEIC || true
-rm *.heic *.HEIC || true
+mdls -h
+magick mogrify -monitor -format jpg *.heic *.HEIC || true
+rm *.heic || true
 
 mkdir output
 

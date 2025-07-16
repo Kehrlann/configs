@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rss.xslt" ?>
+<rss
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:spotify="http://www.spotify.com/ns/rss"
+    xmlns:psc="http://podlove.org/simple-chapters/"
+    xmlns:media="https://search.yahoo.com/mrss/"
+    xmlns:podcast="https://podcastindex.org/namespace/1.0"
+    version="2.0">
+    <channel>
+        <title>Curieux de sciences</title>
+                    <link>https://podcast.ausha.co/curieux-de-science</link>
+                <atom:link rel="self" type="application/rss+xml" href="https://feed.ausha.co/Bqr2pcd8Aaqp"/>
+        <description>Curieux de sciences est un podcast du magazine jeunesse Images Doc, pour les enfants de 7 à 12 ans. Coproduit par Bayard Jeunesse et le Muséum national d’Histoire naturelle, il fait découvrir et aimer les sciences de la vie, de l’homme et de la Terre, en répondant à de vraies questions d’enfants : pourquoi les hommes préhistoriques dessinaient-ils des animaux ? Pourquoi les girafes ont-elles un long cou ? Ou encore : qui est apparu le premier, l’œuf ou la poule ? En dix épisodes d’une dizaine de
+minutes, les jeunes auditeurs de 7 à 12 ans suivent les petits curieux de sciences au Muséum national d’Histoire naturelle où ils rencontrent des chercheurs. 
+Cette nouvelle aventure sonore du magazine Images Doc, réalisée avec les élèves d’une classe de CM2, entraîne les enfants – et leurs proches – dans un univers fascinant, qui stimule leur imaginaire
+tout en leur dévoilant la rigueur et les surprises qui accompagnent la découverte scientifique. 
+
+Crédits : Ce podcast est co-produit par le magazine Images Doc (https://www.imagesdoc.com/) (Bayard Jeunesse) et le Muséum national d’Histoire naturelle. 
+Direction éditoriale : Bertrand Fichou. Comité scientifique du Muséum : Ronan Allain, Line Le Gall, Jean-Jacques Bahain. Directeur de production : Julien Moch. Journaliste et hoste : Grâce Leplat. Production exécutive : Billy the Cast. Réalisation : Benoît Laur. Musiques : Emmanuel Viau et Benoît Laur. Création visuelle : Fred Sochard, Evan-James Duvinage et Juliette Banquet. Productrice : Hélène Devannes. 
+Un podcast de Bayard Jeunesse 2022 - Droits réservés.  </description>
+        <language>fr</language>
+        <copyright>Bayard Presse</copyright>
+        <lastBuildDate>Wed, 27 Dec 2023 18:27:19 +0000</lastBuildDate>
+        <pubDate>Wed, 27 Dec 2023 18:27:19 +0000</pubDate>
+        <webMaster>feeds@ausha.co (Ausha)</webMaster>
+        <generator>Ausha (https://www.ausha.co)</generator>
+                    <spotify:countryOfOrigin>fr</spotify:countryOfOrigin>
+        
+        <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+        <itunes:owner>
+            <itunes:name>Bayard Presse</itunes:name>
+            <itunes:email>emmanuel.viau@groupebayard.com</itunes:email>
+        </itunes:owner>
+        <itunes:summary>Curieux de sciences est un podcast du magazine jeunesse Images Doc, pour les enfants de 7 à 12 ans. Coproduit par Bayard Jeunesse et le Muséum national d’Histoire naturelle, il fait découvrir et aimer les sciences de la vie, de l’homme et de la Terre, en répondant à de vraies questions d’enfants : pourquoi les hommes préhistoriques dessinaient-ils des animaux ? Pourquoi les girafes ont-elles un long cou ? Ou encore : qui est apparu le premier, l’œuf ou la poule ? En dix épisodes d’une dizaine de
+minutes, les jeunes auditeurs de 7 à 12 ans suivent les petits curieux de sciences au Muséum national d’Histoire naturelle où ils rencontrent des chercheurs. 
+Cette nouvelle aventure sonore du magazine Images Doc, réalisée avec les élèves d’une classe de CM2, entraîne les enfants – et leurs proches – dans un univers fascinant, qui stimule leur imaginaire
+tout en leur dévoilant la rigueur et les surprises qui accompagnent la découverte scientifique. 
+
+Crédits : Ce podcast est co-produit par le magazine Images Doc (https://www.imagesdoc.com/) (Bayard Jeunesse) et le Muséum national d’Histoire naturelle. 
+Direction éditoriale : Bertrand Fichou. Comité scientifique du Muséum : Ronan Allain, Line Le Gall, Jean-Jacques Bahain. Directeur de production : Julien Moch. Journaliste et hoste : Grâce Leplat. Production exécutive : Billy the Cast. Réalisation : Benoît Laur. Musiques : Emmanuel Viau et Benoît Laur. Création visuelle : Fred Sochard, Evan-James Duvinage et Juliette Banquet. Productrice : Hélène Devannes. 
+Un podcast de Bayard Jeunesse 2022 - Droits réservés.  </itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+        <podcast:block>no</podcast:block>
+        <podcast:locked>yes</podcast:locked>
+        <itunes:type>episodic</itunes:type>
+                    <itunes:subtitle>Pour faire découvrir et aimer les sciences du vivant aux enfants !</itunes:subtitle>
+        
+        <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+        <googleplay:email>emmanuel.viau@groupebayard.com</googleplay:email>
+        <googleplay:description>Curieux de sciences est un podcast du magazine jeunesse Images Doc, pour les enfants de 7 à 12 ans. Coproduit par Bayard Jeunesse et le Muséum national d’Histoire naturelle, il fait découvrir et aimer les sciences de la vie, de l’homme et de la Terre, en répondant à de vraies questions d’enfants : pourquoi les hommes préhistoriques dessinaient-ils des animaux ? Pourquoi les girafes ont-elles un long cou ? Ou encore : qui est apparu le premier, l’œuf ou la poule ? En dix épisodes d’une dizaine de
+minutes, les jeunes auditeurs de 7 à 12 ans suivent les petits curieux de sciences au Muséum national d’Histoire naturelle où ils rencontrent des chercheurs. 
+Cette nouvelle aventure sonore du magazine Images Doc, réalisée avec les élèves d’une classe de CM2, entraîne les enfants – et leurs proches – dans un univers fascinant, qui stimule leur imaginaire
+tout en leur dévoilant la rigueur et les surprises qui accompagnent la découverte scientifique. 
+
+Crédits : Ce podcast est co-produit par le magazine Images Doc (https://www.imagesdoc.com/) (Bayard Jeunesse) et le Muséum national d’Histoire naturelle. 
+Direction éditoriale : Bertrand Fichou. Comité scientifique du Muséum : Ronan Allain, Line Le Gall, Jean-Jacques Bahain. Directeur de production : Julien Moch. Journaliste et hoste : Grâce Leplat. Production exécutive : Billy the Cast. Réalisation : Benoît Laur. Musiques : Emmanuel Viau et Benoît Laur. Création visuelle : Fred Sochard, Evan-James Duvinage et Juliette Banquet. Productrice : Hélène Devannes. 
+Un podcast de Bayard Jeunesse 2022 - Droits réservés.  </googleplay:description>
+        <googleplay:explicit>no</googleplay:explicit>
+
+                    <podcast:funding url="">Support us!</podcast:funding>
+        
+        <category>Kids &amp; Family</category>
+    
+        <itunes:category text="Kids &amp; Family">
+                    <itunes:category text="Education for Kids"/>
+            </itunes:category>
+    
+                    <image>
+                <url>https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168</url>
+                <title>Curieux de sciences</title>
+                                    <link>https://podcast.ausha.co/curieux-de-science</link>
+                            </image>
+            <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+            <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+        
+                    <item>
+                <title>C’est vrai que l’ancêtre des baleines ressemblait à un chien ?</title>
+                <guid isPermaLink="false">08d92d39868d41054012155648696ea6b9f9eb80</guid>
+                <description><![CDATA[<p><b>Les baleines n’ont plus de pattes, mais leurs ancêtres, eux, en avaient ! Sandrine Ladevèze, paléontologue au Muséum national d’histoire naturelle, a expliqué aux Petits Curieux comment les chercheurs l’ont découvert en étudiant des fossiles d’animaux.<br>
+<br>
+Histoire de l’évolution de l’ancêtre des baleines<br>
+</b></p>
+<p>Grâce et les Petits Curieux de sciences, Jeanne, Éphraïm et Camille, ont rencontré la chercheuse Sandrine Ladevèze <b>au Muséum national d’histoire naturelle</b>. La paléontologue leur a raconté l'histoire des baleines et de leur ancêtre le <em>Pakicetus</em>. Il y a environ 50 millions d'années, ce mammifère carnivore, grand comme un loup, le museau pointu, marchait à quatre pattes et vivait au bord de l'eau…<br>
+</p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;81vrq-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;81vrq-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheuse invitée : Sandrine Ladevèze<b>.</b> Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>.  </p>]]></description>
+                <content:encoded><![CDATA[<p><b>Les baleines n’ont plus de pattes, mais leurs ancêtres, eux, en avaient ! Sandrine Ladevèze, paléontologue au Muséum national d’histoire naturelle, a expliqué aux Petits Curieux comment les chercheurs l’ont découvert en étudiant des fossiles d’animaux.<br>
+<br>
+Histoire de l’évolution de l’ancêtre des baleines<br>
+</b></p>
+<p>Grâce et les Petits Curieux de sciences, Jeanne, Éphraïm et Camille, ont rencontré la chercheuse Sandrine Ladevèze <b>au Muséum national d’histoire naturelle</b>. La paléontologue leur a raconté l'histoire des baleines et de leur ancêtre le <em>Pakicetus</em>. Il y a environ 50 millions d'années, ce mammifère carnivore, grand comme un loup, le museau pointu, marchait à quatre pattes et vivait au bord de l'eau…<br>
+</p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;81vrq-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;81vrq-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheuse invitée : Sandrine Ladevèze<b>.</b> Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>.  </p>]]></content:encoded>
+                <pubDate>Sat, 25 Nov 2023 06:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/PAggnuNRRvjv.mp3?t=1694267813" length="9338923" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/c-est-vrai-que-l-ancetre-des-baleines-ressemblait-a-un-chien</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>Chien,Baleine,cm1,CM2,mnhn,Podcast scientifique,évolution,sciences de la vie,paléontologie,Images doc,podcast sciences,sciences naturelles,fossiles,podcast pour enfants,cycle 3,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,Ancêtre baleine,Pakicetus</itunes:keywords>
+                                <itunes:duration>09:43</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>2</itunes:season>
+                    <podcast:season>2</podcast:season>
+                                            <itunes:episode>10</itunes:episode>
+                        <podcast:episode>10</podcast:episode>
+                                                    <itunes:subtitle>Les baleines n’ont plus de pattes, mais leurs ancêtres, eux, en avaient ! Sandrine Ladevèze, paléontologue au Muséum national d’histoire naturelle, a expliqué aux Petits Curieux comment les chercheurs l’ont découvert en étudiant des fossiles d’animaux....</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title> Les arbres dorment-ils la nuit ?</title>
+                <guid isPermaLink="false">aa446102fd9b115f69832ceabdb5642ee2b04165</guid>
+                <description><![CDATA[<p><b>Quand il fait bien noir, et que tu te reposes dans ton lit, sais-tu ce que font les plantes ? Toutes petites ou très grandes, comme les arbres, est-ce qu’elles continuent à se nourrir, à grandir, à respirer ? Pour le savoir, écoute le botaniste Marc-André Selosse, professeur du Muséum national d’histoire naturelle. Un épisode du podcast pour les enfants “Curieux de sciences” à écouter en famille, sur toutes les plateformes !</b></p>
+<p><br></p>
+<p><b>Que font les arbres le jour… et la nuit ? </b></p>
+<p><br></p>
+<p>Grâce et les Petits Curieux de sciences, Éva, Joséphine et Jules, ont rencontré le scientifique <b>Marc-André Selosse</b> <b>au Muséum national d’histoire naturelle</b>. Le botaniste a répondu à leurs questions et leur a expliqué comment les arbres s'alimentent, respirent, grandissent le jour et ce qui change une fois le soleil couché…</p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;7o0ps-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;7o0ps-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheur invité : <b>Marc-André Selosse.</b> Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>.  </p>]]></description>
+                <content:encoded><![CDATA[<p><b>Quand il fait bien noir, et que tu te reposes dans ton lit, sais-tu ce que font les plantes ? Toutes petites ou très grandes, comme les arbres, est-ce qu’elles continuent à se nourrir, à grandir, à respirer ? Pour le savoir, écoute le botaniste Marc-André Selosse, professeur du Muséum national d’histoire naturelle. Un épisode du podcast pour les enfants “Curieux de sciences” à écouter en famille, sur toutes les plateformes !</b></p>
+<p><br></p>
+<p><b>Que font les arbres le jour… et la nuit ? </b></p>
+<p><br></p>
+<p>Grâce et les Petits Curieux de sciences, Éva, Joséphine et Jules, ont rencontré le scientifique <b>Marc-André Selosse</b> <b>au Muséum national d’histoire naturelle</b>. Le botaniste a répondu à leurs questions et leur a expliqué comment les arbres s'alimentent, respirent, grandissent le jour et ce qui change une fois le soleil couché…</p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;7o0ps-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;7o0ps-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheur invité : <b>Marc-André Selosse.</b> Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>.  </p>]]></content:encoded>
+                <pubDate>Sat, 18 Nov 2023 06:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/YPqqZSvPxWQw.mp3?t=1694267743" length="9581757" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/les-arbres-dorment-ils-la-nuit</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>cm1,CM2,mnhn,botaniste,écologie,Podcast scientifique,sciences de la vie,Images doc,podcast sciences,sciences naturelles,photosynthèse,podcast pour enfants,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,respiration plantes,vie des arbres,vie des plantes</itunes:keywords>
+                                <itunes:duration>09:58</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>2</itunes:season>
+                    <podcast:season>2</podcast:season>
+                                            <itunes:episode>9</itunes:episode>
+                        <podcast:episode>9</podcast:episode>
+                                                    <itunes:subtitle>Quand il fait bien noir, et que tu te reposes dans ton lit, sais-tu ce que font les plantes ? Toutes petites ou très grandes, comme les arbres, est-ce qu’elles continuent à se nourrir, à grandir, à respirer ? Pour le savoir, écoute le botaniste Marc-An...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Comment les poissons font-ils pour respirer ?</title>
+                <guid isPermaLink="false">2bed90585c36c1575543a0f6ea0f3aee32a0e981</guid>
+                <description><![CDATA[<p><b>Dans les dessins animés et les bandes dessinées, on voit souvent les poissons faire des bulles… Mais, dans l’eau, cela ne se passe pas vraiment de cette façon ! Gaël Clément, paléontologue au Muséum national d’histoire naturelle, explique aux enfants le fonctionnement du système respiratoire des poissons… et celui des humains.<br>
+</b></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;1vs2m-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;1vs2m-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheur invité : <b>Gaël Clément.</b> Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. <b><br>
+</b></p>]]></description>
+                <content:encoded><![CDATA[<p><b>Dans les dessins animés et les bandes dessinées, on voit souvent les poissons faire des bulles… Mais, dans l’eau, cela ne se passe pas vraiment de cette façon ! Gaël Clément, paléontologue au Muséum national d’histoire naturelle, explique aux enfants le fonctionnement du système respiratoire des poissons… et celui des humains.<br>
+</b></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;1vs2m-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;1vs2m-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheur invité : <b>Gaël Clément.</b> Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. <b><br>
+</b></p>]]></content:encoded>
+                <pubDate>Sat, 11 Nov 2023 06:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/JdDDJSjgRzKx.mp3?t=1694267651" length="8807278" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/comment-les-poissons-font-ils-pour-respirer</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>Poissons,cm1,CM2,mnhn,Podcast scientifique,sciences de la vie,Images doc,podcast sciences,sciences naturelles,géologie,podcast pour enfants,branchies,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,Comment on respire ?,respiration poisson,respiration mammifère</itunes:keywords>
+                                <itunes:duration>09:10</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>2</itunes:season>
+                    <podcast:season>2</podcast:season>
+                                            <itunes:episode>8</itunes:episode>
+                        <podcast:episode>8</podcast:episode>
+                                                    <itunes:subtitle>Dans les dessins animés et les bandes dessinées, on voit souvent les poissons faire des bulles… Mais, dans l’eau, cela ne se passe pas vraiment de cette façon ! Gaël Clément, paléontologue au Muséum national d’histoire naturelle, explique aux enfants l...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Comment les humains ont-ils appris à parler ?</title>
+                <guid isPermaLink="false">826cd6e791d686fa091b0c635bddc95aadbb5c1c</guid>
+                <description><![CDATA[<p><br></p>
+<p><b>DIFFUSION DES PROCHAINS ÉPISODES</b></p>
+<p><br></p>
+<p><b>11 novembre 2023 :</b> “Comment les poissons font-ils pour respirer ?” avec Gaël Clément. </p>
+<p><b>18 novembre 2023 :</b> “Les arbres dorment-ils la nuit ?” avec Marc-André Selosse. </p>
+<p><b>25 novembre 2023 :</b> “C’est vrai que l’ancêtre des baleines ressemblait à un chien ?” avec Sandrine Ladevèze.</p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;dremc-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;dremc-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheur invité : <b>Amélie Vialet</b>. Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. </p>]]></description>
+                <content:encoded><![CDATA[<p><br></p>
+<p><b>DIFFUSION DES PROCHAINS ÉPISODES</b></p>
+<p><br></p>
+<p><b>11 novembre 2023 :</b> “Comment les poissons font-ils pour respirer ?” avec Gaël Clément. </p>
+<p><b>18 novembre 2023 :</b> “Les arbres dorment-ils la nuit ?” avec Marc-André Selosse. </p>
+<p><b>25 novembre 2023 :</b> “C’est vrai que l’ancêtre des baleines ressemblait à un chien ?” avec Sandrine Ladevèze.</p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;dremc-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;dremc-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheur invité : <b>Amélie Vialet</b>. Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. </p>]]></content:encoded>
+                <pubDate>Sat, 04 Nov 2023 06:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/3P66eSJ2XMDK.mp3?t=1694267570" length="9249897" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/comment-les-humains-ont-ils-appris-a-parler</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>cm1,CM2,mnhn,Podcast scientifique,sciences de la vie,préhistoire,paléontologie,Images doc,podcast sciences,sciences naturelles,podcast pour enfants,humains préhistoriques,chimpanzés,cycle 3,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,histoire de l'humanité,Histoire du langage,Origine langage</itunes:keywords>
+                                <itunes:duration>09:38</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>2</itunes:season>
+                    <podcast:season>2</podcast:season>
+                                            <itunes:episode>7</itunes:episode>
+                        <podcast:episode>7</podcast:episode>
+                                                    <itunes:subtitle>
+DIFFUSION DES PROCHAINS ÉPISODES
+
+11 novembre 2023 : “Comment les poissons font-ils pour respirer ?” avec Gaël Clément. 
+18 novembre 2023 : “Les arbres dorment-ils la nuit ?” avec Marc-André Selosse. 
+25 novembre 2023 : “C’est vrai que l’ancêtre des b...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Existe-t-il encore des espèces à découvrir ?</title>
+                <guid isPermaLink="false">714aec1c937bdeb1b5bb5d762010687c5b6e6b65</guid>
+                <description><![CDATA[<p><b>On connaît 2 millions d’espèces. C’est déjà beaucoup ! Mais on estime qu’il y en aurait entre 10 et 15 millions sur la Terre. Comment fait-on pour les trouver et leur donner un nom ? Laure Corbari, biologiste marine et taxonomiste au Muséum national d’Histoire naturelle, l’explique aux enfants dans cet épisode du podcast “Curieux de sciences” ! </b></p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;a3ddn-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;a3ddn-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheuse invitée : <b>Laure Corbari</b>. Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. </p>]]></description>
+                <content:encoded><![CDATA[<p><b>On connaît 2 millions d’espèces. C’est déjà beaucoup ! Mais on estime qu’il y en aurait entre 10 et 15 millions sur la Terre. Comment fait-on pour les trouver et leur donner un nom ? Laure Corbari, biologiste marine et taxonomiste au Muséum national d’Histoire naturelle, l’explique aux enfants dans cet épisode du podcast “Curieux de sciences” ! </b></p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;a3ddn-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;a3ddn-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheuse invitée : <b>Laure Corbari</b>. Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. </p>]]></content:encoded>
+                <pubDate>Sat, 28 Oct 2023 05:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/VOzzDH6xG04P.mp3?t=1694191879" length="8707804" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/existe-t-il-encore-des-especes-a-decouvrir</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>cm1,CM2,mnhn,écologie,biodiversité,Podcast scientifique,sciences de la vie,océans,préhistoire,Images doc,podcast sciences,sciences naturelles,podcast pour enfants,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,Laure Corbari,espèces animales</itunes:keywords>
+                                <itunes:duration>09:04</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>2</itunes:season>
+                    <podcast:season>2</podcast:season>
+                                            <itunes:episode>6</itunes:episode>
+                        <podcast:episode>6</podcast:episode>
+                                                    <itunes:subtitle>On connaît 2 millions d’espèces. C’est déjà beaucoup ! Mais on estime qu’il y en aurait entre 10 et 15 millions sur la Terre. Comment fait-on pour les trouver et leur donner un nom ? Laure Corbari, biologiste marine et taxonomiste au Muséum national d’...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title> Pourquoi la pluie est-elle douce et la mer salée ?</title>
+                <guid isPermaLink="false">e5b84259532e2982bebc5dabffb6d9306733ee34</guid>
+                <description><![CDATA[<p>Grâce et les Petits Curieux de sciences, Irène, Olivia et Raphaël, se sont rendus au <b>Muséum national d'Histoire naturelle pour rencontrer Jérôme Aléon, </b>un chercheur spécialiste de l'<b>origine de l'eau sur Terre</b>. Il leur a expliqué pourquoi certaines étendues d'eau sont douces et d'autres salées. Il leur a aussi raconté ce que les scientifiques savent sur la formation de notre planète bleue et ce qu'ils aimeraient encore découvrir…</p>
+<p> </p>
+<p><b>DIFFUSION DES PROCHAINS ÉPISODES<br>
+21 octobre 2023 :</b> “Pourquoi la pluie est-elle douce et la mer salée ?” avec Jérôme Aléon. </p>
+<p><b>28 octobre 2023 : </b>“Combien d’espèces animales y a-t-il dans le monde entier ?” avec Laure Corbari. </p>
+<p><b>4 novembre 2023 :</b> “Comment les humains ont-ils appris à parler ?” avec Amélie Vialet. </p>
+<p><b>11 novembre 2023 :</b> “Comment les poissons font-ils pour respirer ?” avec Gaël Clément. </p>
+<p><b>18 novembre 2023 :</b> “Les arbres dorment-ils la nuit ?” avec Marc-André Selosse. </p>
+<p><b>25 novembre 2023 :</b> “C’est vrai que l’ancêtre des baleines ressemblait à un chien ?” avec Sandrine Ladevèze.<br>
+</p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;a3ddn-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;a3ddn-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheur invité : <b>Jérôme Aléon</b>. Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. </p>]]></description>
+                <content:encoded><![CDATA[<p>Grâce et les Petits Curieux de sciences, Irène, Olivia et Raphaël, se sont rendus au <b>Muséum national d'Histoire naturelle pour rencontrer Jérôme Aléon, </b>un chercheur spécialiste de l'<b>origine de l'eau sur Terre</b>. Il leur a expliqué pourquoi certaines étendues d'eau sont douces et d'autres salées. Il leur a aussi raconté ce que les scientifiques savent sur la formation de notre planète bleue et ce qu'ils aimeraient encore découvrir…</p>
+<p> </p>
+<p><b>DIFFUSION DES PROCHAINS ÉPISODES<br>
+21 octobre 2023 :</b> “Pourquoi la pluie est-elle douce et la mer salée ?” avec Jérôme Aléon. </p>
+<p><b>28 octobre 2023 : </b>“Combien d’espèces animales y a-t-il dans le monde entier ?” avec Laure Corbari. </p>
+<p><b>4 novembre 2023 :</b> “Comment les humains ont-ils appris à parler ?” avec Amélie Vialet. </p>
+<p><b>11 novembre 2023 :</b> “Comment les poissons font-ils pour respirer ?” avec Gaël Clément. </p>
+<p><b>18 novembre 2023 :</b> “Les arbres dorment-ils la nuit ?” avec Marc-André Selosse. </p>
+<p><b>25 novembre 2023 :</b> “C’est vrai que l’ancêtre des baleines ressemblait à un chien ?” avec Sandrine Ladevèze.<br>
+</p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;a3ddn-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;a3ddn-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheur invité : <b>Jérôme Aléon</b>. Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. </p>]]></content:encoded>
+                <pubDate>Sat, 21 Oct 2023 05:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/LnwwXf3p3Y94.mp3?t=1694191567" length="8819756" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/pourquoi-la-pluie-est-elle-douce-et-la-mer-salee</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>cm1,CM2,mnhn,écologie,Podcast scientifique,sciences de la vie,préhistoire,Images doc,podcast sciences,sciences naturelles,cycle de l'eau,géologie,podcast pour enfants,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,Jérôme Aléon,origine eau</itunes:keywords>
+                                <itunes:duration>09:11</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>2</itunes:season>
+                    <podcast:season>2</podcast:season>
+                                            <itunes:episode>5</itunes:episode>
+                        <podcast:episode>5</podcast:episode>
+                                                    <itunes:subtitle>Grâce et les Petits Curieux de sciences, Irène, Olivia et Raphaël, se sont rendus au Muséum national d'Histoire naturelle pour rencontrer Jérôme Aléon, un chercheur spécialiste de l'origine de l'eau sur Terre. Il leur a expliqué pourquoi certaines éten...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Comment les chats voient-ils dans le noir ?</title>
+                <guid isPermaLink="false">9c4e4c0a19fed55ead186205dde3b819aa581a22</guid>
+                <description><![CDATA[<p><b>Les animaux nocturnes, comme les chats, ont des yeux qui leur permettent de voir beaucoup mieux que nous quand il n’y a pas de lumière. Sais-tu pourquoi ? Écoute vite cet épisode du podcast pour les enfants, “Curieux de sciences”, et tu le découvriras avec un scientifique du parc zoologique de Paris !</b></p>
+<p><br></p>
+<p>Grâce et les Petits Curieux de sciences, Léo, Amani et Sophie, se sont rendus au <b>Muséum national d'Histoire naturelle pour rencontrer Alexis Lécu, vétérinaire au parc zoologique de Paris. </b>Il leur a expliqué pourquoi les yeux des chats sont différents des nôtres, il a aussi répondu à leurs questions sur son métier avec les animaux sauvages…</p>
+<p><br>
+</p>
+<p><b>DIFFUSION DES PROCHAINS ÉPISODES<br>
+</b></p>
+<p><b>21 octobre 2023 :</b> “Pourquoi la pluie est-elle douce et la mer salée ?” avec Jérôme Aléon. </p>
+<p><br></p>
+<p><b>28 octobre 2023 : </b>“Combien d’espèces animales y a-t-il dans le monde entier ?” avec Laure Corbari. </p>
+<p><br></p>
+<p><b>4 novembre 2023 :</b> “Comment les humains ont-ils appris à parler ?” avec Amélie Vialet. </p>
+<p><br></p>
+<p><b>11 novembre 2023 :</b> “Comment les poissons font-ils pour respirer ?” avec Gaël Clément. </p>
+<p><br></p>
+<p><b>18 novembre 2023 :</b> “Les arbres dorment-ils la nuit ?” avec Marc-André Selosse. </p>
+<p><br></p>
+<p><b>25 novembre 2023 :</b> “C’est vrai que l’ancêtre des baleines ressemblait à un chien ?” avec Sandrine Ladevèze.<br>
+<br>
+</p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;6h0d0-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;6h0d0-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheur invité : <b>Alexis Lécu</b>. Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. </p>]]></description>
+                <content:encoded><![CDATA[<p><b>Les animaux nocturnes, comme les chats, ont des yeux qui leur permettent de voir beaucoup mieux que nous quand il n’y a pas de lumière. Sais-tu pourquoi ? Écoute vite cet épisode du podcast pour les enfants, “Curieux de sciences”, et tu le découvriras avec un scientifique du parc zoologique de Paris !</b></p>
+<p><br></p>
+<p>Grâce et les Petits Curieux de sciences, Léo, Amani et Sophie, se sont rendus au <b>Muséum national d'Histoire naturelle pour rencontrer Alexis Lécu, vétérinaire au parc zoologique de Paris. </b>Il leur a expliqué pourquoi les yeux des chats sont différents des nôtres, il a aussi répondu à leurs questions sur son métier avec les animaux sauvages…</p>
+<p><br>
+</p>
+<p><b>DIFFUSION DES PROCHAINS ÉPISODES<br>
+</b></p>
+<p><b>21 octobre 2023 :</b> “Pourquoi la pluie est-elle douce et la mer salée ?” avec Jérôme Aléon. </p>
+<p><br></p>
+<p><b>28 octobre 2023 : </b>“Combien d’espèces animales y a-t-il dans le monde entier ?” avec Laure Corbari. </p>
+<p><br></p>
+<p><b>4 novembre 2023 :</b> “Comment les humains ont-ils appris à parler ?” avec Amélie Vialet. </p>
+<p><br></p>
+<p><b>11 novembre 2023 :</b> “Comment les poissons font-ils pour respirer ?” avec Gaël Clément. </p>
+<p><br></p>
+<p><b>18 novembre 2023 :</b> “Les arbres dorment-ils la nuit ?” avec Marc-André Selosse. </p>
+<p><br></p>
+<p><b>25 novembre 2023 :</b> “C’est vrai que l’ancêtre des baleines ressemblait à un chien ?” avec Sandrine Ladevèze.<br>
+<br>
+</p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;6h0d0-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;6h0d0-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheur invité : <b>Alexis Lécu</b>. Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. </p>]]></content:encoded>
+                <pubDate>Sat, 14 Oct 2023 05:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/RWAAmFRdWE9D.mp3?t=1694190487" length="9076268" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/comment-les-chats-voient-ils-dans-le-noir</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>chats,cm1,CM2,mnhn,Podcast scientifique,sciences de la vie,paléontologie,Images doc,podcast sciences,sciences naturelles,podcast pour enfants,félins,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,Vision du chat,Voir dans le noir,Alexis Lécu</itunes:keywords>
+                                <itunes:duration>09:27</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>2</itunes:season>
+                    <podcast:season>2</podcast:season>
+                                            <itunes:episode>4</itunes:episode>
+                        <podcast:episode>4</podcast:episode>
+                                                    <itunes:subtitle>Les animaux nocturnes, comme les chats, ont des yeux qui leur permettent de voir beaucoup mieux que nous quand il n’y a pas de lumière. Sais-tu pourquoi ? Écoute vite cet épisode du podcast pour les enfants, “Curieux de sciences”, et tu le découvriras...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Les humains sont-ils des animaux ?</title>
+                <guid isPermaLink="false">07928b7eef1ac7ae5fa6bced2f71e0987ccd475f</guid>
+                <description><![CDATA[<p><b>S’entendre comme chien et chat, être rusé comme un renard, avoir une mémoire d’éléphant, rire comme une baleine, manger comme un cochon… : toutes ces expressions – et tu en connais sans doute beaucoup d’autres – comparent les humains à des animaux. Sommes-nous vraiment comme eux ? Pour le savoir, écoute vite cet épisode du podcast pour les enfants “Curieux de sciences” ! </b></p>
+<p><br></p>
+<p>Tu te demandes, comme Grâce et les Petits Curieux de sciences, Joachim, Faustine, Alix et Emma, si les humains sont des animaux ? Alors, direction le Muséum national d'Histoire naturelle pour écouter <b>Bruno David, paléontologue et biologiste !</b> </p>
+<p><br></p>
+<p><b>Qu’est-ce que tous les animaux ont en commun ? </b></p>
+<p><br></p>
+<p>Ce scientifique, qui étudie l'évolution de l'humanité, leur a <b>expliqué ce qu’est un animal</b>, ce qui le caractérise (il a du collagène, il est multicellulaire), les différents groupes qui permettent de le classer (mammifères, mollusques, reptiles, poissons, oiseaux…) et pourquoi<b> l</b>’<b>Homo sapiens (l</b>’<b>être humain) est aussi un animal</b>. </p>
+<p><br></p>
+<p>Bruno David leur a aussi parlé d'intelligence, d'outils, de langage, d'art (sais-tu qu'il y a des poissons qui dessinent sur le sable avec leur bouche ?) et pourquoi les humains doivent faire attention à <b>ne pas se penser supérieurs aux autres animaux</b>…<br>
+</p>
+<p><b>DIFFUSION DES PROCHAINS ÉPISODES<br>
+</b><br>
+<b>4 octobre :</b> “Comment les chats voient-ils dans le noir ?” avec Alexis Lécu. </p>
+<p><b>21 octobre :</b> “Pourquoi la pluie est-elle douce et la mer salée ?” avec Jérôme Aléon. </p>
+<p><b>28 octobre : </b>“Combien d’espèces animales y a-t-il dans le monde entier ?” avec Laure Corbari. </p>
+<p><b>4 novembre :</b> “Comment les humains ont-ils appris à parler ?” avec Amélie Vialet. </p>
+<p><b>11 novembre :</b> “Comment les poissons font-ils pour respirer ?” avec Gaël Clément. </p>
+<p><b>18 novembre :</b> “Les arbres dorment-ils la nuit ?” avec Marc-André Selosse. </p>
+<p><b>25 novembre :</b> “C’est vrai que l’ancêtre des baleines ressemblait à un chien ?” avec Sandrine Ladevèze.<br>
+</p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;5ertf-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;5ertf-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheur invité : <b>Bruno David</b>. Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. </p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2023 - Droits réservés.</p>]]></description>
+                <content:encoded><![CDATA[<p><b>S’entendre comme chien et chat, être rusé comme un renard, avoir une mémoire d’éléphant, rire comme une baleine, manger comme un cochon… : toutes ces expressions – et tu en connais sans doute beaucoup d’autres – comparent les humains à des animaux. Sommes-nous vraiment comme eux ? Pour le savoir, écoute vite cet épisode du podcast pour les enfants “Curieux de sciences” ! </b></p>
+<p><br></p>
+<p>Tu te demandes, comme Grâce et les Petits Curieux de sciences, Joachim, Faustine, Alix et Emma, si les humains sont des animaux ? Alors, direction le Muséum national d'Histoire naturelle pour écouter <b>Bruno David, paléontologue et biologiste !</b> </p>
+<p><br></p>
+<p><b>Qu’est-ce que tous les animaux ont en commun ? </b></p>
+<p><br></p>
+<p>Ce scientifique, qui étudie l'évolution de l'humanité, leur a <b>expliqué ce qu’est un animal</b>, ce qui le caractérise (il a du collagène, il est multicellulaire), les différents groupes qui permettent de le classer (mammifères, mollusques, reptiles, poissons, oiseaux…) et pourquoi<b> l</b>’<b>Homo sapiens (l</b>’<b>être humain) est aussi un animal</b>. </p>
+<p><br></p>
+<p>Bruno David leur a aussi parlé d'intelligence, d'outils, de langage, d'art (sais-tu qu'il y a des poissons qui dessinent sur le sable avec leur bouche ?) et pourquoi les humains doivent faire attention à <b>ne pas se penser supérieurs aux autres animaux</b>…<br>
+</p>
+<p><b>DIFFUSION DES PROCHAINS ÉPISODES<br>
+</b><br>
+<b>4 octobre :</b> “Comment les chats voient-ils dans le noir ?” avec Alexis Lécu. </p>
+<p><b>21 octobre :</b> “Pourquoi la pluie est-elle douce et la mer salée ?” avec Jérôme Aléon. </p>
+<p><b>28 octobre : </b>“Combien d’espèces animales y a-t-il dans le monde entier ?” avec Laure Corbari. </p>
+<p><b>4 novembre :</b> “Comment les humains ont-ils appris à parler ?” avec Amélie Vialet. </p>
+<p><b>11 novembre :</b> “Comment les poissons font-ils pour respirer ?” avec Gaël Clément. </p>
+<p><b>18 novembre :</b> “Les arbres dorment-ils la nuit ?” avec Marc-André Selosse. </p>
+<p><b>25 novembre :</b> “C’est vrai que l’ancêtre des baleines ressemblait à un chien ?” avec Sandrine Ladevèze.<br>
+</p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;5ertf-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;5ertf-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheur invité : <b>Bruno David</b>. Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. </p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2023 - Droits réservés.</p>]]></content:encoded>
+                <pubDate>Sat, 01 Jul 2023 05:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/JdDDJSgej2LX.mp3?t=1687265563" length="9845421" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/les-humains-sont-ils-des-animaux</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>animaux,animal,Biologie,cm1,CM2,mnhn,Podcast scientifique,homo sapiens,sciences de la vie,préhistoire,paléontologie,Images doc,podcast sciences,sciences naturelles,podcast pour enfants,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle</itunes:keywords>
+                                <itunes:duration>10:15</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>2</itunes:season>
+                    <podcast:season>2</podcast:season>
+                                            <itunes:episode>3</itunes:episode>
+                        <podcast:episode>3</podcast:episode>
+                                                    <itunes:subtitle>S’entendre comme chien et chat, être rusé comme un renard, avoir une mémoire d’éléphant, rire comme une baleine, manger comme un cochon… : toutes ces expressions – et tu en connais sans doute beaucoup d’autres – comparent les humains à des animaux. Som...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Pourquoi le dodo a-t-il disparu ?</title>
+                <guid isPermaLink="false">72cc59a32affc62d8da95703a25ceaa5950f0efe</guid>
+                <description><![CDATA[<p><b>En 1598, Wybrand Van Warwijck, un navigateur hollandais, débarque sur l’île Maurice, dans l’océan Indien. Avec ses hommes, ils découvrent un oiseau de la taille d’un très, très gros poulet, le dodo. En moins de 100 ans, cet animal va complètement disparaître. Écoute Christine Lefèvre, archéozoologue au Muséum national d’Histoire naturelle, raconter aux Petits Curieux de sciences ce qui s’est passé…</b></p>
+<p><br></p>
+<p><b>Le dodo, un oiseau sans prédateurs… avant l’arrivée de l'homme</b></p>
+<p><br></p>
+<p>Dans cet épisode du podcast pour les enfants “Curieux de sciences”, Grâce t’emmène <b>sur l'île Maurice </b>où des navigateurs hollandais viennent de débarquer, <b>en 1598</b>. Le dodo, un oiseau de la famille des colombidés, incapable de voler et pas très gracieux, y vivait jusqu'alors tranquillement sans prédateurs… </p>
+<p>Les Petits Curieux de sciences, Lamia, Béryl et Léo, se demandent ce qui a pu causer<b> la disparition du dodo</b> ! Pour le savoir, direction le Muséum national d'Histoire naturelle ! </p>
+<p><br></p>
+<p>“<b>Pourquoi les dodos ne se sont pas défendus ?</b>”</p>
+<p><br></p>
+<p><b>Au Muséum, Christine Lefèvre, archéozoologue</b> (elle étudie les restes d'animaux sur les sites archéologiques), leur a expliqué comment cet oiseau a disparu et a répondu à leurs questions : “<b>Pourquoi le dodo ne volait pas ?</b>” ; “Est-ce que les Hollandais ont rapporté des dodos dans leur pays ?” ; “<b>Pourquoi les dodos ne se sont pas défendus ?</b>” “Est-ce qu'il y a d'autres espèces, à part le dodo, qui ont disparu ? ”Est-ce qu'on aurait pu sauver le dodo en le mettant dans des <b>parcs zoologiques</b> ?”…)</p>
+<p><br></p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;afesp-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;afesp-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheuse invitée : <b>Christine Lefèvre</b>. Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. </p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2023 - Droits réservés.</p>]]></description>
+                <content:encoded><![CDATA[<p><b>En 1598, Wybrand Van Warwijck, un navigateur hollandais, débarque sur l’île Maurice, dans l’océan Indien. Avec ses hommes, ils découvrent un oiseau de la taille d’un très, très gros poulet, le dodo. En moins de 100 ans, cet animal va complètement disparaître. Écoute Christine Lefèvre, archéozoologue au Muséum national d’Histoire naturelle, raconter aux Petits Curieux de sciences ce qui s’est passé…</b></p>
+<p><br></p>
+<p><b>Le dodo, un oiseau sans prédateurs… avant l’arrivée de l'homme</b></p>
+<p><br></p>
+<p>Dans cet épisode du podcast pour les enfants “Curieux de sciences”, Grâce t’emmène <b>sur l'île Maurice </b>où des navigateurs hollandais viennent de débarquer, <b>en 1598</b>. Le dodo, un oiseau de la famille des colombidés, incapable de voler et pas très gracieux, y vivait jusqu'alors tranquillement sans prédateurs… </p>
+<p>Les Petits Curieux de sciences, Lamia, Béryl et Léo, se demandent ce qui a pu causer<b> la disparition du dodo</b> ! Pour le savoir, direction le Muséum national d'Histoire naturelle ! </p>
+<p><br></p>
+<p>“<b>Pourquoi les dodos ne se sont pas défendus ?</b>”</p>
+<p><br></p>
+<p><b>Au Muséum, Christine Lefèvre, archéozoologue</b> (elle étudie les restes d'animaux sur les sites archéologiques), leur a expliqué comment cet oiseau a disparu et a répondu à leurs questions : “<b>Pourquoi le dodo ne volait pas ?</b>” ; “Est-ce que les Hollandais ont rapporté des dodos dans leur pays ?” ; “<b>Pourquoi les dodos ne se sont pas défendus ?</b>” “Est-ce qu'il y a d'autres espèces, à part le dodo, qui ont disparu ? ”Est-ce qu'on aurait pu sauver le dodo en le mettant dans des <b>parcs zoologiques</b> ?”…)</p>
+<p><br></p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;afesp-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;afesp-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheuse invitée : <b>Christine Lefèvre</b>. Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. </p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2023 - Droits réservés.</p>]]></content:encoded>
+                <pubDate>Sat, 24 Jun 2023 05:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/vpQQ9HXeDw2X.mp3?t=1686663223" length="10098477" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/pourquoi-le-dodo-a-t-il-disparu</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>dinosaures,cm1,CM2,mnhn,écologie,Podcast scientifique,sciences de la vie,Génétique,préhistoire,paléontologie,Images doc,podcast sciences,sciences naturelles,géologie,podcast pour enfants,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle</itunes:keywords>
+                                <itunes:duration>10:31</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>2</itunes:season>
+                    <podcast:season>2</podcast:season>
+                                            <itunes:episode>2</itunes:episode>
+                        <podcast:episode>2</podcast:episode>
+                                                    <itunes:subtitle>En 1598, Wybrand Van Warwijck, un navigateur hollandais, débarque sur l’île Maurice, dans l’océan Indien. Avec ses hommes, ils découvrent un oiseau de la taille d’un très, très gros poulet, le dodo. En moins de 100 ans, cet animal va complètement dispa...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Est-ce qu’il y avait de la vie avant les dinosaures ?</title>
+                <guid isPermaLink="false">fac4d30cda4d10dd9a71688e0df21562e243c988</guid>
+                <description><![CDATA[<p><b>On connaît aujourd’hui beaucoup de choses sur les dinosaures. Mais que sait-on sur la vie avant leur apparition ? Et qu’est-ce que c’est, en fait, la vie ? Écoute cet épisode du podcast “Curieux de sciences” pour découvrir avec Marie-Béatrice Forel, micropaléontologue au Muséum national d'Histoire naturelle, comment tout est parti d’une petite cellule, il y a très, très longtemps…</b></p>
+<p><br></p>
+<p>Dans cet épisode du podcast de “Curieux de sciences”, Grâce te raconte l'histoire d'une des <b>premières chasseuses de fossiles, Mary Anning</b>. Elle t'entraîne ensuite au Muséum d'Histoire naturelle où les Petits Curieux de sciences, Joséphine, Irène et Théophile, ont posé leurs <b>questions sur l'origine de la vie</b> à la micropaléontologue, <b>Marie-Béatrice Forel</b>. <br>
+</p>
+<p><b>Des fossiles de dinosaures découverts par une fille de 12 ans ! </b></p>
+<p><br></p>
+<p>Connais-tu <b>Mary Anning</b> ? C'est l'une des premières chasseuses de fossiles de l’histoire. Elle vivait dans le sud de l’Angleterre, il y a 200 ans. Après des mois de travail, elle a découvert avec son frère le premier squelette complet d’<b>ichtyosaure</b>, un reptile marin qui ressemblait à un gros dauphin. Ces créatures pouvaient mesurer jusqu’à 10 mètres de long.<br>
+Mary a alors à peine 12 ans ! Depuis qu’elle est petite, elle accompagne son père et son frère sur la plage de Lyme Regis, dans le sud de l’Angleterre. Avec eux, elle a appris à chercher et à nettoyer les fossiles. Elle est si douée qu’elle est devenue <b>une des plus grandes paléontologues de son époque</b> ! </p>
+<p><br></p>
+<p><b>“C’est quoi la vie, en fait ?” </b></p>
+<p><br></p>
+<p>Grâce et les Petits Curieux de sciences ont rencontré la scientifique <b>Marie-Béatrice Forel</b>. Cette micropaléontologue étudie au Muséum national d'Histoire naturelle des fossiles de moins d’un millimètre, qui ont plusieurs centaines de millions d’années. Elle leur a parlé de son métier et raconté <b>l'histoire de la vie</b>, des cellules uniques aux organismes pluricellulaires, comme les dinosaures… ou les hommes. Et c'est absolument passionnant ! </p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;8vdch-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;8vdch-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheuse invitée : <b>Marie-Béatrice Forel</b>. Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. </p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2023 - Droits réservés.</p>]]></description>
+                <content:encoded><![CDATA[<p><b>On connaît aujourd’hui beaucoup de choses sur les dinosaures. Mais que sait-on sur la vie avant leur apparition ? Et qu’est-ce que c’est, en fait, la vie ? Écoute cet épisode du podcast “Curieux de sciences” pour découvrir avec Marie-Béatrice Forel, micropaléontologue au Muséum national d'Histoire naturelle, comment tout est parti d’une petite cellule, il y a très, très longtemps…</b></p>
+<p><br></p>
+<p>Dans cet épisode du podcast de “Curieux de sciences”, Grâce te raconte l'histoire d'une des <b>premières chasseuses de fossiles, Mary Anning</b>. Elle t'entraîne ensuite au Muséum d'Histoire naturelle où les Petits Curieux de sciences, Joséphine, Irène et Théophile, ont posé leurs <b>questions sur l'origine de la vie</b> à la micropaléontologue, <b>Marie-Béatrice Forel</b>. <br>
+</p>
+<p><b>Des fossiles de dinosaures découverts par une fille de 12 ans ! </b></p>
+<p><br></p>
+<p>Connais-tu <b>Mary Anning</b> ? C'est l'une des premières chasseuses de fossiles de l’histoire. Elle vivait dans le sud de l’Angleterre, il y a 200 ans. Après des mois de travail, elle a découvert avec son frère le premier squelette complet d’<b>ichtyosaure</b>, un reptile marin qui ressemblait à un gros dauphin. Ces créatures pouvaient mesurer jusqu’à 10 mètres de long.<br>
+Mary a alors à peine 12 ans ! Depuis qu’elle est petite, elle accompagne son père et son frère sur la plage de Lyme Regis, dans le sud de l’Angleterre. Avec eux, elle a appris à chercher et à nettoyer les fossiles. Elle est si douée qu’elle est devenue <b>une des plus grandes paléontologues de son époque</b> ! </p>
+<p><br></p>
+<p><b>“C’est quoi la vie, en fait ?” </b></p>
+<p><br></p>
+<p>Grâce et les Petits Curieux de sciences ont rencontré la scientifique <b>Marie-Béatrice Forel</b>. Cette micropaléontologue étudie au Muséum national d'Histoire naturelle des fossiles de moins d’un millimètre, qui ont plusieurs centaines de millions d’années. Elle leur a parlé de son métier et raconté <b>l'histoire de la vie</b>, des cellules uniques aux organismes pluricellulaires, comme les dinosaures… ou les hommes. Et c'est absolument passionnant ! </p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraîne les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;8vdch-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;8vdch-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.</p>
+<p><br></p>
+<p>Direction éditoriale : <b>Bertrand Fichou</b>. Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain</b>. Chercheuse invitée : <b>Marie-Béatrice Forel</b>. Directeur de production : <b>Julien Moch. </b>Journaliste et hoste :<b> Grâce Leplat</b>. Comédiens :<b> Lucille Boudonnat, Thierry Debrune, Louis Huster, Julien Guého</b>. Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur</b>. Musiques : <b>Emmanuel Viau</b> et <b>Benoît Laur</b>. Création visuelle : <b>Fred Sochard </b>(saison 1), <b>Camille Ferrari</b> (saison 2). Productrice : <b>Hélène Devannes</b>. </p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2023 - Droits réservés.</p>]]></content:encoded>
+                <pubDate>Sat, 17 Jun 2023 05:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/XZYYpfJNVkO2.mp3?t=1686663074" length="10542228" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/est-ce-qu-il-y-avait-de-la-vie-avant-les-dinosaures</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>dinosaures,cm1,CM2,mnhn,Podcast scientifique,sciences de la vie,préhistoire,paléontologie,Images doc,sciences naturelles,histoire de la vie,podcast pour enfants,Mary Anning,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,podcast sciences enfant,frise du temps</itunes:keywords>
+                                <itunes:duration>10:58</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>2</itunes:season>
+                    <podcast:season>2</podcast:season>
+                                            <itunes:episode>1</itunes:episode>
+                        <podcast:episode>1</podcast:episode>
+                                                    <itunes:subtitle>On connaît aujourd’hui beaucoup de choses sur les dinosaures. Mais que sait-on sur la vie avant leur apparition ? Et qu’est-ce que c’est, en fait, la vie ? Écoute cet épisode du podcast “Curieux de sciences” pour découvrir avec Marie-Béatrice Forel, mi...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Qui est apparu le premier, l’œuf ou la poule ?</title>
+                <guid isPermaLink="false">e3917fe132e7eb80bf4e1e137b1bb15f2ad4c10d</guid>
+                <description><![CDATA[<p><b>Savais-tu que les œufs les plus anciens ont été pondus il y a environ 300 millions d’années… Mais par qui ? Une poule ou un autre animal ?</b></p>
+<p><br></p>
+<p>Pour le découvrir et te régaler avec <b>plein d'informations sur les œufs</b> (pourquoi ont-ils différentes couleurs, quels animaux les pondent, comment ils se fabriquent, y a-t-il toujours un poussin dedans…), écoute Grâce et les Petits curieux de sciences – Léane, Amal et Nino.</p>
+<p><br></p>
+<p>Ils ont rencontré<b> Damien Germain, paléontologue</b> (c'est un scientifique qui étudie l'évolution des êtres vivants), au Muséum national d'Histoire naturelle. Il a répondu à toutes leurs questions et leur a raconté comment il avait découvert des œufs de dinosaures ! </p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr">Muséum national d’Histoire naturelle</a>.  </p>
+<p>Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheur invité : <b>Damien Germain.</b> Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat.</b> Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés. </p>]]></description>
+                <content:encoded><![CDATA[<p><b>Savais-tu que les œufs les plus anciens ont été pondus il y a environ 300 millions d’années… Mais par qui ? Une poule ou un autre animal ?</b></p>
+<p><br></p>
+<p>Pour le découvrir et te régaler avec <b>plein d'informations sur les œufs</b> (pourquoi ont-ils différentes couleurs, quels animaux les pondent, comment ils se fabriquent, y a-t-il toujours un poussin dedans…), écoute Grâce et les Petits curieux de sciences – Léane, Amal et Nino.</p>
+<p><br></p>
+<p>Ils ont rencontré<b> Damien Germain, paléontologue</b> (c'est un scientifique qui étudie l'évolution des êtres vivants), au Muséum national d'Histoire naturelle. Il a répondu à toutes leurs questions et leur a raconté comment il avait découvert des œufs de dinosaures ! </p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.</p>
+<p><br></p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr">Muséum national d’Histoire naturelle</a>.  </p>
+<p>Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheur invité : <b>Damien Germain.</b> Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat.</b> Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés. </p>]]></content:encoded>
+                <pubDate>Sat, 12 Nov 2022 07:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/drgg4SNjjkO0.mp3?t=1659547907" length="9300141" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/qui-est-apparu-le-premier-l-oeuf-ou-la-poule</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>dinosaures,oiseaux,cm1,CM2,mnhn,reptiles,Podcast scientifique,préhistoire,paléontologie,mammifères,Images doc,podcast sciences,sciences naturelles,podcast pour enfants,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,œufs</itunes:keywords>
+                                <itunes:duration>09:41</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>1</itunes:season>
+                    <podcast:season>1</podcast:season>
+                                            <itunes:episode>10</itunes:episode>
+                        <podcast:episode>10</podcast:episode>
+                                                    <itunes:subtitle>Savais-tu que les œufs les plus anciens ont été pondus il y a environ 300 millions d’années… Mais par qui ? Une poule ou un autre animal ?
+
+Pour le découvrir et te régaler avec plein d'informations sur les œufs (pourquoi ont-ils différentes couleurs, q...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Pourquoi n’a-t-on pas tous la même couleur de peau ?</title>
+                <guid isPermaLink="false">18d446c36129ded3825a71ad90671dcc9a650145</guid>
+                <description><![CDATA[<p><b>Du beige clair au marron très foncé, il existe une infinité de nuances et de couleurs de peau. Tu l’as remarqué à l’école, dans la rue ou entre un frère et une sœur d’une même famille. Comment expliquer ces différences ?</b></p>
+<p> </p>
+<p>Pour le découvrir, écoute Grâce et les Petits curieux de sciences – Hélène, Jahda et Zachary. Ils ont rencontré <b>Evelyne Heyer,</b> professeure en anthropologie génétique au Muséum national d'Histoire naturelle.  </p>
+<p><br></p>
+<p>Elle leur a expliqué pourquoi la couleur de la peau dépend du “<b>génome</b>” de chacun et comment la <b>mélanine</b> nous protège des coups de soleil.<br>
+<br>
+Elle leur a aussi parlé d’<b>évolution</b> avec les premiers humains préhistoriques qui vivaient en Afrique et avaient la peau très foncée. En l'écoutant, tu comprendras comment, au fil du temps (des dizaines de milliers d'années !) et de leur installation dans des endroits moins ensoleillés, leur peau s'est éclaircie.  </p>
+<p><br></p>
+<p>Et si tu te demandes, comme les Petits Curieux de sciences, si “la couleur de notre peau différencie notre caractère”, la réponse d’<b>Evelyne Heyer</b> est : “Non !” C'est une des croyances à l'origine du <b>racisme</b>… La couleur de la peau, c'est avant tout une histoire de mélanine et ça n'a rien à voir avec les qualités d'une personne.</p>
+<p> </p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+</p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;bvibr-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;bvibr-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheuse invitée : <b>Evelyne Heyer</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></description>
+                <content:encoded><![CDATA[<p><b>Du beige clair au marron très foncé, il existe une infinité de nuances et de couleurs de peau. Tu l’as remarqué à l’école, dans la rue ou entre un frère et une sœur d’une même famille. Comment expliquer ces différences ?</b></p>
+<p> </p>
+<p>Pour le découvrir, écoute Grâce et les Petits curieux de sciences – Hélène, Jahda et Zachary. Ils ont rencontré <b>Evelyne Heyer,</b> professeure en anthropologie génétique au Muséum national d'Histoire naturelle.  </p>
+<p><br></p>
+<p>Elle leur a expliqué pourquoi la couleur de la peau dépend du “<b>génome</b>” de chacun et comment la <b>mélanine</b> nous protège des coups de soleil.<br>
+<br>
+Elle leur a aussi parlé d’<b>évolution</b> avec les premiers humains préhistoriques qui vivaient en Afrique et avaient la peau très foncée. En l'écoutant, tu comprendras comment, au fil du temps (des dizaines de milliers d'années !) et de leur installation dans des endroits moins ensoleillés, leur peau s'est éclaircie.  </p>
+<p><br></p>
+<p>Et si tu te demandes, comme les Petits Curieux de sciences, si “la couleur de notre peau différencie notre caractère”, la réponse d’<b>Evelyne Heyer</b> est : “Non !” C'est une des croyances à l'origine du <b>racisme</b>… La couleur de la peau, c'est avant tout une histoire de mélanine et ça n'a rien à voir avec les qualités d'une personne.</p>
+<p> </p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+</p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;bvibr-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;bvibr-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheuse invitée : <b>Evelyne Heyer</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></content:encoded>
+                <pubDate>Sat, 05 Nov 2022 07:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/nrzz4SR5ZwZ1.mp3?t=1659547360" length="10741293" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/pourquoi-n-a-t-on-pas-tous-la-meme-couleur-de-peau</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>racisme,cm1,CM2,mnhn,Podcast scientifique,sciences de la vie,Génétique,génome,Images doc,podcast sciences,sciences naturelles,podcast pour enfants,chromosome,mélanine,cycle 3,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,loterie génétique,couleur de peau</itunes:keywords>
+                                <itunes:duration>11:11</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>1</itunes:season>
+                    <podcast:season>1</podcast:season>
+                                            <itunes:episode>9</itunes:episode>
+                        <podcast:episode>9</podcast:episode>
+                                                    <itunes:subtitle>Du beige clair au marron très foncé, il existe une infinité de nuances et de couleurs de peau. Tu l’as remarqué à l’école, dans la rue ou entre un frère et une sœur d’une même famille. Comment expliquer ces différences ?
+ 
+Pour le découvrir, écoute Grâ...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Pourquoi les poissons ont-ils des écailles ?</title>
+                <guid isPermaLink="false">34c6313657a0fa4694ce493bc8080f0ac7c6825e</guid>
+                <description><![CDATA[<p><b>Tu as sans doute déjà touché la peau d’un poisson. Sais-tu pourquoi elle est gluante ? Et à quoi servent les écailles qui la recouvrent ?</b><br>
+ </p>
+<p>Pour te l’expliquer, Grâce et les Petits Curieux de sciences – Ishak, Salomé et Guillaume – ont rencontré <b>Alan Pradel</b>, maître de conférences du Muséum national d'Histoire naturelle, paléontologue (c'est un scientifique qui étudie l'évolution des espèces) et spécialiste des requins. Il leur a aussi parlé de l'origine des dents (surprise !) et de son métier. </p>
+<p><br></p>
+<p><b>Une armure pour les poissons </b></p>
+<p><br></p>
+<p>Les écailles servent à protéger les poissons, un peu comme une armure ou une carapace ! Elles leur permettent aussi de nager très vite (tu vas comprendre comment avec l'exemple du requin) ! Mais sais-tu que certains poissons n'en ont pas ?  </p>
+<p><br></p>
+<p><b>Les écailles, “ancêtres” des dents ? </b></p>
+<p><br></p>
+<p>Les écailles tombent et repoussent, un peu comme tes dents ! D'ailleurs, leur structure se ressemble. Des recherches sur des fossiles vieux de plus de 400 millions d’années ont permis de se rendre compte que les écailles ont migré vers la bouche durant l'évolution et que les dents seraient des écailles modifiées… </p>
+<p> </p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+<br>
+<b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+<br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheur invité : <b>Alan Pradel</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></description>
+                <content:encoded><![CDATA[<p><b>Tu as sans doute déjà touché la peau d’un poisson. Sais-tu pourquoi elle est gluante ? Et à quoi servent les écailles qui la recouvrent ?</b><br>
+ </p>
+<p>Pour te l’expliquer, Grâce et les Petits Curieux de sciences – Ishak, Salomé et Guillaume – ont rencontré <b>Alan Pradel</b>, maître de conférences du Muséum national d'Histoire naturelle, paléontologue (c'est un scientifique qui étudie l'évolution des espèces) et spécialiste des requins. Il leur a aussi parlé de l'origine des dents (surprise !) et de son métier. </p>
+<p><br></p>
+<p><b>Une armure pour les poissons </b></p>
+<p><br></p>
+<p>Les écailles servent à protéger les poissons, un peu comme une armure ou une carapace ! Elles leur permettent aussi de nager très vite (tu vas comprendre comment avec l'exemple du requin) ! Mais sais-tu que certains poissons n'en ont pas ?  </p>
+<p><br></p>
+<p><b>Les écailles, “ancêtres” des dents ? </b></p>
+<p><br></p>
+<p>Les écailles tombent et repoussent, un peu comme tes dents ! D'ailleurs, leur structure se ressemble. Des recherches sur des fossiles vieux de plus de 400 millions d’années ont permis de se rendre compte que les écailles ont migré vers la bouche durant l'évolution et que les dents seraient des écailles modifiées… </p>
+<p> </p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+<br>
+<b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+<br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheur invité : <b>Alan Pradel</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></content:encoded>
+                <pubDate>Sat, 29 Oct 2022 06:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/qr22MSqqxOP7.mp3?t=1659547017" length="10631085" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/pourquoi-les-poissons-ont-ils-des-ecailles</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>darwin,cm1,CM2,mnhn,écologie,Podcast scientifique,sciences de la vie,Génétique,Images doc,podcast sciences,sciences naturelles,podcast pour enfants,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,théorie de l'évolution,vie sous-marine,écaille poisson</itunes:keywords>
+                                <itunes:duration>11:04</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>1</itunes:season>
+                    <podcast:season>1</podcast:season>
+                                            <itunes:episode>8</itunes:episode>
+                        <podcast:episode>8</podcast:episode>
+                                                    <itunes:subtitle>Tu as sans doute déjà touché la peau d’un poisson. Sais-tu pourquoi elle est gluante ? Et à quoi servent les écailles qui la recouvrent ?
+ 
+Pour te l’expliquer, Grâce et les Petits Curieux de sciences – Ishak, Salomé et Guillaume – ont rencontré Alan P...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>À quoi servent les arbres ?</title>
+                <guid isPermaLink="false">084f40e2b9f6edb7da802f07a6ea15faaaa7814a</guid>
+                <description><![CDATA[<p><b>Que tu habites en ville ou à la campagne, il y a toujours des arbres pas trop loin de toi. Sais-tu qu’ils ont un rôle très important sur notre planète et pourquoi nous avons absolument besoin d’eux ?</b></p>
+<p><br></p>
+<p>Grâce et les Petits Curieux de sciences – Ana, Camille et Lorenzo – ont rencontré <b>Nathalie Machon</b>, professeure d’écologie du Muséum national d’Histoire naturelle pour en savoir plus. Elle leur a expliqué comment les arbres nous aident à vivre et contribuent à l’équilibre climatique.</p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+<br>
+<b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;6qv8m-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;6qv8m-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheuse invitée : <b>Nathalie Machon</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></description>
+                <content:encoded><![CDATA[<p><b>Que tu habites en ville ou à la campagne, il y a toujours des arbres pas trop loin de toi. Sais-tu qu’ils ont un rôle très important sur notre planète et pourquoi nous avons absolument besoin d’eux ?</b></p>
+<p><br></p>
+<p>Grâce et les Petits Curieux de sciences – Ana, Camille et Lorenzo – ont rencontré <b>Nathalie Machon</b>, professeure d’écologie du Muséum national d’Histoire naturelle pour en savoir plus. Elle leur a expliqué comment les arbres nous aident à vivre et contribuent à l’équilibre climatique.</p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+<br>
+<b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;6qv8m-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;6qv8m-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheuse invitée : <b>Nathalie Machon</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></content:encoded>
+                <pubDate>Sat, 22 Oct 2022 06:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/vpQQ9HY2Pd8L.mp3?t=1659546658" length="9572013" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/a-quoi-servent-les-arbres</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>cm1,CM2,mnhn,écologie,Réchauffement climatique,Podcast scientifique,sciences de la vie,Images doc,podcast sciences,sciences naturelles,podcast pour enfants,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,arbres climat,bienfaits arbres</itunes:keywords>
+                                <itunes:duration>09:58</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>1</itunes:season>
+                    <podcast:season>1</podcast:season>
+                                            <itunes:episode>7</itunes:episode>
+                        <podcast:episode>7</podcast:episode>
+                                                    <itunes:subtitle>Que tu habites en ville ou à la campagne, il y a toujours des arbres pas trop loin de toi. Sais-tu qu’ils ont un rôle très important sur notre planète et pourquoi nous avons absolument besoin d’eux ?
+
+Grâce et les Petits Curieux de sciences – Ana, Cami...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Comment sait-on à quoi ressemblaient les dinosaures ?</title>
+                <guid isPermaLink="false">9c6b0b471173bda43c966b33d4fd83c3773ab961</guid>
+                <description><![CDATA[<p><b>Les premiers restes de dinosaures ont été découverts il y a environ 200 ans. On en connaît aujourd’hui plus d’un millier d’espèces ! Comment a-t-on réussi à savoir à quoi ressemblaient ces animaux disparus depuis si longtemps ?</b></p>
+<p><br></p>
+<p>Grâce et les Petits Curieux de sciences – Camille, Nadine et Adam – sont allés le demander à <b>Ronan Allain, </b>maître de conférences du Muséum, paléontologue, spécialiste des dinosaures. Avec eux, tu vas comprendre comment les scientifiques s'y prennent pour chercher des traces de vie – comme<b> des œufs ou des cacas fossilisés</b> – qui leur permettent de connaître l’apparence des dinosaures… Et, aussi, qu'<b>on découvre encore des dinosaures en France</b> !</p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+</p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheur invité : <b>Ronan Allain</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></description>
+                <content:encoded><![CDATA[<p><b>Les premiers restes de dinosaures ont été découverts il y a environ 200 ans. On en connaît aujourd’hui plus d’un millier d’espèces ! Comment a-t-on réussi à savoir à quoi ressemblaient ces animaux disparus depuis si longtemps ?</b></p>
+<p><br></p>
+<p>Grâce et les Petits Curieux de sciences – Camille, Nadine et Adam – sont allés le demander à <b>Ronan Allain, </b>maître de conférences du Muséum, paléontologue, spécialiste des dinosaures. Avec eux, tu vas comprendre comment les scientifiques s'y prennent pour chercher des traces de vie – comme<b> des œufs ou des cacas fossilisés</b> – qui leur permettent de connaître l’apparence des dinosaures… Et, aussi, qu'<b>on découvre encore des dinosaures en France</b> !</p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+</p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheur invité : <b>Ronan Allain</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></content:encoded>
+                <pubDate>Sat, 15 Oct 2022 06:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/Ajgg7szYYwD3.mp3?t=1659546295" length="12034221" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/comment-on-sait-a-quoi-ressemblaient-les-dinosaures</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>dinosaures,cm1,CM2,mnhn,Podcast scientifique,paléontologie,Images doc,podcast sciences,sciences naturelles,géologie,fossiles,podcast pour enfants,Paléontologue,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,tyranosaure</itunes:keywords>
+                                <itunes:duration>12:32</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>1</itunes:season>
+                    <podcast:season>1</podcast:season>
+                                            <itunes:episode>6</itunes:episode>
+                        <podcast:episode>6</podcast:episode>
+                                                    <itunes:subtitle>Les premiers restes de dinosaures ont été découverts il y a environ 200 ans. On en connaît aujourd’hui plus d’un millier d’espèces ! Comment a-t-on réussi à savoir à quoi ressemblaient ces animaux disparus depuis si longtemps ?
+
+Grâce et les Petits Cur...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Pourquoi les algues poussent dans l’eau ?</title>
+                <guid isPermaLink="false">3a8d3f8f1f16f1f52659f27772839ac7e73b904a</guid>
+                <description><![CDATA[<p><b>Tu n’aimes pas trop, quand tu es dans la mer, que des algues te chatouillent les jambes et les pieds ! Tu trouves cela pas très rassurant et même un peu dégoûtant… Mais sais-tu qu’elles sont très utiles ? Et qu’elles ne poussent pas que dans l’eau ?</b></p>
+<p><br></p>
+<p>Pour mieux les connaître et comprendre leur rôle, Grâce et les Petits Curieux de sciences – Fatou, Manon, Samuel – ont rencontré <b>Line Le Gall,</b> enseignante-chercheure du Muséum, spécialiste des algues.  </p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+<br>
+<b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheuse invitée : <b>Line Le Gall</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></description>
+                <content:encoded><![CDATA[<p><b>Tu n’aimes pas trop, quand tu es dans la mer, que des algues te chatouillent les jambes et les pieds ! Tu trouves cela pas très rassurant et même un peu dégoûtant… Mais sais-tu qu’elles sont très utiles ? Et qu’elles ne poussent pas que dans l’eau ?</b></p>
+<p><br></p>
+<p>Pour mieux les connaître et comprendre leur rôle, Grâce et les Petits Curieux de sciences – Fatou, Manon, Samuel – ont rencontré <b>Line Le Gall,</b> enseignante-chercheure du Muséum, spécialiste des algues.  </p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+<br>
+<b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheuse invitée : <b>Line Le Gall</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></content:encoded>
+                <pubDate>Sat, 08 Oct 2022 06:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/GA55Euw0PvV5.mp3?t=1659545788" length="10012845" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/pourquoi-les-algues-poussent-dans-l-eau</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>cm1,CM2,mnhn,écologie,Podcast scientifique,sciences de la vie,rechauffement climatique,Images doc,podcast sciences,sciences naturelles,podcast pour enfants,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,Ecologie marine,vie sous-marine,Algues rôle</itunes:keywords>
+                                <itunes:duration>10:25</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>1</itunes:season>
+                    <podcast:season>1</podcast:season>
+                                            <itunes:episode>5</itunes:episode>
+                        <podcast:episode>5</podcast:episode>
+                                                    <itunes:subtitle>Tu n’aimes pas trop, quand tu es dans la mer, que des algues te chatouillent les jambes et les pieds ! Tu trouves cela pas très rassurant et même un peu dégoûtant… Mais sais-tu qu’elles sont très utiles ? Et qu’elles ne poussent pas que dans l’eau ?
+
+P...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Pourquoi les girafes ont-elles un long cou ?</title>
+                <guid isPermaLink="false">afac914bb44fd50d4851d017407e69485757dc84</guid>
+                <description><![CDATA[<p><b>Tu savais, toi, que le cou de la girafe a 7 vertèbres, comme celui des humains ?  Et qu’il y a un million d’années, il n’était pas si long ? Que s’est-il passé dans la savane, générations après générations ?</b></p>
+<p><br></p>
+<p>Pour le savoir, Grâce et les Petits Curieux de sciences – Maya, Cheikh et Belkis – ont rencontré <b>Guillaume Lecointre, </b>zoologiste et systématicien.<br>
+</p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+</p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheur invité : <b>Guillaume Lecointre</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></description>
+                <content:encoded><![CDATA[<p><b>Tu savais, toi, que le cou de la girafe a 7 vertèbres, comme celui des humains ?  Et qu’il y a un million d’années, il n’était pas si long ? Que s’est-il passé dans la savane, générations après générations ?</b></p>
+<p><br></p>
+<p>Pour le savoir, Grâce et les Petits Curieux de sciences – Maya, Cheikh et Belkis – ont rencontré <b>Guillaume Lecointre, </b>zoologiste et systématicien.<br>
+</p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+</p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheur invité : <b>Guillaume Lecointre</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></content:encoded>
+                <pubDate>Sat, 01 Oct 2022 06:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/JdDDJSGeOv55.mp3?t=1659545422" length="10231341" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/pourquoi-les-girafes-ont-elles-un-long-cou</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>darwin,cm1,CM2,mnhn,Podcast scientifique,sciences de la vie,Génétique,préhistoire,Images doc,podcast sciences,sciences naturelles,podcast pour enfants,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,théorie de l'évolution,Sélection naturelle,cou girafe</itunes:keywords>
+                                <itunes:duration>10:39</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>1</itunes:season>
+                    <podcast:season>1</podcast:season>
+                                            <itunes:episode>4</itunes:episode>
+                        <podcast:episode>4</podcast:episode>
+                                                    <itunes:subtitle>Tu savais, toi, que le cou de la girafe a 7 vertèbres, comme celui des humains ?  Et qu’il y a un million d’années, il n’était pas si long ? Que s’est-il passé dans la savane, générations après générations ?
+
+Pour le savoir, Grâce et les Petits Curieux...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Combien pèse la Terre ?</title>
+                <guid isPermaLink="false">05a0e4fec4ec7a35753249fc8a9ee1cff6e82cdb</guid>
+                <description><![CDATA[<p><b>Peser la Terre, c’est vraiment très compliqué. Tu veux savoir pourquoi ? </b>Alors, c’est parti pour un petit voyage dans le système solaire pendant lequel tu apprendras aussi beaucoup de choses sur l<b>a gravité, les étoiles filantes, les astéroïdes, les météorites, l’origine de notre planète et de la Lune</b>…</p>
+<p><br></p>
+<p><b>“On ne connaît jamais vraiment précisément la masse de la Terre…” “Ce sont des nombres gigantesques…” <br>
+</b>Grâce et les Petits curieux de sciences – Sarah, Amine, Ishak – ont interrogé <b>Brigitte Zanda,</b> enseignante-chercheuse du Muséum national d'Histoire naturelle, spécialiste des météorites.<br>
+Elle a répondu à leurs nombreuses questions (“Est-ce que la Terre peut s’alourdir ?” “Comment s'est formée la Terre ?” “Si une grosse météorite tombait sur la Terre, comment ferait-on ?”…) et leur a montré une météorite… </p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+</p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheuse invitée : <b>Brigitte Zanda</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></description>
+                <content:encoded><![CDATA[<p><b>Peser la Terre, c’est vraiment très compliqué. Tu veux savoir pourquoi ? </b>Alors, c’est parti pour un petit voyage dans le système solaire pendant lequel tu apprendras aussi beaucoup de choses sur l<b>a gravité, les étoiles filantes, les astéroïdes, les météorites, l’origine de notre planète et de la Lune</b>…</p>
+<p><br></p>
+<p><b>“On ne connaît jamais vraiment précisément la masse de la Terre…” “Ce sont des nombres gigantesques…” <br>
+</b>Grâce et les Petits curieux de sciences – Sarah, Amine, Ishak – ont interrogé <b>Brigitte Zanda,</b> enseignante-chercheuse du Muséum national d'Histoire naturelle, spécialiste des météorites.<br>
+Elle a répondu à leurs nombreuses questions (“Est-ce que la Terre peut s’alourdir ?” “Comment s'est formée la Terre ?” “Si une grosse météorite tombait sur la Terre, comment ferait-on ?”…) et leur a montré une météorite… </p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+</p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheuse invitée : <b>Brigitte Zanda</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></content:encoded>
+                <pubDate>Sat, 24 Sep 2022 06:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/drgg4SDng01x.mp3?t=1659545094" length="11518125" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/combien-pese-la-terre</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>cm1,CM2,mnhn,écologie,Podcast scientifique,Images doc,podcast sciences,sciences naturelles,planète terre,géologie,podcast pour enfants,comètes,Météorites,Don't Look Up,cycle 3,sciences de la terre,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,étoiles filantes</itunes:keywords>
+                                <itunes:duration>11:59</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>1</itunes:season>
+                    <podcast:season>1</podcast:season>
+                                            <itunes:episode>3</itunes:episode>
+                        <podcast:episode>3</podcast:episode>
+                                                    <itunes:subtitle>Peser la Terre, c’est vraiment très compliqué. Tu veux savoir pourquoi ? Alors, c’est parti pour un petit voyage dans le système solaire pendant lequel tu apprendras aussi beaucoup de choses sur la gravité, les étoiles filantes, les astéroïdes, les mét...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Est-ce que les animaux utilisent des outils ?</title>
+                <guid isPermaLink="false">7d51159a771b4085148ff6a862c5ac303add85fd</guid>
+                <description><![CDATA[<p><b>Tu savais, toi, que certains animaux utilisent des cheveux comme fil dentaire et que d’autres jouent de la batterie avec des noix pour draguer ?</b></p>
+<p><br></p>
+<p>Eh oui, les animaux utilisent des outils ! Pour te faire découvrir comment, Grâce et les Petits Curieux de sciences – Anna-Louise, Inès et Samy – ont posé leurs questions à <b>Emmanuelle Pouydebat,</b> directrice de recherche au CNRS et au Muséum national d'Histoire naturelle, spécialiste de l'évolution des comportements animaliers.</p>
+<p><br></p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+<br>
+<b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheuse invitée : <b>Emmanuelle Pouydebat</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></description>
+                <content:encoded><![CDATA[<p><b>Tu savais, toi, que certains animaux utilisent des cheveux comme fil dentaire et que d’autres jouent de la batterie avec des noix pour draguer ?</b></p>
+<p><br></p>
+<p>Eh oui, les animaux utilisent des outils ! Pour te faire découvrir comment, Grâce et les Petits Curieux de sciences – Anna-Louise, Inès et Samy – ont posé leurs questions à <b>Emmanuelle Pouydebat,</b> directrice de recherche au CNRS et au Muséum national d'Histoire naturelle, spécialiste de l'évolution des comportements animaliers.</p>
+<p><br></p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+<br>
+<b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheuse invitée : <b>Emmanuelle Pouydebat</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></content:encoded>
+                <pubDate>Sat, 17 Sep 2022 06:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/egqq6iGjpRD8.mp3?t=1659519153" length="11440941" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/est-ce-que-les-animaux-utilisent-des-outils</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>cm1,CM2,mnhn,écologie,Podcast scientifique,sciences de la vie,Images doc,podcast sciences,sciences naturelles,podcast pour enfants,comportement animal,cycle 3,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,vie des animaux</itunes:keywords>
+                                <itunes:duration>11:55</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>1</itunes:season>
+                    <podcast:season>1</podcast:season>
+                                            <itunes:episode>2</itunes:episode>
+                        <podcast:episode>2</podcast:episode>
+                                                    <itunes:subtitle>Tu savais, toi, que certains animaux utilisent des cheveux comme fil dentaire et que d’autres jouent de la batterie avec des noix pour draguer ?
+
+Eh oui, les animaux utilisent des outils ! Pour te faire découvrir comment, Grâce et les Petits Curieux de...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Pourquoi les humains préhistoriques dessinaient-ils des animaux  ?</title>
+                <guid isPermaLink="false">14946d4acb703a3685bb3cef8704d8e5466481da</guid>
+                <description><![CDATA[<p><b>Sais-tu que c’est grâce à un chien, baptisé Robot, que la grotte de Lascaux a été découverte en 1940 ?<br>
+</b></p>
+<p>Pendant une promenade, Marcel Ravidat, son maître, récupère Robot au fond d'un trou. Il décide de revenir au même endroit quelques jours plus tard pour creuser avec trois copains. Équipés de cordes et de lampes, ils descendent dans un couloir étroit et se retrouvent devant des <b>murs recouverts de dessins d'animaux</b> : des taureaux, une vache noire, un cerf, des félins, un rhinocéros… Ces peintures ont été dessinées à la préhistoire, il y a environ 18 000 ans ! <br>
+</p>
+<p>Pour savoir pourquoi les humains préhistoriques ont représenté autant d'animaux, la journaliste <b>Grâce et les Petits Curieux de sciences</b> – Mohamed, Camille et Justine – ont rencontré <b>Eric Robert, enseignant-chercheur du Muséum</b> national d'Histoire naturelle,<b> archéologue et préhistorien.</b></p>
+<p><br></p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+<br>
+<b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheur invité : <b>Eric Robert</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></description>
+                <content:encoded><![CDATA[<p><b>Sais-tu que c’est grâce à un chien, baptisé Robot, que la grotte de Lascaux a été découverte en 1940 ?<br>
+</b></p>
+<p>Pendant une promenade, Marcel Ravidat, son maître, récupère Robot au fond d'un trou. Il décide de revenir au même endroit quelques jours plus tard pour creuser avec trois copains. Équipés de cordes et de lampes, ils descendent dans un couloir étroit et se retrouvent devant des <b>murs recouverts de dessins d'animaux</b> : des taureaux, une vache noire, un cerf, des félins, un rhinocéros… Ces peintures ont été dessinées à la préhistoire, il y a environ 18 000 ans ! <br>
+</p>
+<p>Pour savoir pourquoi les humains préhistoriques ont représenté autant d'animaux, la journaliste <b>Grâce et les Petits Curieux de sciences</b> – Mohamed, Camille et Justine – ont rencontré <b>Eric Robert, enseignant-chercheur du Muséum</b> national d'Histoire naturelle,<b> archéologue et préhistorien.</b></p>
+<p><br></p>
+<p><br></p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+<br>
+<b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>. <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheur invité : <b>Eric Robert</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></content:encoded>
+                <pubDate>Sat, 10 Sep 2022 06:00:00 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/7zAA7hEdOjNk.mp3?t=1659517455" length="11414829" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/pourquoi-les-humains-prehistoriques-dessinaient-ils-des-animaux</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>cm1,CM2,mnhn,Podcast scientifique,sciences de la vie,préhistoire,Images doc,podcast sciences,podcast pour enfants,grotte de lascaux,Hommes préhistoriques,cycle 3,sciences pour les enfants,découvertes scientifiques,Muséum histoire naturelle,grotte préhistorique,peintures pariétales</itunes:keywords>
+                                <itunes:duration>11:53</itunes:duration>
+                <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:season>1</itunes:season>
+                    <podcast:season>1</podcast:season>
+                                            <itunes:episode>1</itunes:episode>
+                        <podcast:episode>1</podcast:episode>
+                                                    <itunes:subtitle>Sais-tu que c’est grâce à un chien, baptisé Robot, que la grotte de Lascaux a été découverte en 1940 ?
+
+Pendant une promenade, Marcel Ravidat, son maître, récupère Robot au fond d'un trou. Il décide de revenir au même endroit quelques jours plus tard p...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+                    <item>
+                <title>Curieux de sciences, pour faire découvrir et aimer les sciences de la vie aux enfants</title>
+                <guid isPermaLink="false">f166986137f8eb810a5f7a1cf7f73b7e4b65f67d</guid>
+                <description><![CDATA[<p><b>“Curieux de sciences” est le nouveau podcast du magazine jeunesse </b><em><b>Images Doc</b></em><b>. Coproduit par Bayard Jeunesse et le Muséum national d’Histoire naturelle, </b>il fait découvrir et aimer les sciences de la vie, de l’homme et de la Terre, en répondant à des questions d’enfants : “Pourquoi les hommes préhistoriques dessinaient-ils des animaux ?” “Pourquoi les girafes ont-elles un long cou ?” Ou encore : “Qui est apparu le premier, l’œuf ou la poule ?” </p>
+<p><br></p>
+<p><b>En 10 épisodes d’une dizaine de minutes, les jeunes auditeurs de 7 à 12 ans</b> suivent les Petits Curieux à la rencontre des scientifiques du Muséum.<br>
+</p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+</p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.  <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheuse invitée : <b>Evelyne Heyer</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></description>
+                <content:encoded><![CDATA[<p><b>“Curieux de sciences” est le nouveau podcast du magazine jeunesse </b><em><b>Images Doc</b></em><b>. Coproduit par Bayard Jeunesse et le Muséum national d’Histoire naturelle, </b>il fait découvrir et aimer les sciences de la vie, de l’homme et de la Terre, en répondant à des questions d’enfants : “Pourquoi les hommes préhistoriques dessinaient-ils des animaux ?” “Pourquoi les girafes ont-elles un long cou ?” Ou encore : “Qui est apparu le premier, l’œuf ou la poule ?” </p>
+<p><br></p>
+<p><b>En 10 épisodes d’une dizaine de minutes, les jeunes auditeurs de 7 à 12 ans</b> suivent les Petits Curieux à la rencontre des scientifiques du Muséum.<br>
+</p>
+<p><b>“Curieux de sciences”</b> est une aventure sonore qui entraine les enfants dans l'univers fascinant de la science en stimulant l'imaginaire tout en dévoilant la rigueur et les surprises qui accompagnent les découvertes scientifiques.<br>
+</p>
+<p><b>Crédits :</b> Ce podcast est co-produit par<a href="https://www.imagesdoc.com/" title="&lt;span data-offset-key=&quot;e4fmh-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt; le magazine Images Doc&lt;/span&gt;&lt;/span&gt;"> le magazine Images Doc</a>  (Bayard Jeunesse) et le <a href="https://www.mnhn.fr/fr" title="&lt;span data-offset-key=&quot;e4fmh-3-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;Muséum national d’Histoire naturelle&lt;/span&gt;&lt;/span&gt;">Muséum national d’Histoire naturelle</a>.  <br>
+Direction éditoriale : <b>Bertrand Fichou.</b> Comité scientifique du Muséum : <b>Ronan Allain, Line Le Gall, Jean-Jacques Bahain.</b> Chercheuse invitée : <b>Evelyne Heyer</b>. Directeur de production : <b>Julien Moch.</b> Journaliste et hoste : <b>Grâce Leplat. </b>Production exécutive : <b>Billy the Cast.</b> Réalisation : <b>Benoît Laur. </b>Musiques : <b>Emmanuel Viau et Benoît Laur. </b>Création visuelle : <b>Fred Sochard, Evan-James Duvinage et Juliette Banquet. </b>Productrice : <b>Hélène Devannes. </b></p>
+<p><br></p>
+<p>Un podcast de Bayard Jeunesse - MNHN - 2022 - Droits réservés.  </p>]]></content:encoded>
+                <pubDate>Mon, 01 Aug 2022 14:51:12 +0000</pubDate>
+                <enclosure url="https://audio.ausha.co/3P66eSQggxWK.mp3?t=1659365433" length="1393102" type="audio/mpeg"/>
+                                    <link>https://podcast.ausha.co/curieux-de-science/curieux-de-sciences-pour-faire-decouvrir-et-aimer-les-sciences-de-la-vie-aux-enfants</link>
+                
+                                <itunes:author>Images Doc et Muséum national d'Histoire naturelle</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                                    <itunes:keywords>dinosaures,cm1,CM2,mnhn,écologie,Podcast scientifique,sciences de la vie,Génétique,préhistoire,paléontologie,Images doc,sciences naturelles,géologie,podcast pour enfants,cycle 3,sciences du vivant,sciences de la terre,sciences pour les enfants,découvertes scientifique,Muséum histoire naturelle</itunes:keywords>
+                                <itunes:duration>01:27</itunes:duration>
+                <itunes:episodeType>trailer</itunes:episodeType>
+                                    <itunes:season>1</itunes:season>
+                    <podcast:season>1</podcast:season>
+                                                    <itunes:subtitle>“Curieux de sciences” est le nouveau podcast du magazine jeunesse Images Doc. Coproduit par Bayard Jeunesse et le Muséum national d’Histoire naturelle, il fait découvrir et aimer les sciences de la vie, de l’homme et de la Terre, en répondant à des que...</itunes:subtitle>
+
+                <googleplay:author>Images Doc et Muséum national d'Histoire naturelle</googleplay:author>
+                                <googleplay:explicit>no</googleplay:explicit>
+
+                                    <itunes:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                    <googleplay:image href="https://image.ausha.co/A91rsdTaQVqQ4LHBEqjNz5pSoEf8x9Z9xced6Wp6_1400x1400.jpeg?t=1659365168"/>
+                
+                                    <psc:chapters version="1.1">
+                                            </psc:chapters>
+                
+                            </item>
+            </channel>
+</rss>

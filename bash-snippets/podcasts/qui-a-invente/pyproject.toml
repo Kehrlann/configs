@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "bestioles"
+version = "0.1.0"
+description = ""
+authors = ["Daniel Garnier-Moiroux <git@garnier.wf>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+beautifulsoup4 = "^4.12.2"
+lxml = "^4.9.3"
+python-slugify = "^8.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:pa="http://podcastaddict.com" xmlns:podcastRF="http://radiofrance.fr/Lancelot/Podcast#" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+  <channel>
+    <title>Bestioles</title>
+    <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles</link>
+    <description>Les aventures du monde animal ! Le nouveau podcast pour les 5-7 Rendez-vous sur l'application Radio France pour découvrir des milliers d'autres podcasts.</description>
+    <language>fr</language>
+    <copyright>Radio France</copyright>
+    <lastBuildDate>Tue, 05 Dec 2023 14:24:19 +0100</lastBuildDate>
+    <generator>Radio France</generator>
+    <image>
+      <url>https://www.radiofrance.fr/s3/cruiser-production/2023/03/2ab6ee98-f90e-441f-8b88-1104efd7f01a/1400x1400_sc_rf_omm_0000038201_ite.jpg</url>
+      <title>Bestioles</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles</link>
+    </image>
+    <itunes:author>France Inter</itunes:author>
+    <itunes:category text="Kids &amp; Family"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/2ab6ee98-f90e-441f-8b88-1104efd7f01a/1400x1400_sc_rf_omm_0000038201_ite.jpg"/>
+    <itunes:owner>
+      <itunes:email>podcast@radiofrance.com</itunes:email>
+      <itunes:name>Radio France</itunes:name>
+    </itunes:owner>
+    <itunes:subtitle>Bestioles</itunes:subtitle>
+    <itunes:summary>Les aventures du monde animal ! Le nouveau podcast pour les 5-7 Rendez-vous sur l'application Radio France pour découvrir des milliers d'autres podcasts.</itunes:summary>
+    <itunes:new-feed-url>https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_22046.xml</itunes:new-feed-url>
+    <pa:new-feed-url>https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_22046.xml</pa:new-feed-url>
+    <podcastRF:originStation>1</podcastRF:originStation>
+    <googleplay:block>yes</googleplay:block>
+    <item>
+      <title>Les Bestioles fossiles 16/16 : L’Amplectobelua : petit mais costaud !</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/l-amplectobelua-4828828</link>
+      <description>durée : 00:12:17 - Bestioles - Il y a 520 millions d’années l’amplectobelua semait la terreur dans les océans. Ne vous fiez pas à ses 50 centimètres. Tout être vivant qui se trouvait sur son chemin était susceptible de finir en dîner. Pas de pitié quand on est un super prédateur !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/255bf8b3-31b4-4930-aad9-8ef56a4de14e/22046-04.10.2023-ITEMA_23475815-2023F43553E0026-21.mp3" length="11831307" type="audio/mpeg"/>
+      <guid isPermaLink="false">19cc0cd0-25c4-4909-8006-b9ac86796e07-NET_MFI_E04C7C4E-2C41-462E-B755-46A9E641346B</guid>
+      <pubDate>Wed, 04 Oct 2023 10:05:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0026</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 16/16 : L’Amplectobelua : petit mais costaud !</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,16/16,:,L’Amplectobelua :,petit,mais,costaud !</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 16/16 : L’Amplectobelua : petit mais costaud !</itunes:subtitle>
+      <itunes:summary>durée : 00:12:17 - Bestioles - Il y a 520 millions d’années l’amplectobelua semait la terreur dans les océans. Ne vous fiez pas à ses 50 centimètres. Tout être vivant qui se trouvait sur son chemin était susceptible de finir en dîner. Pas de pitié quand on est un super prédateur !</itunes:summary>
+      <itunes:duration>00:12:17</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 15/16 : Le Darwinius : petit singe, grands dangers</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-darwinius-4359114</link>
+      <description>durée : 00:10:06 - Bestioles - Sous ses airs de lémurien, ce presque-singe de l’éocène est à peine plus gros qu'un chat. Le Darwinius saute de branches en branches dans les forêts pour trouver de quoi se nourrir, slalomant  entre les dangers comme un athlète. Ses talents d'acrobate sont la garantie de sa survie.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/53cf0ba9-c907-4daf-9276-f4aa52ab8d84/22046-04.10.2023-ITEMA_23475815-2023F43553E0025-21.mp3" length="9739075" type="audio/mpeg"/>
+      <guid isPermaLink="false">627b19e2-aaf4-435a-bed3-232115fa1928-NET_MFI_3FB1F7B4-ACBC-4194-A9B2-06B3549CC45F</guid>
+      <pubDate>Wed, 04 Oct 2023 10:04:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0025</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 15/16 : Le Darwinius : petit singe, grands dangers</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,15/16,:,Le,Darwinius :,petit,singe,,grands,dangers</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 15/16 : Le Darwinius : petit singe, grands dangers</itunes:subtitle>
+      <itunes:summary>durée : 00:10:06 - Bestioles - Sous ses airs de lémurien, ce presque-singe de l’éocène est à peine plus gros qu'un chat. Le Darwinius saute de branches en branches dans les forêts pour trouver de quoi se nourrir, slalomant  entre les dangers comme un athlète. Ses talents d'acrobate sont la garantie de sa survie.</itunes:summary>
+      <itunes:duration>00:10:06</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 14/16 : Eurohippus : le tout petit cousin du cheval</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/eurohippus-2627530</link>
+      <description>durée : 00:12:19 - Bestioles - Alors qu’elle est sur le point de mettre bas, une courageuse Eurohippus cherche son compagnon avec prudence ; elle sait qu’un dangereux prédateur rôde. Il pourrait compromettre la naissance de son petit.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/be6f7925-9ecb-4a23-9b55-d85a9b7dc549/22046-04.10.2023-ITEMA_23475815-2023F43553E0024-21.mp3" length="11858390" type="audio/mpeg"/>
+      <guid isPermaLink="false">fdd43c6b-84d8-49ab-a4bf-e6fdd7c227dd-NET_MFI_95D8E1F9-AE98-4CD9-A78B-48F7104D9982</guid>
+      <pubDate>Wed, 04 Oct 2023 10:03:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0024</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 14/16 : Eurohippus : le tout petit cousin du cheval</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,14/16,:,Eurohippus :,le,tout,petit,cousin,du,cheval</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 14/16 : Eurohippus : le tout petit cousin du cheval</itunes:subtitle>
+      <itunes:summary>durée : 00:12:19 - Bestioles - Alors qu’elle est sur le point de mettre bas, une courageuse Eurohippus cherche son compagnon avec prudence ; elle sait qu’un dangereux prédateur rôde. Il pourrait compromettre la naissance de son petit.</itunes:summary>
+      <itunes:duration>00:12:19</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 13/16 : L’Ichtyosaure : un reptile marin déguisé en dauphin </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/l-ichtyosaure-2313920</link>
+      <description>durée : 00:10:48 - Bestioles - Il y a 195 millions d’années, au début du jurassique, l’Ichtyosaure, un reptile marin, part en chasse pour se remplir l’estomac de délicieuses ammonites. Mais dans le grand cycle de la vie, un reptile plus imposant voudrait lui réserver le même sort.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/3404c555-0a53-4809-ad67-60b071c1b974/22046-04.10.2023-ITEMA_23475815-2023F43553E0023-21.mp3" length="10411527" type="audio/mpeg"/>
+      <guid isPermaLink="false">f3c6d8d8-4d71-4a7a-b353-357460f7225d-NET_MFI_0327E10A-183D-4D10-8B29-3045B9FEC38B</guid>
+      <pubDate>Wed, 04 Oct 2023 10:02:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0023</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 13/16 : L’Ichtyosaure : un reptile marin déguisé en dauphin </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,13/16,:,L’Ichtyosaure :,un,reptile,marin,déguisé,en,dauphin,</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 13/16 : L’Ichtyosaure : un reptile marin déguisé en dauphin </itunes:subtitle>
+      <itunes:summary>durée : 00:10:48 - Bestioles - Il y a 195 millions d’années, au début du jurassique, l’Ichtyosaure, un reptile marin, part en chasse pour se remplir l’estomac de délicieuses ammonites. Mais dans le grand cycle de la vie, un reptile plus imposant voudrait lui réserver le même sort.</itunes:summary>
+      <itunes:duration>00:10:48</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 12/16 : Meganeura : la tête brûlée des marais</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/meganeura-4570208</link>
+      <description>durée : 00:11:01 - Bestioles - Terreur volante du Carbonifère, la meganeura est une libellule de la taille d’un faucon. Elle survole les marécages en quête d’une proie à se mettre entre les mandibules. Mais elle doit aussi éviter les mâles un peu trop entreprenants !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/671f98ef-dc6b-459e-a4cf-3415f1caa9ef/22046-04.10.2023-ITEMA_23475815-2023F43553E0022-21.mp3" length="10607074" type="audio/mpeg"/>
+      <guid isPermaLink="false">03792ee2-a1db-4311-8a1f-543f00a021af-NET_MFI_B8D9F906-9C9B-487D-889A-B239DAE905E4</guid>
+      <pubDate>Wed, 04 Oct 2023 10:01:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0022</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 12/16 : Meganeura : la tête brûlée des marais</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,12/16,:,Meganeura :,la,tête,brûlée,des,marais</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 12/16 : Meganeura : la tête brûlée des marais</itunes:subtitle>
+      <itunes:summary>durée : 00:11:01 - Bestioles - Terreur volante du Carbonifère, la meganeura est une libellule de la taille d’un faucon. Elle survole les marécages en quête d’une proie à se mettre entre les mandibules. Mais elle doit aussi éviter les mâles un peu trop entreprenants !</itunes:summary>
+      <itunes:duration>00:11:01</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 11/16 : Hylonomus : le minus a la tête dure !</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/hylonomus-2297308</link>
+      <description>durée : 00:10:57 - Bestioles - Hylonomus lézarde dans la forêt marécageuse. Le reptile y chasse blattes, escargots et autres créatures. Il y a 300 millions d’années, le danger se niche jusque dans le moindre petit bout de bois !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/ccf4ccd3-6817-4f1b-a456-8538dd1d9c17/22046-04.10.2023-ITEMA_23475815-2023F43553E0021-21.mp3" length="10555171" type="audio/mpeg"/>
+      <guid isPermaLink="false">d053d01c-1fcf-499d-84b9-bfe43c8e7606-NET_MFI_5292BF48-9E63-446E-A3FD-443C8EA1FC0A</guid>
+      <pubDate>Wed, 04 Oct 2023 10:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0021</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 11/16 : Hylonomus : le minus a la tête dure !</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,11/16,:,Hylonomus :,le,minus,a,la,tête,dure !</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 11/16 : Hylonomus : le minus a la tête dure !</itunes:subtitle>
+      <itunes:summary>durée : 00:10:57 - Bestioles - Hylonomus lézarde dans la forêt marécageuse. Le reptile y chasse blattes, escargots et autres créatures. Il y a 300 millions d’années, le danger se niche jusque dans le moindre petit bout de bois !</itunes:summary>
+      <itunes:duration>00:10:57</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Bande-annonce - Six nouveaux épisodes de "Bestioles" à découvrir le 4 octobre</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles</link>
+      <description>durée : 00:00:50 - Bestioles - Une série consacrée aux bestioles des mondes disparus : meganeura, darwinius, amplectobelua, hylonomus, eurohippus, ichtyosaure, avec le Muséum national d'histoire naturelle, découvrez ces bestioles fossiles venues du fond des âges.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/e09535a1-8439-4548-a450-5877f3cfcf91/22046-25.09.2023-ITEMA_23487589-2023F43553E0027-21.mp3" length="828575" type="audio/mpeg"/>
+      <guid isPermaLink="false">e39e3405-b279-44f4-ad2d-867dc6005bc0-NET_MFI_74A1D0AE-49CF-4FAD-B908-6F849B5D0880</guid>
+      <pubDate>Mon, 25 Sep 2023 12:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0027</podcastRF:magnetothequeID>
+      <itunes:title>Bande-annonce - Six nouveaux épisodes de "Bestioles" à découvrir le 4 octobre</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Bande-annonce,-,Six,nouveaux,épisodes,de,"Bestioles",à,découvrir,le,4,octobre</itunes:keywords>
+      <itunes:subtitle>Bande-annonce - Six nouveaux épisodes de "Bestioles" à découvrir le 4 octobre</itunes:subtitle>
+      <itunes:summary>durée : 00:00:50 - Bestioles - Une série consacrée aux bestioles des mondes disparus : meganeura, darwinius, amplectobelua, hylonomus, eurohippus, ichtyosaure, avec le Muséum national d'histoire naturelle, découvrez ces bestioles fossiles venues du fond des âges.</itunes:summary>
+      <itunes:duration>00:00:50</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>La chouette effraie, les griffes de la nuit </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/la-chouette-effraie-5221573</link>
+      <description>durée : 00:09:41 - Bestioles - Le plus redoutable des oiseaux nocturnes s'envole dans la nuit noire. Ce prédateur  voit tout et entend tout. C’est parti pour une chasse nocturne silencieuse en rase-mottes dans les champs… plutôt chouette.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/d2814708-cb3a-446b-af92-9593d2d6ec95/22046-21.06.2023-ITEMA_23353703-2023F43553E0020-21.mp3" length="9336387" type="audio/mpeg"/>
+      <guid isPermaLink="false">fdeb6d59-045b-42d1-9329-506749e632ea</guid>
+      <pubDate>Wed, 21 Jun 2023 09:00:09 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0020</podcastRF:magnetothequeID>
+      <itunes:title>La chouette effraie, les griffes de la nuit </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>La,chouette,effraie,,les,griffes,de,la,nuit,</itunes:keywords>
+      <itunes:subtitle>La chouette effraie, les griffes de la nuit </itunes:subtitle>
+      <itunes:summary>durée : 00:09:41 - Bestioles - Le plus redoutable des oiseaux nocturnes s'envole dans la nuit noire. Ce prédateur  voit tout et entend tout. C’est parti pour une chasse nocturne silencieuse en rase-mottes dans les champs… plutôt chouette.</itunes:summary>
+      <itunes:duration>00:09:41</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>L'ours blanc : le solitaire du grand Nord </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/l-ours-blanc</link>
+      <description>durée : 00:11:45 - Bestioles - Solitaire et affamé, l’ours blanc attend que la banquise se reforme au début de l’automne. Il pourra alors à nouveau manger à sa faim et reprendre du poil de la bête pour affronter l’hiver glacial.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/63e51086-087b-47db-8fc5-45ffd27d9e8d/22046-21.06.2023-ITEMA_23353703-2023F43553E0019-21.mp3" length="11322970" type="audio/mpeg"/>
+      <guid isPermaLink="false">3bae16fa-4b8a-441e-a24d-47d042574596</guid>
+      <pubDate>Wed, 21 Jun 2023 09:00:08 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0019</podcastRF:magnetothequeID>
+      <itunes:title>L'ours blanc : le solitaire du grand Nord </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>L'ours,blanc :,le,solitaire,du,grand,Nord,</itunes:keywords>
+      <itunes:subtitle>L'ours blanc : le solitaire du grand Nord </itunes:subtitle>
+      <itunes:summary>durée : 00:11:45 - Bestioles - Solitaire et affamé, l’ours blanc attend que la banquise se reforme au début de l’automne. Il pourra alors à nouveau manger à sa faim et reprendre du poil de la bête pour affronter l’hiver glacial.</itunes:summary>
+      <itunes:duration>00:11:45</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le bernard-l'hermite : tout pour la coquille </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-bernard-l-hermite-3319408</link>
+      <description>durée : 00:11:09 - Bestioles - Un vieux bernard-l'ermite cherche sa dernière coquille pour profiter de sa retraite.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/56811790-8d03-4067-9e25-64ceddeafc6f/22046-21.06.2023-ITEMA_23353703-2023F43553E0017-21.mp3" length="10745131" type="audio/mpeg"/>
+      <guid isPermaLink="false">7e17ae92-cde8-4b88-861b-e141765ddc13</guid>
+      <pubDate>Wed, 21 Jun 2023 09:00:06 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0017</podcastRF:magnetothequeID>
+      <itunes:title>Le bernard-l'hermite : tout pour la coquille </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,bernard-l'hermite :,tout,pour,la,coquille,</itunes:keywords>
+      <itunes:subtitle>Le bernard-l'hermite : tout pour la coquille </itunes:subtitle>
+      <itunes:summary>durée : 00:11:09 - Bestioles - Un vieux bernard-l'ermite cherche sa dernière coquille pour profiter de sa retraite.</itunes:summary>
+      <itunes:duration>00:11:09</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>L'opossum : un mal aimé si attachant</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/l-opossum-2470906</link>
+      <description>durée : 00:10:13 - Bestioles - Mal aimé, il est le mal aimé ! On le dit sale, malodorant, fouilleur de poubelles et bourré de maladies. C’est pas juste et c’est pas vrai ! L’opossum est bien décidé à montrer ses qualités au monde entier et à restaurer son honneur.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/2ec02c23-97e9-4292-92e5-365e4efee08b/22046-21.06.2023-ITEMA_23353703-2023F43553E0016-21.mp3" length="9849726" type="audio/mpeg"/>
+      <guid isPermaLink="false">2bba2e72-5b7d-47c7-b5d3-3819ca447410</guid>
+      <pubDate>Wed, 21 Jun 2023 09:00:05 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0016</podcastRF:magnetothequeID>
+      <itunes:title>L'opossum : un mal aimé si attachant</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>L'opossum :,un,mal,aimé,si,attachant</itunes:keywords>
+      <itunes:subtitle>L'opossum : un mal aimé si attachant</itunes:subtitle>
+      <itunes:summary>durée : 00:10:13 - Bestioles - Mal aimé, il est le mal aimé ! On le dit sale, malodorant, fouilleur de poubelles et bourré de maladies. C’est pas juste et c’est pas vrai ! L’opossum est bien décidé à montrer ses qualités au monde entier et à restaurer son honneur.</itunes:summary>
+      <itunes:duration>00:10:13</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le sanglier : copains comme cochons </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-sanglier-8280816</link>
+      <description>durée : 00:09:53 - Bestioles - Si vous pensiez que la vie en forêt, c'était du tout cuit, ça n’est pas le cas pour le sanglier. Entre semer des graines, trouver à manger en fouillant le sol et protéger ses marcassins, pas le temps de faire la sieste !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/674d36f1-489c-4813-9ccd-3b7467807ccb/22046-21.06.2023-ITEMA_23353703-2023F43553E0015-21.mp3" length="9519093" type="audio/mpeg"/>
+      <guid isPermaLink="false">7906c474-4f78-43fb-aaad-ffd3d71749f8</guid>
+      <pubDate>Wed, 21 Jun 2023 09:00:04 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0015</podcastRF:magnetothequeID>
+      <itunes:title>Le sanglier : copains comme cochons </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,sanglier :,copains,comme,cochons,</itunes:keywords>
+      <itunes:subtitle>Le sanglier : copains comme cochons </itunes:subtitle>
+      <itunes:summary>durée : 00:09:53 - Bestioles - Si vous pensiez que la vie en forêt, c'était du tout cuit, ça n’est pas le cas pour le sanglier. Entre semer des graines, trouver à manger en fouillant le sol et protéger ses marcassins, pas le temps de faire la sieste !</itunes:summary>
+      <itunes:duration>00:09:53</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>La mante religieuse : le tigre des hautes herbes </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/la-mante-religieuse-4593456</link>
+      <description>durée : 00:10:33 - Bestioles - Du haut de son brin d’herbe, la mante religieuse est une chasseuse à l’affût, vorace, carnassière et toujours prompte à la prière.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/8dbe18b9-4f72-413f-b43b-0c3027042d55/22046-21.06.2023-ITEMA_23353703-2023F43553E0014-21.mp3" length="10158000" type="audio/mpeg"/>
+      <guid isPermaLink="false">9b807b7d-acb2-48fb-b56c-9c47dd5fb6d4</guid>
+      <pubDate>Wed, 21 Jun 2023 09:00:03 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0014</podcastRF:magnetothequeID>
+      <itunes:title>La mante religieuse : le tigre des hautes herbes </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>La,mante,religieuse :,le,tigre,des,hautes,herbes,</itunes:keywords>
+      <itunes:subtitle>La mante religieuse : le tigre des hautes herbes </itunes:subtitle>
+      <itunes:summary>durée : 00:10:33 - Bestioles - Du haut de son brin d’herbe, la mante religieuse est une chasseuse à l’affût, vorace, carnassière et toujours prompte à la prière.</itunes:summary>
+      <itunes:duration>00:10:33</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le corail : une bestiole qui n’aime pas qu’on la prenne pour une plante ! </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-corail-2914637</link>
+      <description>durée : 00:10:22 - Bestioles - Sous l’eau, à cent mètres de profondeur, un corail rouge, planté sur un rocher, n’aime pas être pris pour ce qu’il n’est pas. Oui, il est animal ! Et il n’apprécie pas d’être cueilli comme une plante !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/8ce66879-3f15-4073-b23e-195f7323ad94/22046-21.06.2023-ITEMA_23353703-2023F43553E0012-21.mp3" length="9988499" type="audio/mpeg"/>
+      <guid isPermaLink="false">cf604fa6-8077-42b1-aa09-38a2522c7f82</guid>
+      <pubDate>Wed, 21 Jun 2023 09:00:01 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0012</podcastRF:magnetothequeID>
+      <itunes:title>Le corail : une bestiole qui n’aime pas qu’on la prenne pour une plante ! </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,corail :,une,bestiole,qui,n’aime,pas,qu’on,la,prenne,pour,une,plante !,</itunes:keywords>
+      <itunes:subtitle>Le corail : une bestiole qui n’aime pas qu’on la prenne pour une plante ! </itunes:subtitle>
+      <itunes:summary>durée : 00:10:22 - Bestioles - Sous l’eau, à cent mètres de profondeur, un corail rouge, planté sur un rocher, n’aime pas être pris pour ce qu’il n’est pas. Oui, il est animal ! Et il n’apprécie pas d’être cueilli comme une plante !</itunes:summary>
+      <itunes:duration>00:10:22</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le pivert : l’oiseau punk à la tête de bois </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-pivert-2252590</link>
+      <description>durée : 00:12:06 - Bestioles - Le pivert est un bel oiseau. Mais ne vous fiez pas à ses couleurs chatoyantes : c’est un vrai punk qui ambiance toute la forêt, surtout lorsqu’il construit son nid !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/4f3dff0e-9ae2-4c56-b02f-0f5f3e8bfbdf/22046-21.06.2023-ITEMA_23353703-2023F43553E0018-21.mp3" length="11659368" type="audio/mpeg"/>
+      <guid isPermaLink="false">7d3f3132-e994-4214-b9ec-b7d86747a6e0</guid>
+      <pubDate>Wed, 21 Jun 2023 09:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0018</podcastRF:magnetothequeID>
+      <itunes:title>Le pivert : l’oiseau punk à la tête de bois </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,pivert :,l’oiseau,punk,à,la,tête,de,bois,</itunes:keywords>
+      <itunes:subtitle>Le pivert : l’oiseau punk à la tête de bois </itunes:subtitle>
+      <itunes:summary>durée : 00:12:06 - Bestioles - Le pivert est un bel oiseau. Mais ne vous fiez pas à ses couleurs chatoyantes : c’est un vrai punk qui ambiance toute la forêt, surtout lorsqu’il construit son nid !</itunes:summary>
+      <itunes:duration>00:12:06</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le guépard : le sprinteur pacifique</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-guepard</link>
+      <description>durée : 00:10:48 - Bestioles - Le guépard est la bestiole la plus rapide du monde et le carnivore le moins bagarreur sur Terre. Ne vous fiez pas à son look de gros chaton, c'est un redoutable chasseur qui respecte ses camarades.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/e99a5279-db09-4781-876c-e97637c91655/22046-21.06.2023-ITEMA_23353703-2023F43553E0011-21.mp3" length="10410552" type="audio/mpeg"/>
+      <guid isPermaLink="false">ffbdda71-741b-4cd4-96d4-7082ea75b7b2</guid>
+      <pubDate>Wed, 21 Jun 2023 09:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0011</podcastRF:magnetothequeID>
+      <itunes:title>Le guépard : le sprinteur pacifique</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,guépard :,le,sprinteur,pacifique</itunes:keywords>
+      <itunes:subtitle>Le guépard : le sprinteur pacifique</itunes:subtitle>
+      <itunes:summary>durée : 00:10:48 - Bestioles - Le guépard est la bestiole la plus rapide du monde et le carnivore le moins bagarreur sur Terre. Ne vous fiez pas à son look de gros chaton, c'est un redoutable chasseur qui respecte ses camarades.</itunes:summary>
+      <itunes:duration>00:10:48</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>La pieuvre : frayeur en mer des caraïbes </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/la-pieuvre-5504325</link>
+      <description>durée : 00:10:47 - Bestioles - Dans la tiédeur de la mer des caraïbes, une pieuvre s’apprête à pondre dans son antre. Mais le passage d’un crabe rouge réveille son appétit et la détourne imprudemment de sa préparation !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/1ba80b51-5164-41b5-b6e2-dcb392e661cc/22046-21.06.2023-ITEMA_23353703-2023F43553E0013-21.mp3" length="10388394" type="audio/mpeg"/>
+      <guid isPermaLink="false">e5607557-6e85-4646-95cc-1f153614ea4e</guid>
+      <pubDate>Wed, 21 Jun 2023 09:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0013</podcastRF:magnetothequeID>
+      <itunes:title>La pieuvre : frayeur en mer des caraïbes </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>La,pieuvre :,frayeur,en,mer,des,caraïbes,</itunes:keywords>
+      <itunes:subtitle>La pieuvre : frayeur en mer des caraïbes </itunes:subtitle>
+      <itunes:summary>durée : 00:10:47 - Bestioles - Dans la tiédeur de la mer des caraïbes, une pieuvre s’apprête à pondre dans son antre. Mais le passage d’un crabe rouge réveille son appétit et la détourne imprudemment de sa préparation !</itunes:summary>
+      <itunes:duration>00:10:47</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le ténia, un glouton dans le ventre de l’humain</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-tenia-un-glouton-dans-le-ventre-de-l-humain-3236960</link>
+      <description>durée : 00:12:12 - Bestioles - L’être humain peut être parfois contaminé par des parasites, dont le ténia du bœuf. Ce petit locataire désagréable peut atteindre plusieurs mètres de long et pondre des œufs dans notre corps. Si vous vous sentiez un peu seul, avec le ténia vous ne le serez plus !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/7223bb68-9fbb-44ff-ad79-aa0ce2549f84/22046-04.04.2023-ITEMA_23337559-2023F43553E0010-21.mp3" length="11745251" type="audio/mpeg"/>
+      <guid isPermaLink="false">3b5ab6b4-1e0a-4754-acc4-18f5ee38bc92</guid>
+      <pubDate>Tue, 04 Apr 2023 20:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0010</podcastRF:magnetothequeID>
+      <itunes:title>Le ténia, un glouton dans le ventre de l’humain</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,ténia,,un,glouton,dans,le,ventre,de,l’humain</itunes:keywords>
+      <itunes:subtitle>Le ténia, un glouton dans le ventre de l’humain</itunes:subtitle>
+      <itunes:summary>durée : 00:12:12 - Bestioles - L’être humain peut être parfois contaminé par des parasites, dont le ténia du bœuf. Ce petit locataire désagréable peut atteindre plusieurs mètres de long et pondre des œufs dans notre corps. Si vous vous sentiez un peu seul, avec le ténia vous ne le serez plus !</itunes:summary>
+      <itunes:duration>00:12:12</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>L’araignée de mer, une bestiole bien piquante ! </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/l-araignee-de-mer-une-bestiole-bien-piquante-7587385</link>
+      <description>durée : 00:10:29 - Bestioles - Une araignée de mer, bien mal dans sa carapace doit absolument muer pour se retrouver bien dans sa peau. Mais ça n’est pas sans risques.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/9a674e13-ae57-458d-b566-a58faaccb8b7/22046-04.04.2023-ITEMA_23337559-2023F43553E0005-21.mp3" length="10100750" type="audio/mpeg"/>
+      <guid isPermaLink="false">4f7e3976-321e-4ace-9170-59669bf487d7</guid>
+      <pubDate>Tue, 04 Apr 2023 20:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0005</podcastRF:magnetothequeID>
+      <itunes:title>L’araignée de mer, une bestiole bien piquante ! </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>L’araignée,de,mer,,une,bestiole,bien,piquante !,</itunes:keywords>
+      <itunes:subtitle>L’araignée de mer, une bestiole bien piquante ! </itunes:subtitle>
+      <itunes:summary>durée : 00:10:29 - Bestioles - Une araignée de mer, bien mal dans sa carapace doit absolument muer pour se retrouver bien dans sa peau. Mais ça n’est pas sans risques.</itunes:summary>
+      <itunes:duration>00:10:29</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>La blatte : pour vivre heureux, vivons cachés </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/la-blatte-pour-vivre-heureux-vivons-caches-1558644</link>
+      <description>durée : 00:09:43 - Bestioles - Dans une maison où elle n’est pas la bienvenue, une blatte fait de la résistance en tentant d’échapper aux pièges et aux attaques de ses occupants.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/a8992957-fd57-40f7-881e-8e47ef733016/22046-04.04.2023-ITEMA_23337559-2023F43553E0004-21.mp3" length="9362234" type="audio/mpeg"/>
+      <guid isPermaLink="false">4152fd97-8e36-4689-98cb-bca9bfab8648</guid>
+      <pubDate>Tue, 04 Apr 2023 20:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0004</podcastRF:magnetothequeID>
+      <itunes:title>La blatte : pour vivre heureux, vivons cachés </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>La,blatte :,pour,vivre,heureux,,vivons,cachés,</itunes:keywords>
+      <itunes:subtitle>La blatte : pour vivre heureux, vivons cachés </itunes:subtitle>
+      <itunes:summary>durée : 00:09:43 - Bestioles - Dans une maison où elle n’est pas la bienvenue, une blatte fait de la résistance en tentant d’échapper aux pièges et aux attaques de ses occupants.</itunes:summary>
+      <itunes:duration>00:09:43</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>La puceronne, la plus géniale des escrocs </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/la-puceronne-la-plus-geniale-des-escrocs-4118335</link>
+      <description>durée : 00:11:29 - Bestioles - Mais qui est réellement le puceron : tueur de roses ou fragile insecte ? Promenons-nous sur la tige, tant que la coccinelle n’y est pas. Pendant que le troupeau pompe la sève, les prédateurs rôdent. Mais notre mini-maligne n’est pas inquiète : elle n'est pas du genre à se faire avoir !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/562f47d1-c85d-414d-bf4e-314e8ac69cca/22046-04.04.2023-ITEMA_23337559-2023F43553E0003-21.mp3" length="11056491" type="audio/mpeg"/>
+      <guid isPermaLink="false">63c07037-9ab3-4f42-9e07-bc570c87d041</guid>
+      <pubDate>Tue, 04 Apr 2023 20:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0003</podcastRF:magnetothequeID>
+      <itunes:title>La puceronne, la plus géniale des escrocs </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>La,puceronne,,la,plus,géniale,des,escrocs,</itunes:keywords>
+      <itunes:subtitle>La puceronne, la plus géniale des escrocs </itunes:subtitle>
+      <itunes:summary>durée : 00:11:29 - Bestioles - Mais qui est réellement le puceron : tueur de roses ou fragile insecte ? Promenons-nous sur la tige, tant que la coccinelle n’y est pas. Pendant que le troupeau pompe la sève, les prédateurs rôdent. Mais notre mini-maligne n’est pas inquiète : elle n'est pas du genre à se faire avoir !</itunes:summary>
+      <itunes:duration>00:11:29</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le mérou : poisson-roi hermaphrodite</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-merou-poisson-roi-hermaphrodite-8581405</link>
+      <description>durée : 00:10:36 - Bestioles - Ne vous fiez pas à la bonne bouille du mérou ! Malgré son air sympathique, c’est un chasseur redoutable et insatiable, qui fait la loi chez les poissons. Certes, il ne pense qu’à manger, mais sa personnalité se révèle beaucoup plus complexe…</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/c5d17c6c-5389-4011-aea0-9b6c3796702f/22046-04.04.2023-ITEMA_23337559-2023F43553E0009-21.mp3" length="10211275" type="audio/mpeg"/>
+      <guid isPermaLink="false">3e9ed749-e256-4329-baf9-0e67bb00cbf9</guid>
+      <pubDate>Tue, 04 Apr 2023 20:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0009</podcastRF:magnetothequeID>
+      <itunes:title>Le mérou : poisson-roi hermaphrodite</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,mérou :,poisson-roi,hermaphrodite</itunes:keywords>
+      <itunes:subtitle>Le mérou : poisson-roi hermaphrodite</itunes:subtitle>
+      <itunes:summary>durée : 00:10:36 - Bestioles - Ne vous fiez pas à la bonne bouille du mérou ! Malgré son air sympathique, c’est un chasseur redoutable et insatiable, qui fait la loi chez les poissons. Certes, il ne pense qu’à manger, mais sa personnalité se révèle beaucoup plus complexe…</itunes:summary>
+      <itunes:duration>00:10:36</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le piranha : les dents tranchantes de l’Amazonie </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-piranha-les-dents-tranchantes-de-l-amazonie-9727840</link>
+      <description>durée : 00:10:38 - Bestioles - Avec ses crocs acérés, le piranha s’est taillé une réputation de fou sanguinaire dans toute l’Amérique du Sud. Coincée dans une mare pendant la saison sèche, une demoiselle piranha aimerait bien rejoindre le fleuve pour retrouver sa bande et s’offrir un festin. Le cadavre de puma, elle adore ça !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/5b661b11-7748-42a9-9398-c7f275d28048/22046-04.04.2023-ITEMA_23337559-2023F43553E0006-21.mp3" length="10240256" type="audio/mpeg"/>
+      <guid isPermaLink="false">e238ee13-d1bc-4ecf-91d2-c693d139b52e</guid>
+      <pubDate>Tue, 04 Apr 2023 20:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0006</podcastRF:magnetothequeID>
+      <itunes:title>Le piranha : les dents tranchantes de l’Amazonie </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,piranha :,les,dents,tranchantes,de,l’Amazonie,</itunes:keywords>
+      <itunes:subtitle>Le piranha : les dents tranchantes de l’Amazonie </itunes:subtitle>
+      <itunes:summary>durée : 00:10:38 - Bestioles - Avec ses crocs acérés, le piranha s’est taillé une réputation de fou sanguinaire dans toute l’Amérique du Sud. Coincée dans une mare pendant la saison sèche, une demoiselle piranha aimerait bien rejoindre le fleuve pour retrouver sa bande et s’offrir un festin. Le cadavre de puma, elle adore ça !</itunes:summary>
+      <itunes:duration>00:10:38</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le coucou gris : un nid de perdu, dix de retrouvés ! </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-coucou-gris-9289644</link>
+      <description>durée : 00:11:10 - Bestioles - Le coucou gris ne construit pas de nid, ne couve pas ses œufs et n’élève pas ses petits. Non, mais elle se débrouille pour que d’autres le fassent à sa place !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/0b12855d-33cb-41a4-8237-0866cab72a6d/22046-04.04.2023-ITEMA_23337559-2023F43553E0001-21.mp3" length="10752404" type="audio/mpeg"/>
+      <guid isPermaLink="false">c3c1770e-dc85-4ee5-a4c3-b7dc84f477a9</guid>
+      <pubDate>Tue, 04 Apr 2023 20:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0001</podcastRF:magnetothequeID>
+      <itunes:title>Le coucou gris : un nid de perdu, dix de retrouvés ! </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,coucou,gris :,un,nid,de,perdu,,dix,de,retrouvés !,</itunes:keywords>
+      <itunes:subtitle>Le coucou gris : un nid de perdu, dix de retrouvés ! </itunes:subtitle>
+      <itunes:summary>durée : 00:11:10 - Bestioles - Le coucou gris ne construit pas de nid, ne couve pas ses œufs et n’élève pas ses petits. Non, mais elle se débrouille pour que d’autres le fassent à sa place !</itunes:summary>
+      <itunes:duration>00:11:10</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>L'élan : l'herbivore qui se la coule douce</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/l-elan-1060725</link>
+      <description>durée : 00:11:07 - Bestioles - Une bestiole herbivore qui broute dans l'eau, qui est plus grande qu'un cerf, qui vit sa vie pépère et qui peut survivre à ses prédateurs sans courir ? Qui a dit que ça n'existait pas ?</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/0d39186b-0fa8-45d5-a1cb-b8844bae5b43/22046-04.04.2023-ITEMA_23337559-2023F43553E0002-21.mp3" length="10710220" type="audio/mpeg"/>
+      <guid isPermaLink="false">fafeb0e8-7fbc-4ac0-a1b3-2d0c1845df88</guid>
+      <pubDate>Tue, 04 Apr 2023 20:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0002</podcastRF:magnetothequeID>
+      <itunes:title>L'élan : l'herbivore qui se la coule douce</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>L'élan :,l'herbivore,qui,se,la,coule,douce</itunes:keywords>
+      <itunes:subtitle>L'élan : l'herbivore qui se la coule douce</itunes:subtitle>
+      <itunes:summary>durée : 00:11:07 - Bestioles - Une bestiole herbivore qui broute dans l'eau, qui est plus grande qu'un cerf, qui vit sa vie pépère et qui peut survivre à ses prédateurs sans courir ? Qui a dit que ça n'existait pas ?</itunes:summary>
+      <itunes:duration>00:11:07</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le blaireau : à la table de l’intrépide maître des terriers</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-blaireau-a-la-table-de-l-intrepide-maitre-des-terriers-3724932</link>
+      <description>durée : 00:09:59 - Bestioles - Après une bonne journée de sommeil au fond de son terrier, le blaireau à l’estomac qui gargouille. Mais il se sait jamais ce qu’il va pouvoir se mettre sous la dent, ni quel danger le guette au détour d’un buisson ! Pour le blaireau, la nuit n’est pas de tout repos !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/b60dabac-29d6-445e-9637-209c6abb9948/22046-04.04.2023-ITEMA_23337559-2023F43553E0008-21.mp3" length="9620379" type="audio/mpeg"/>
+      <guid isPermaLink="false">e57df1bb-26ed-405d-a380-2b74b7a094b8</guid>
+      <pubDate>Tue, 04 Apr 2023 20:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0008</podcastRF:magnetothequeID>
+      <itunes:title>Le blaireau : à la table de l’intrépide maître des terriers</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,blaireau :,à,la,table,de,l’intrépide,maître,des,terriers</itunes:keywords>
+      <itunes:subtitle>Le blaireau : à la table de l’intrépide maître des terriers</itunes:subtitle>
+      <itunes:summary>durée : 00:09:59 - Bestioles - Après une bonne journée de sommeil au fond de son terrier, le blaireau à l’estomac qui gargouille. Mais il se sait jamais ce qu’il va pouvoir se mettre sous la dent, ni quel danger le guette au détour d’un buisson ! Pour le blaireau, la nuit n’est pas de tout repos !</itunes:summary>
+      <itunes:duration>00:09:59</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le phasme : un-deux-trois soleil !</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-phasme-un-deux-trois-soleil-4889431</link>
+      <description>durée : 00:11:02 - Bestioles - Un vent de Sud souffle dans la nuit, les ronciers s’agitent… un petit bâton vert, résiste à ces effroyables conditions. Mais une bourrasque terrible l’arrache de l’arbuste et l’emporte dans les airs. S’en sortira-t-il sans ailes ? Et surtout sera-t-il de retour avant le jour qu’il craint tant ?</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/c7898fec-8208-4c53-9a9b-b57f38d8e375/22046-04.04.2023-ITEMA_23337559-2023F43553E0007-21.mp3" length="10625997" type="audio/mpeg"/>
+      <guid isPermaLink="false">0209d10d-5eb0-417f-8eda-ed6bd173e76e</guid>
+      <pubDate>Tue, 04 Apr 2023 20:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2023F43553E0007</podcastRF:magnetothequeID>
+      <itunes:title>Le phasme : un-deux-trois soleil !</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2023/03/8253dd79-7485-4b97-bf6e-38000aa1b69a/1400x1400_sc_3000-fi-bestioles-vignette.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,phasme :,un-deux-trois,soleil !</itunes:keywords>
+      <itunes:subtitle>Le phasme : un-deux-trois soleil !</itunes:subtitle>
+      <itunes:summary>durée : 00:11:02 - Bestioles - Un vent de Sud souffle dans la nuit, les ronciers s’agitent… un petit bâton vert, résiste à ces effroyables conditions. Mais une bourrasque terrible l’arrache de l’arbuste et l’emporte dans les airs. S’en sortira-t-il sans ailes ? Et surtout sera-t-il de retour avant le jour qu’il craint tant ?</itunes:summary>
+      <itunes:duration>00:11:02</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 1/16 : Le Tyrannosaure-rex : la terreur sur pattes</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-tyrannosaure-rex-la-terreur-sur-pattes-5350540</link>
+      <description>durée : 00:11:15 - Bestioles - Un Tyrannosaure se promène dans le delta d’une rivière. Il commence la chasse et se confronte à un Triceratops ! Un duel remarquable éclate. Qui va en sortir gagnant ?</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/aa73d107-30b7-423f-9ddb-5845b28bc64a/22046-06.12.2022-ITEMA_23179300-2022F43553E0039-21.mp3" length="10830143" type="audio/mpeg"/>
+      <guid isPermaLink="false">8df07024-cca8-4076-a32a-a609065ac8a2</guid>
+      <pubDate>Tue, 06 Dec 2022 20:20:00 +0100</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0039</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 1/16 : Le Tyrannosaure-rex : la terreur sur pattes</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,1/16,:,Le,Tyrannosaure-rex :,la,terreur,sur,pattes</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 1/16 : Le Tyrannosaure-rex : la terreur sur pattes</itunes:subtitle>
+      <itunes:summary>durée : 00:11:15 - Bestioles - Un Tyrannosaure se promène dans le delta d’une rivière. Il commence la chasse et se confronte à un Triceratops ! Un duel remarquable éclate. Qui va en sortir gagnant ?</itunes:summary>
+      <itunes:duration>00:11:15</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 10/16 : Le Ptéranodon : le reptile aux ailes de géant</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-pteranodon-le-reptile-aux-ailes-de-geant-9517000</link>
+      <description>durée : 00:11:11 - Bestioles - Le jeune Ptéranodon manque de confiance en lui ; ce qui, à l’ère du crétacé, lui complique autant sa vie de prédateur que de mâle reproducteur.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/168023ab-fcce-4d85-9bae-2d164c8a262a/22046-06.12.2022-ITEMA_23179300-2022F43553E0035-21.mp3" length="10764057" type="audio/mpeg"/>
+      <guid isPermaLink="false">73ab6cfc-fff4-46b3-bfdb-db11b99bca0c</guid>
+      <pubDate>Tue, 06 Dec 2022 20:19:00 +0100</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0035</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 10/16 : Le Ptéranodon : le reptile aux ailes de géant</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,10/16,:,Le,Ptéranodon :,le,reptile,aux,ailes,de,géant</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 10/16 : Le Ptéranodon : le reptile aux ailes de géant</itunes:subtitle>
+      <itunes:summary>durée : 00:11:11 - Bestioles - Le jeune Ptéranodon manque de confiance en lui ; ce qui, à l’ère du crétacé, lui complique autant sa vie de prédateur que de mâle reproducteur.</itunes:summary>
+      <itunes:duration>00:11:11</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 9/16 : Vie, mort et résurrection d’un Trilobite </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/vie-mort-et-resurrection-d-un-trilobite-4229236</link>
+      <description>durée : 00:12:17 - Bestioles - Trilobite vit il y a 500 millions d’années. Il fréquente d’autres créatures tout aussi bizarroïdes, adore les vers dodus qu’il déchiquète à coups de pattes-ciseaux, se roule en boule et se vautre dans la vase. Le Cambrien c’est l’éclate sauf quand une ombre plane au fond de l’océan.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/1f88e604-dc6b-4dd8-a9fb-0a70165b922b/22046-06.12.2022-ITEMA_23179300-2022F43553E0038-21.mp3" length="11822602" type="audio/mpeg"/>
+      <guid isPermaLink="false">7141c64d-b575-4024-a807-1db7bb7c6790</guid>
+      <pubDate>Tue, 06 Dec 2022 20:18:00 +0100</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0038</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 9/16 : Vie, mort et résurrection d’un Trilobite </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,9/16,:,Vie,,mort,et,résurrection,d’un,Trilobite,</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 9/16 : Vie, mort et résurrection d’un Trilobite </itunes:subtitle>
+      <itunes:summary>durée : 00:12:17 - Bestioles - Trilobite vit il y a 500 millions d’années. Il fréquente d’autres créatures tout aussi bizarroïdes, adore les vers dodus qu’il déchiquète à coups de pattes-ciseaux, se roule en boule et se vautre dans la vase. Le Cambrien c’est l’éclate sauf quand une ombre plane au fond de l’océan.</itunes:summary>
+      <itunes:duration>00:12:17</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 8/16 : Le Dimétrodon hisse la voile !</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-dimetrodon-hisse-la-voile-4690341</link>
+      <description>durée : 00:08:21 - Bestioles - Le dimétrodon part à la chasse. Avec son arme secrète, rien ne lui résiste. Par contre, ne lui parlez pas dinosaure ou vous risquez de le mettre très en colère !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/27681542-8d69-4e05-ba1a-5b9d78baa662/22046-06.12.2022-ITEMA_23179300-2022F43553E0032-21.mp3" length="8057777" type="audio/mpeg"/>
+      <guid isPermaLink="false">42129a89-d1da-468a-b998-f1b5458e79b3</guid>
+      <pubDate>Tue, 06 Dec 2022 20:16:00 +0100</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0032</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 8/16 : Le Dimétrodon hisse la voile !</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,8/16,:,Le,Dimétrodon,hisse,la,voile !</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 8/16 : Le Dimétrodon hisse la voile !</itunes:subtitle>
+      <itunes:summary>durée : 00:08:21 - Bestioles - Le dimétrodon part à la chasse. Avec son arme secrète, rien ne lui résiste. Par contre, ne lui parlez pas dinosaure ou vous risquez de le mettre très en colère !</itunes:summary>
+      <itunes:duration>00:08:21</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 7/16 : Le rhinocéros laineux : la corne qui sent bon la laine</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-rhinoceros-laineux-la-corne-qui-sent-bon-la-laine-6347577</link>
+      <description>durée : 00:10:23 - Bestioles - Et si cette bestiole était à l'origine du mythe de la licorne ? Fiction ou pas, cet herbivore a un sacré caractère. Pas question de le déranger en plein festin végétal. Caressez sa laine mais fuyez sa corne plate !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/7fead410-59ae-44fb-91ac-a0bb10e25e27/22046-06.12.2022-ITEMA_23179300-2022F43553E0036-21.mp3" length="10011473" type="audio/mpeg"/>
+      <guid isPermaLink="false">07c6451b-5577-4ed4-9dbe-f989bf742265</guid>
+      <pubDate>Tue, 06 Dec 2022 20:14:00 +0100</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0036</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 7/16 : Le rhinocéros laineux : la corne qui sent bon la laine</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,7/16,:,Le,rhinocéros,laineux :,la,corne,qui,sent,bon,la,laine</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 7/16 : Le rhinocéros laineux : la corne qui sent bon la laine</itunes:subtitle>
+      <itunes:summary>durée : 00:10:23 - Bestioles - Et si cette bestiole était à l'origine du mythe de la licorne ? Fiction ou pas, cet herbivore a un sacré caractère. Pas question de le déranger en plein festin végétal. Caressez sa laine mais fuyez sa corne plate !</itunes:summary>
+      <itunes:duration>00:10:23</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 6/16 : Le Mosasaure : fringale de future maman</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-mosasaure-fringale-de-future-maman-7425271</link>
+      <description>durée : 00:09:29 - Bestioles - Quand on est un reptile marin géant et qu’en plus on attend des bébés sur le point de naître, on a faim ! Heureusement, en matière alimentaire, rien ne fait peur au Mosasaure !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/93eb0346-829a-428a-a64f-7ddde2677ea7/22046-06.12.2022-ITEMA_23179300-2022F43553E0034-21.mp3" length="9144101" type="audio/mpeg"/>
+      <guid isPermaLink="false">92691096-185f-454e-a58c-f55c9c03f782</guid>
+      <pubDate>Tue, 06 Dec 2022 20:12:00 +0100</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0034</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 6/16 : Le Mosasaure : fringale de future maman</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,6/16,:,Le,Mosasaure :,fringale,de,future,maman</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 6/16 : Le Mosasaure : fringale de future maman</itunes:subtitle>
+      <itunes:summary>durée : 00:09:29 - Bestioles - Quand on est un reptile marin géant et qu’en plus on attend des bébés sur le point de naître, on a faim ! Heureusement, en matière alimentaire, rien ne fait peur au Mosasaure !</itunes:summary>
+      <itunes:duration>00:09:29</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 5/16 : Le mammouth laineux : en route, mammouth !  </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-mammouth-laineux-en-route-mammouth-8027742</link>
+      <description>durée : 00:11:53 - Bestioles - Ce n’est vraiment pas son jour de chance au mammouth laineux. Son troupeau est parti sans lui, il a chuté. Il ne manquerait plus qu’une hyène des cavernes débarque !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/24a04fc0-2094-47e9-a26e-ce1b6d16ec96/22046-06.12.2022-ITEMA_23179300-2022F43553E0033-21.mp3" length="11439107" type="audio/mpeg"/>
+      <guid isPermaLink="false">802937e4-4423-4ee6-bccf-ebc2e31ef176</guid>
+      <pubDate>Tue, 06 Dec 2022 20:08:00 +0100</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0033</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 5/16 : Le mammouth laineux : en route, mammouth !  </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,5/16,:,Le,mammouth,laineux :,en,route,,mammouth !,,</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 5/16 : Le mammouth laineux : en route, mammouth !  </itunes:subtitle>
+      <itunes:summary>durée : 00:11:53 - Bestioles - Ce n’est vraiment pas son jour de chance au mammouth laineux. Son troupeau est parti sans lui, il a chuté. Il ne manquerait plus qu’une hyène des cavernes débarque !</itunes:summary>
+      <itunes:duration>00:11:53</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 4/16 : L’Ammonite : coquille à propulsion</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/l-ammonite-coquille-a-propulsion-6251918</link>
+      <description>durée : 00:09:12 - Bestioles - On pourrait croire que la vie de mollusque est lente et reposante mais pas celle de l’Ammonite ! Entre chasse au plancton et bataille avec un Ichtyosaure, elle nous dévoile qu’elle a plus d’un tour… dans sa coquille.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/db0bcb00-727b-4e7a-b45b-385ada246e07/22046-06.12.2022-ITEMA_23179300-2022F43553E0031-21.mp3" length="8861213" type="audio/mpeg"/>
+      <guid isPermaLink="false">b30a4ff3-fc13-42c2-8a1d-bfd9ea890091</guid>
+      <pubDate>Tue, 06 Dec 2022 20:06:00 +0100</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0031</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 4/16 : L’Ammonite : coquille à propulsion</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,4/16,:,L’Ammonite :,coquille,à,propulsion</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 4/16 : L’Ammonite : coquille à propulsion</itunes:subtitle>
+      <itunes:summary>durée : 00:09:12 - Bestioles - On pourrait croire que la vie de mollusque est lente et reposante mais pas celle de l’Ammonite ! Entre chasse au plancton et bataille avec un Ichtyosaure, elle nous dévoile qu’elle a plus d’un tour… dans sa coquille.</itunes:summary>
+      <itunes:duration>00:09:12</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 3/16 : Le Tricératops : une forte tête</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-triceratops-une-forte-tete-2543103</link>
+      <description>durée : 00:11:56 - Bestioles - Confiant et sûr de sa puissance, un jeune tricératops, rêvant d’indépendance et d’aventure, s’éloigne de son troupeau. Il va alors faire une rencontre qui lui enlèvera toute envie de recommencer.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/1ce259f8-abd4-4469-b98d-527a7f8421dd/22046-06.12.2022-ITEMA_23179300-2022F43553E0040-21.mp3" length="11495562" type="audio/mpeg"/>
+      <guid isPermaLink="false">a96010eb-3a67-4dcb-a46f-5052e891bf3e</guid>
+      <pubDate>Tue, 06 Dec 2022 20:04:00 +0100</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0040</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 3/16 : Le Tricératops : une forte tête</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,3/16,:,Le,Tricératops :,une,forte,tête</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 3/16 : Le Tricératops : une forte tête</itunes:subtitle>
+      <itunes:summary>durée : 00:11:56 - Bestioles - Confiant et sûr de sa puissance, un jeune tricératops, rêvant d’indépendance et d’aventure, s’éloigne de son troupeau. Il va alors faire une rencontre qui lui enlèvera toute envie de recommencer.</itunes:summary>
+      <itunes:duration>00:11:56</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les Bestioles fossiles 2/16 : Le tigre à dents de sabre : le fauve a les dents longues</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-tigre-a-dents-de-sabre-le-fauve-a-les-dents-longues-2458215</link>
+      <description>durée : 00:11:39 - Bestioles - Le tigre à dents de sabre est le félin le plus impressionnant de toute la préhistoire. Malgré ses qualités de chasseur incroyable, sa vie en Californie il y a 25 000 ans, le place parfois face à des situations pas si simples à gérer.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/f770f724-4493-45f5-89ab-470444395cf7/22046-06.12.2022-ITEMA_23179300-2022F43553E0037-21.mp3" length="11222342" type="audio/mpeg"/>
+      <guid isPermaLink="false">b43921a7-c862-419b-b2f8-7c4d2c42796c</guid>
+      <pubDate>Tue, 06 Dec 2022 20:00:00 +0100</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0037</podcastRF:magnetothequeID>
+      <itunes:title>Les Bestioles fossiles 2/16 : Le tigre à dents de sabre : le fauve a les dents longues</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,Bestioles,fossiles,2/16,:,Le,tigre,à,dents,de,sabre :,le,fauve,a,les,dents,longues</itunes:keywords>
+      <itunes:subtitle>Les Bestioles fossiles 2/16 : Le tigre à dents de sabre : le fauve a les dents longues</itunes:subtitle>
+      <itunes:summary>durée : 00:11:39 - Bestioles - Le tigre à dents de sabre est le félin le plus impressionnant de toute la préhistoire. Malgré ses qualités de chasseur incroyable, sa vie en Californie il y a 25 000 ans, le place parfois face à des situations pas si simples à gérer.</itunes:summary>
+      <itunes:duration>00:11:39</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>La tique : un vampire très sympa... tique </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/la-tique-un-vampire-tres-sympa-tique-6393894</link>
+      <description>durée : 00:11:00 - Bestioles - Pour la tique tout est tactique. Confrontée au refus humain de se laisser piquer et pomper le sang, notre bestiole l’entraine dans une chasse au sang initiatique.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/52a8431a-2e63-4494-9139-45c2a478a47c/22046-27.09.2022-ITEMA_23131763-2022F43553E0030-21.mp3" length="10587716" type="audio/mpeg"/>
+      <guid isPermaLink="false">eb5d2d95-ef01-4961-9eff-7f793b8d366c</guid>
+      <pubDate>Tue, 27 Sep 2022 20:30:09 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0030</podcastRF:magnetothequeID>
+      <itunes:title>La tique : un vampire très sympa... tique </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>La,tique :,un,vampire,très,sympa...,tique,</itunes:keywords>
+      <itunes:subtitle>La tique : un vampire très sympa... tique </itunes:subtitle>
+      <itunes:summary>durée : 00:11:00 - Bestioles - Pour la tique tout est tactique. Confrontée au refus humain de se laisser piquer et pomper le sang, notre bestiole l’entraine dans une chasse au sang initiatique.</itunes:summary>
+      <itunes:duration>00:11:00</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le scorpion : une réputation à défaire</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-scorpion-5520102</link>
+      <description>durée : 00:10:47 - Bestioles - Un scorpion en quête de nourriture, se défend d’être le méchant tueur que la légende lui colle à la carapace. Lui aussi, il a des prédateurs et ses nuits ne sont pas de tout repos !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/81caf638-983b-43b7-9ad4-5a71295c7826/22046-27.09.2022-ITEMA_23131763-2022F43553E0029-21.mp3" length="10387497" type="audio/mpeg"/>
+      <guid isPermaLink="false">55ffb094-fab1-4c27-9996-62a4e72740de</guid>
+      <pubDate>Tue, 27 Sep 2022 20:30:08 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0029</podcastRF:magnetothequeID>
+      <itunes:title>Le scorpion : une réputation à défaire</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,scorpion :,une,réputation,à,défaire</itunes:keywords>
+      <itunes:subtitle>Le scorpion : une réputation à défaire</itunes:subtitle>
+      <itunes:summary>durée : 00:10:47 - Bestioles - Un scorpion en quête de nourriture, se défend d’être le méchant tueur que la légende lui colle à la carapace. Lui aussi, il a des prédateurs et ses nuits ne sont pas de tout repos !</itunes:summary>
+      <itunes:duration>00:10:47</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le renard roux : un chasseur infatigable</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-renard-roux-un-chasseur-infatigable-1194014</link>
+      <description>durée : 00:10:53 - Bestioles - Le renard roux est un animal très rusé. Et, heureusement pour lui, car sa vie nocturne et solitaire le rend plus vulnérable.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/5a1ec8b4-548e-4c16-b84d-a1d40de7a0d2/22046-27.09.2022-ITEMA_23131763-2022F43553E0028-21.mp3" length="10488578" type="audio/mpeg"/>
+      <guid isPermaLink="false">0f450b59-ab80-438f-92cf-3cfb4702f5ae</guid>
+      <pubDate>Tue, 27 Sep 2022 20:30:07 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0028</podcastRF:magnetothequeID>
+      <itunes:title>Le renard roux : un chasseur infatigable</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,renard,roux :,un,chasseur,infatigable</itunes:keywords>
+      <itunes:subtitle>Le renard roux : un chasseur infatigable</itunes:subtitle>
+      <itunes:summary>durée : 00:10:53 - Bestioles - Le renard roux est un animal très rusé. Et, heureusement pour lui, car sa vie nocturne et solitaire le rend plus vulnérable.</itunes:summary>
+      <itunes:duration>00:10:53</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le grand dauphin : querelle en haute mer</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-grand-dauphin-8283495</link>
+      <description>durée : 00:09:16 - Bestioles - Le grand dauphin est en pleine forme. Fendu de son éternel sourire, il plonge, saute, pêche et surfe sans retenue ! Bienveillant et attentionné envers les humains, il nous entraine dans ses folles turbulences. Mais c’est une bestiole sauvage, et la mer n’est pas un bassin de gala…</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/acc87a5a-c116-4710-8986-ab9ce3b445ba/22046-27.09.2022-ITEMA_23131763-2022F43553E0027-21.mp3" length="8932581" type="audio/mpeg"/>
+      <guid isPermaLink="false">51b1aea6-d919-40a0-88cb-ebcc421aff80</guid>
+      <pubDate>Tue, 27 Sep 2022 20:30:06 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0027</podcastRF:magnetothequeID>
+      <itunes:title>Le grand dauphin : querelle en haute mer</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,grand,dauphin :,querelle,en,haute,mer</itunes:keywords>
+      <itunes:subtitle>Le grand dauphin : querelle en haute mer</itunes:subtitle>
+      <itunes:summary>durée : 00:09:16 - Bestioles - Le grand dauphin est en pleine forme. Fendu de son éternel sourire, il plonge, saute, pêche et surfe sans retenue ! Bienveillant et attentionné envers les humains, il nous entraine dans ses folles turbulences. Mais c’est une bestiole sauvage, et la mer n’est pas un bassin de gala…</itunes:summary>
+      <itunes:duration>00:09:16</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le mille-pattes : une bonne pâte très solitaire</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-mille-pattes-7013603</link>
+      <description>durée : 00:08:43 - Bestioles - Chasseur solitaire, le mille-pattes n'aime pas qu'on le dérange en pleine journée. Ah non alors ! La lumière du jour, il la fuit ! Imaginez l’enfer que devient sa vie si quelqu’un donne un malencontreux coup de pied sur son abri...</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/3977cc07-b7b8-46a7-bb08-a20e2db5fcfc/22046-27.09.2022-ITEMA_23131763-2022F43553E0026-21.mp3" length="8401355" type="audio/mpeg"/>
+      <guid isPermaLink="false">4cb72e7e-bd63-472a-b406-060c0a022517</guid>
+      <pubDate>Tue, 27 Sep 2022 20:30:05 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0026</podcastRF:magnetothequeID>
+      <itunes:title>Le mille-pattes : une bonne pâte très solitaire</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,mille-pattes :,une,bonne,pâte,très,solitaire</itunes:keywords>
+      <itunes:subtitle>Le mille-pattes : une bonne pâte très solitaire</itunes:subtitle>
+      <itunes:summary>durée : 00:08:43 - Bestioles - Chasseur solitaire, le mille-pattes n'aime pas qu'on le dérange en pleine journée. Ah non alors ! La lumière du jour, il la fuit ! Imaginez l’enfer que devient sa vie si quelqu’un donne un malencontreux coup de pied sur son abri...</itunes:summary>
+      <itunes:duration>00:08:43</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>L'étoile de mer ne lâche rien (ou presque !)</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/bestioles-du-lundi-17-octobre-2022-3250914</link>
+      <description>durée : 00:11:13 - Bestioles - Une étoile de mer s’est laissée prendre au piège de la marée ; la voilà dans une flaque au milieu des rochers. Il y a péril jusqu’au retour de l’océan. Mais lorsqu’on possède un squelette de calcaire, cinq bras costauds, et un estomac voyageur, que peut-il bien arriver de fâcheux ?</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/3e5ccfcb-ffd4-4e1f-a2d9-3f45e15aef25/22046-27.09.2022-ITEMA_23131763-2022F43553E0025-21.mp3" length="10805038" type="audio/mpeg"/>
+      <guid isPermaLink="false">c6d7e015-bb9f-4b32-8bfb-12ddb78e99a5</guid>
+      <pubDate>Tue, 27 Sep 2022 20:30:04 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0025</podcastRF:magnetothequeID>
+      <itunes:title>L'étoile de mer ne lâche rien (ou presque !)</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>L'étoile,de,mer,ne,lâche,rien,(ou,presque !)</itunes:keywords>
+      <itunes:subtitle>L'étoile de mer ne lâche rien (ou presque !)</itunes:subtitle>
+      <itunes:summary>durée : 00:11:13 - Bestioles - Une étoile de mer s’est laissée prendre au piège de la marée ; la voilà dans une flaque au milieu des rochers. Il y a péril jusqu’au retour de l’océan. Mais lorsqu’on possède un squelette de calcaire, cinq bras costauds, et un estomac voyageur, que peut-il bien arriver de fâcheux ?</itunes:summary>
+      <itunes:duration>00:11:13</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>La corneille noire : fière de sa cervelle d'oiseau</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/la-corneille-noire-9627402</link>
+      <description>durée : 00:09:21 - Bestioles - Dans un parc en ville, une corneille noire fait travailler ses neurones d’oiseau très intelligent pour assouvir sa faim mais aussi (et surtout ?) pour… s’amuser !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/7b7feb3d-439e-4c7a-b528-787d11f97bc2/22046-27.09.2022-ITEMA_23131763-2022F43553E0024-21.mp3" length="9012411" type="audio/mpeg"/>
+      <guid isPermaLink="false">87ae5aa7-55a0-4a3a-95d5-5dad7ce7147e</guid>
+      <pubDate>Tue, 27 Sep 2022 20:30:03 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0024</podcastRF:magnetothequeID>
+      <itunes:title>La corneille noire : fière de sa cervelle d'oiseau</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>La,corneille,noire :,fière,de,sa,cervelle,d'oiseau</itunes:keywords>
+      <itunes:subtitle>La corneille noire : fière de sa cervelle d'oiseau</itunes:subtitle>
+      <itunes:summary>durée : 00:09:21 - Bestioles - Dans un parc en ville, une corneille noire fait travailler ses neurones d’oiseau très intelligent pour assouvir sa faim mais aussi (et surtout ?) pour… s’amuser !</itunes:summary>
+      <itunes:duration>00:09:21</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>La larve du Dytique, transformiste aquatique</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/la-larve-du-dytique-transformiste-aquatique-73873761</link>
+      <description>durée : 00:10:53 - Bestioles - La larve du Dytique a beau être un bébé, c’est une redoutable prédatrice qui fait trembler les mares en se nourrissant de proies bien plus grosses qu’elle. Ce petit bolide aquatique n’a qu’un but : se nourrir, pour grandir, et se transformer un jour en gros scarabée.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/4f24fb81-ab09-4a00-bc82-0b6650b7a572/22046-27.09.2022-ITEMA_23131763-2022F43553E0023-21.mp3" length="10484463" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecb2c741-23ac-414d-85ef-c64ac880c615</guid>
+      <pubDate>Tue, 27 Sep 2022 20:30:02 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0023</podcastRF:magnetothequeID>
+      <itunes:title>La larve du Dytique, transformiste aquatique</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>La,larve,du,Dytique,,transformiste,aquatique</itunes:keywords>
+      <itunes:subtitle>La larve du Dytique, transformiste aquatique</itunes:subtitle>
+      <itunes:summary>durée : 00:10:53 - Bestioles - La larve du Dytique a beau être un bébé, c’est une redoutable prédatrice qui fait trembler les mares en se nourrissant de proies bien plus grosses qu’elle. Ce petit bolide aquatique n’a qu’un but : se nourrir, pour grandir, et se transformer un jour en gros scarabée.</itunes:summary>
+      <itunes:duration>00:10:53</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>La libellule : le dragon des airs</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/bestioles-du-dimanche-09-octobre-2022-4444437</link>
+      <description>durée : 00:09:42 - Bestioles - Il ne faut pas se fier à l’apparence gracile et à l’élégance de la libellule. C’est une as de la voltige et une chasseuse redoutable ! Mais aujourd’hui, elle a d’autres préoccupations : trouver un partenaire.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/fa53832b-e7e9-4be9-81c6-0dbfbf5d96b6/22046-27.09.2022-ITEMA_23131763-2022F43553E0022-21.mp3" length="9341345" type="audio/mpeg"/>
+      <guid isPermaLink="false">bbb7c718-8139-49ea-9c79-5b702ddc7cf5</guid>
+      <pubDate>Tue, 27 Sep 2022 20:30:01 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0022</podcastRF:magnetothequeID>
+      <itunes:title>La libellule : le dragon des airs</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>La,libellule :,le,dragon,des,airs</itunes:keywords>
+      <itunes:subtitle>La libellule : le dragon des airs</itunes:subtitle>
+      <itunes:summary>durée : 00:09:42 - Bestioles - Il ne faut pas se fier à l’apparence gracile et à l’élégance de la libellule. C’est une as de la voltige et une chasseuse redoutable ! Mais aujourd’hui, elle a d’autres préoccupations : trouver un partenaire.</itunes:summary>
+      <itunes:duration>00:09:42</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le gendarme : super protecteur des jardins</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-gendarme-super-protecteur-des-jardins-4759639</link>
+      <description>durée : 00:09:12 - Bestioles - Le gendarme c’est la bestiole utile des jardins ! Il élimine les ennemis des cultures et nous débarrasse même des feuilles mortes. C’est un insecte hyper sociable qui passe son temps au soleil à se nourrir et à se reproduire. Alors pourquoi vouloir s’en débarrasser ?</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/0550d625-f6c3-404c-9144-13a7461c4844/22046-27.09.2022-ITEMA_23131763-2022F43553E0021-21.mp3" length="8866764" type="audio/mpeg"/>
+      <guid isPermaLink="false">41a25abb-27df-4ddd-a600-abf80516d721</guid>
+      <pubDate>Tue, 27 Sep 2022 20:30:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0021</podcastRF:magnetothequeID>
+      <itunes:title>Le gendarme : super protecteur des jardins</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,gendarme :,super,protecteur,des,jardins</itunes:keywords>
+      <itunes:subtitle>Le gendarme : super protecteur des jardins</itunes:subtitle>
+      <itunes:summary>durée : 00:09:12 - Bestioles - Le gendarme c’est la bestiole utile des jardins ! Il élimine les ennemis des cultures et nous débarrasse même des feuilles mortes. C’est un insecte hyper sociable qui passe son temps au soleil à se nourrir et à se reproduire. Alors pourquoi vouloir s’en débarrasser ?</itunes:summary>
+      <itunes:duration>00:09:12</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le bousier : un scarabée sacrément baraqué</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-bousier-un-scarabee-sacrement-baraque-8045039</link>
+      <description>durée : 00:10:57 - Bestioles - par : ALDEBERT - Entre rendez-vous galant et duel sous les feuilles, les déambulations écologiques d’un scarabée sacrément utile peuvent s’avérer plus compliquées que prévu.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/7c5a9c96-64d6-46d6-97b1-3eeb4a22f236/22046-05.09.2022-ITEMA_23449030-2022F43553E0013-21.mp3" length="10550914" type="audio/mpeg"/>
+      <guid isPermaLink="false">1fed156a-22dc-4632-8872-a3dbd0a577e1</guid>
+      <pubDate>Mon, 05 Sep 2022 03:12:50 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0013</podcastRF:magnetothequeID>
+      <itunes:title>Le bousier : un scarabée sacrément baraqué</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/03/93b464a1-6268-4c91-ab5f-c71bf3c55357/1400x1400_fi-bestioles-vignette-1400x1400.jpg"/>
+      <itunes:author>ALDEBERT</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,bousier,:,un,scarabée,sacrément,baraqué</itunes:keywords>
+      <itunes:subtitle>Le bousier : un scarabée sacrément baraqué</itunes:subtitle>
+      <itunes:summary>durée : 00:10:57 - Bestioles - par : ALDEBERT - Entre rendez-vous galant et duel sous les feuilles, les déambulations écologiques d’un scarabée sacrément utile peuvent s’avérer plus compliquées que prévu.</itunes:summary>
+      <itunes:duration>00:10:57</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Être une taupe : ça creuse ! </title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/etre-une-taupe-ca-creuse-6025808</link>
+      <description>durée : 00:10:40 - Bestioles - Les aventures souterraines d’une maman taupe vont se heurter aux besoins humains d’un fieffé jardinier empêcheur de creuser en rond.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/ee34c19c-b758-4c40-ba11-0c61eb82e6e2/22046-14.06.2022-ITEMA_23060038-2022F43553E0018-21.mp3" length="10268303" type="audio/mpeg"/>
+      <guid isPermaLink="false">d6d4e0ea-6b82-48f5-abe1-90bb8b85381c</guid>
+      <pubDate>Tue, 14 Jun 2022 23:57:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0018</podcastRF:magnetothequeID>
+      <itunes:title>Être une taupe : ça creuse ! </itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/06/841225e2-56bd-4fed-8bfa-7ce0cff1be5b/1400x1400_fi-bestioles-site-inter-s02v3-taupe-1800x1800.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Être,une,taupe,:,ça,creuse,!,</itunes:keywords>
+      <itunes:subtitle>Être une taupe : ça creuse ! </itunes:subtitle>
+      <itunes:summary>durée : 00:10:40 - Bestioles - Les aventures souterraines d’une maman taupe vont se heurter aux besoins humains d’un fieffé jardinier empêcheur de creuser en rond.</itunes:summary>
+      <itunes:duration>00:10:40</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le poisson-lune : un poisson pas tellement dans la lune</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-poisson-lune-un-poisson-pas-tellement-dans-la-lune-1171180</link>
+      <description>durée : 00:10:00 - Bestioles - Mola mola est en plein nettoyage parasite avec des mouettes, mais il doit trouver à manger ; En traversant un banc de méduses dont il raffole, il se retrouve face à un lion de mer qui cherche à dévorer ses petits. Une histoire qui ne finit pas en queue de poisson.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/9fef2afe-e1b5-4b93-8989-38b1cf82a52b/22046-14.06.2022-ITEMA_23060038-2022F43553E0017-21.mp3" length="9630758" type="audio/mpeg"/>
+      <guid isPermaLink="false">f6511468-68cb-42fc-8d79-9ea1ad354990</guid>
+      <pubDate>Tue, 14 Jun 2022 23:56:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0017</podcastRF:magnetothequeID>
+      <itunes:title>Le poisson-lune : un poisson pas tellement dans la lune</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/06/5b7ab680-0d55-4caf-8e99-9e0cc626993f/1400x1400_fi-bestioles-site-inter-s02v3-poissonlune-1800x1800.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,poisson-lune,:,un,poisson,pas,tellement,dans,la,lune</itunes:keywords>
+      <itunes:subtitle>Le poisson-lune : un poisson pas tellement dans la lune</itunes:subtitle>
+      <itunes:summary>durée : 00:10:00 - Bestioles - Mola mola est en plein nettoyage parasite avec des mouettes, mais il doit trouver à manger ; En traversant un banc de méduses dont il raffole, il se retrouve face à un lion de mer qui cherche à dévorer ses petits. Une histoire qui ne finit pas en queue de poisson.</itunes:summary>
+      <itunes:duration>00:10:00</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le phoque : le mammifère aquatique</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-phoque-le-mammifere-aquatique-7198832</link>
+      <description>durée : 00:10:35 - Bestioles - Le phoque est un mammifère paisible qui vit entouré de ses congénères mais aussi au milieu de dangers. Comme il ne peut pas courir, il est à la merci de beaucoup de prédateurs. Et son ennemi principal, l’orque, ne lui fait pas de cadeau.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/62914ce4-90fd-4e0e-a485-f7c9d815c738/22046-14.06.2022-ITEMA_23060038-2022F43553E0011-21.mp3" length="10199144" type="audio/mpeg"/>
+      <guid isPermaLink="false">68c3b350-1334-45ab-ad49-e67d48c43384</guid>
+      <pubDate>Tue, 14 Jun 2022 23:50:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2022F43553E0011</podcastRF:magnetothequeID>
+      <itunes:title>Le phoque : le mammifère aquatique</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/06/f7d92111-77a9-4b35-a640-80947e4c0ac4/1400x1400_fi-bestioles-site-inter-s02v3-brochet-1800x1800.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,phoque,:,le,mammifère,aquatique</itunes:keywords>
+      <itunes:subtitle>Le phoque : le mammifère aquatique</itunes:subtitle>
+      <itunes:summary>durée : 00:10:35 - Bestioles - Le phoque est un mammifère paisible qui vit entouré de ses congénères mais aussi au milieu de dangers. Comme il ne peut pas courir, il est à la merci de beaucoup de prédateurs. Et son ennemi principal, l’orque, ne lui fait pas de cadeau.</itunes:summary>
+      <itunes:duration>00:10:35</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>La marmotte : Marmotton ne veut pas dormir !</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/la-marmotte-marmotton-ne-veut-pas-dormir-1940121</link>
+      <description>durée : 00:07:52 - Bestioles - Joey est un petit kangourou craintif. Il n'est jamais sorti de la poche de sa maman. Aujourd'hui, pas le choix, il va devoir faire le grand saut !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/ec511ad2-d949-4833-afab-d2cb61660d20/22046-08.04.2021-ITEMA_22629314-2021F43553E0002-21.mp3" length="7594556" type="audio/mpeg"/>
+      <guid isPermaLink="false">f2307e42-58d7-4715-82dd-b6047482b414</guid>
+      <pubDate>Thu, 08 Apr 2021 01:18:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2021F43553E0002</podcastRF:magnetothequeID>
+      <itunes:title>La marmotte : Marmotton ne veut pas dormir !</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2021/04/82c5859c-c56e-4994-80d8-5e8a39f772b0/1400x1400_fi_bestioles_generique_3000x3000.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>La,marmotte,:,Marmotton,ne,veut,pas,dormir,!</itunes:keywords>
+      <itunes:subtitle>La marmotte : Marmotton ne veut pas dormir !</itunes:subtitle>
+      <itunes:summary>durée : 00:07:52 - Bestioles - Joey est un petit kangourou craintif. Il n'est jamais sorti de la poche de sa maman. Aujourd'hui, pas le choix, il va devoir faire le grand saut !</itunes:summary>
+      <itunes:duration>00:07:52</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le crabe : l'étrille, un brave petit chevalier !</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-crabe-l-etrille-un-brave-petit-chevalier-7501070</link>
+      <description>durée : 00:07:52 - Bestioles - Quand la petite étrille rencontre un congre affamé, il y a duel ! Parce que l’étrille est brave, vive et prête à combattre... Et qui s’y frotte se fait pincer ! Pas question de se laisser manger !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/93784ed8-9258-412d-8f68-be11fd171e8b/22046-08.04.2021-ITEMA_22629314-2021F43553E0004-21.mp3" length="7583580" type="audio/mpeg"/>
+      <guid isPermaLink="false">8f1fd664-8305-45ac-986e-7b8f1e21df17</guid>
+      <pubDate>Thu, 08 Apr 2021 01:16:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2021F43553E0004</podcastRF:magnetothequeID>
+      <itunes:title>Le crabe : l'étrille, un brave petit chevalier !</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2021/04/82c5859c-c56e-4994-80d8-5e8a39f772b0/1400x1400_fi_bestioles_generique_3000x3000.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,crabe,:,l'étrille,,un,brave,petit,chevalier,!</itunes:keywords>
+      <itunes:subtitle>Le crabe : l'étrille, un brave petit chevalier !</itunes:subtitle>
+      <itunes:summary>durée : 00:07:52 - Bestioles - Quand la petite étrille rencontre un congre affamé, il y a duel ! Parce que l’étrille est brave, vive et prête à combattre... Et qui s’y frotte se fait pincer ! Pas question de se laisser manger !</itunes:summary>
+      <itunes:duration>00:07:52</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le merle : le chasseur chassé</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-merle-le-chasseur-chasse-3202005</link>
+      <description>durée : 00:08:24 - Bestioles - En quête de nourriture pour ses petits, le père merle va affronter un ennemi rusé… mais moins que lui !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/e391d129-b536-4de7-a913-d3017c1175e8/22046-08.04.2021-ITEMA_22629314-2021F43553E0010-21.mp3" length="8107059" type="audio/mpeg"/>
+      <guid isPermaLink="false">8a5b111b-e10d-4966-a91c-ef28a5975535</guid>
+      <pubDate>Thu, 08 Apr 2021 01:14:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2021F43553E0010</podcastRF:magnetothequeID>
+      <itunes:title>Le merle : le chasseur chassé</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2021/04/82c5859c-c56e-4994-80d8-5e8a39f772b0/1400x1400_fi_bestioles_generique_3000x3000.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,merle,:,le,chasseur,chassé</itunes:keywords>
+      <itunes:subtitle>Le merle : le chasseur chassé</itunes:subtitle>
+      <itunes:summary>durée : 00:08:24 - Bestioles - En quête de nourriture pour ses petits, le père merle va affronter un ennemi rusé… mais moins que lui !</itunes:summary>
+      <itunes:duration>00:08:24</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le lombric : un câlin contrarié</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-lombric-un-calin-contrarie-4498976</link>
+      <description>durée : 00:08:08 - Bestioles - Le prince Lombric sort de son empire souterrain à la recherche d’une princesse… c’est risqué !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/5066ae6a-7e67-495d-978a-059653ffcf24/22046-08.04.2021-ITEMA_22629314-2021F43553E0009-21.mp3" length="7850836" type="audio/mpeg"/>
+      <guid isPermaLink="false">758d8421-3bcd-48ce-a6b9-879346a66fe5</guid>
+      <pubDate>Thu, 08 Apr 2021 01:12:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2021F43553E0009</podcastRF:magnetothequeID>
+      <itunes:title>Le lombric : un câlin contrarié</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2021/04/82c5859c-c56e-4994-80d8-5e8a39f772b0/1400x1400_fi_bestioles_generique_3000x3000.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,lombric,:,un,câlin,contrarié</itunes:keywords>
+      <itunes:subtitle>Le lombric : un câlin contrarié</itunes:subtitle>
+      <itunes:summary>durée : 00:08:08 - Bestioles - Le prince Lombric sort de son empire souterrain à la recherche d’une princesse… c’est risqué !</itunes:summary>
+      <itunes:duration>00:08:08</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>L'oursin : le plus doux des animaux piquants</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/l-oursin-le-plus-doux-des-animaux-piquants-1688053</link>
+      <description>durée : 00:08:18 - Bestioles - La loi du plus faible ne tourne pas toujours systématiquement en défaveur des plus petits.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/15016ee3-26e6-4a71-97e8-decdf143d642/22046-08.04.2021-ITEMA_22629314-2021F43553E0007-21.mp3" length="8005036" type="audio/mpeg"/>
+      <guid isPermaLink="false">2557dd64-c6e3-4a04-a3df-181ea9aed9cb</guid>
+      <pubDate>Thu, 08 Apr 2021 01:10:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2021F43553E0007</podcastRF:magnetothequeID>
+      <itunes:title>L'oursin : le plus doux des animaux piquants</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2021/04/82c5859c-c56e-4994-80d8-5e8a39f772b0/1400x1400_fi_bestioles_generique_3000x3000.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>L'oursin,:,le,plus,doux,des,animaux,piquants</itunes:keywords>
+      <itunes:subtitle>L'oursin : le plus doux des animaux piquants</itunes:subtitle>
+      <itunes:summary>durée : 00:08:18 - Bestioles - La loi du plus faible ne tourne pas toujours systématiquement en défaveur des plus petits.</itunes:summary>
+      <itunes:duration>00:08:18</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Le kangourou : Joey "Grands pieds" a peur de tout</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/le-kangourou-joey-grands-pieds-a-peur-de-tout-8036294</link>
+      <description>durée : 00:08:02 - Bestioles - Joey est un petit kangourou craintif. Il n'est jamais sorti de la poche de sa maman. Aujourd'hui, pas le choix, il va devoir faire le grand saut !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/8868f005-1a42-4791-a0b2-f04c4e737dac/22046-08.04.2021-ITEMA_22629314-2021F43553E0006-21.mp3" length="7750459" type="audio/mpeg"/>
+      <guid isPermaLink="false">bd1d4ed6-4b76-4c8e-ac0a-00596facdebb</guid>
+      <pubDate>Thu, 08 Apr 2021 01:08:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2021F43553E0006</podcastRF:magnetothequeID>
+      <itunes:title>Le kangourou : Joey "Grands pieds" a peur de tout</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2021/04/82c5859c-c56e-4994-80d8-5e8a39f772b0/1400x1400_fi_bestioles_generique_3000x3000.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Le,kangourou,:,Joey,"Grands,pieds",a,peur,de,tout</itunes:keywords>
+      <itunes:subtitle>Le kangourou : Joey "Grands pieds" a peur de tout</itunes:subtitle>
+      <itunes:summary>durée : 00:08:02 - Bestioles - Joey est un petit kangourou craintif. Il n'est jamais sorti de la poche de sa maman. Aujourd'hui, pas le choix, il va devoir faire le grand saut !</itunes:summary>
+      <itunes:duration>00:08:02</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>L'hippocampe : le petit cheval des mers qui voulait être papa</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/l-hippocampe-le-petit-cheval-des-mers-qui-voulait-etre-papa-6502221</link>
+      <description>durée : 00:08:00 - Bestioles - Après la tempête qui a tout emporté, l'hippocampe arrivera-t-il à temps pour son mariage ? Un défi impossible pour l’animal le plus lent du monde.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/38e3b44f-7bcf-4e2e-bcc3-26af2515463e/22046-08.04.2021-ITEMA_22629314-2021F43553E0001-21.mp3" length="7722270" type="audio/mpeg"/>
+      <guid isPermaLink="false">ad52186d-aad3-46dc-baed-a2f55f39a812</guid>
+      <pubDate>Thu, 08 Apr 2021 01:06:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2021F43553E0001</podcastRF:magnetothequeID>
+      <itunes:title>L'hippocampe : le petit cheval des mers qui voulait être papa</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2021/04/82c5859c-c56e-4994-80d8-5e8a39f772b0/1400x1400_fi_bestioles_generique_3000x3000.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>L'hippocampe,:,le,petit,cheval,des,mers,qui,voulait,être,papa</itunes:keywords>
+      <itunes:subtitle>L'hippocampe : le petit cheval des mers qui voulait être papa</itunes:subtitle>
+      <itunes:summary>durée : 00:08:00 - Bestioles - Après la tempête qui a tout emporté, l'hippocampe arrivera-t-il à temps pour son mariage ? Un défi impossible pour l’animal le plus lent du monde.</itunes:summary>
+      <itunes:duration>00:08:00</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>La moule : la folle journée</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/la-moule-la-folle-journee-5269282</link>
+      <description>durée : 00:10:25 - Bestioles - La moule n'a ni patte, ni oeil, ni cerveau et vit dans une coquille. Pourtant, à chaque marée, elle affronte la vie avec entrain !</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/48424964-7b0f-4194-8782-f326739119bd/22046-08.04.2021-ITEMA_22629314-2021F43553E0005-21.mp3" length="10041842" type="audio/mpeg"/>
+      <guid isPermaLink="false">7423b5fe-36eb-4fdd-af27-6419f9bd12fe</guid>
+      <pubDate>Thu, 08 Apr 2021 01:04:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2021F43553E0005</podcastRF:magnetothequeID>
+      <itunes:title>La moule : la folle journée</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2021/04/82c5859c-c56e-4994-80d8-5e8a39f772b0/1400x1400_fi_bestioles_generique_3000x3000.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>La,moule,:,la,folle,journée</itunes:keywords>
+      <itunes:subtitle>La moule : la folle journée</itunes:subtitle>
+      <itunes:summary>durée : 00:10:25 - Bestioles - La moule n'a ni patte, ni oeil, ni cerveau et vit dans une coquille. Pourtant, à chaque marée, elle affronte la vie avec entrain !</itunes:summary>
+      <itunes:duration>00:10:25</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>L'orang-outan : jamais sans mon petit !</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/l-orang-outan-jamais-sans-mon-petit-1356662</link>
+      <description>durée : 00:08:44 - Bestioles - D’arbre en arbre, maman orang-outan, affolée, cherche son petit qui a disparu. Pourvu qu’il ne soit pas en danger.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/b96424a1-ec8c-4c22-afbd-29246fbefe37/22046-08.04.2021-ITEMA_22629314-2021F43553E0008-21.mp3" length="8423874" type="audio/mpeg"/>
+      <guid isPermaLink="false">828db292-ed78-47b7-8433-b78dbfa5f976</guid>
+      <pubDate>Thu, 08 Apr 2021 01:02:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2021F43553E0008</podcastRF:magnetothequeID>
+      <itunes:title>L'orang-outan : jamais sans mon petit !</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2021/04/82c5859c-c56e-4994-80d8-5e8a39f772b0/1400x1400_fi_bestioles_generique_3000x3000.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>L'orang-outan,:,jamais,sans,mon,petit,!</itunes:keywords>
+      <itunes:subtitle>L'orang-outan : jamais sans mon petit !</itunes:subtitle>
+      <itunes:summary>durée : 00:08:44 - Bestioles - D’arbre en arbre, maman orang-outan, affolée, cherche son petit qui a disparu. Pourvu qu’il ne soit pas en danger.</itunes:summary>
+      <itunes:duration>00:08:44</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>L'araignée : la courageuse</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/bestioles/l-araignee-la-courageuse-1276133</link>
+      <description>durée : 00:07:48 - Bestioles - Pourquoi les araignées sont considérées comme des mal-aimées, alors qu’elles sont les meilleures amies de l’homme.</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <category>Kids &amp; Family</category>
+      <enclosure url="https://rf.proxycast.org/e14374a9-5b77-4bc6-9abd-0563710cd4e9/22046-08.04.2021-ITEMA_22629314-2021F43553E0003-21.mp3" length="7522768" type="audio/mpeg"/>
+      <guid isPermaLink="false">264050de-7ff8-4668-bda9-8771fcd56a2d</guid>
+      <pubDate>Thu, 08 Apr 2021 01:00:00 +0200</pubDate>
+      <podcastRF:businessReference>43553</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2021F43553E0003</podcastRF:magnetothequeID>
+      <itunes:title>L'araignée : la courageuse</itunes:title>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2021/04/82c5859c-c56e-4994-80d8-5e8a39f772b0/1400x1400_fi_bestioles_generique_3000x3000.jpg"/>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>L'araignée,:,la,courageuse</itunes:keywords>
+      <itunes:subtitle>L'araignée : la courageuse</itunes:subtitle>
+      <itunes:summary>durée : 00:07:48 - Bestioles - Pourquoi les araignées sont considérées comme des mal-aimées, alors qu’elles sont les meilleures amies de l’homme.</itunes:summary>
+      <itunes:duration>00:07:48</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Retrouvez tous les épisodes sur l’appli Radio France</title>
+      <link>https://www.radiofrance.fr/application-mobile-radio-france</link>
+      <description>Retrouvez tous les épisodes sur l’appli Radio France</description>
+      <author>podcast@radiofrance.com (Radio France)</author>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/22452-07.07.2021-ITEMA_22721876-2021X45038E0002.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://media.radiofrance-podcast.net/podcast09/22452-07.07.2021-ITEMA_22721876-2021X45038E0002.mp3</guid>
+      <pubDate>Wed, 24 Mar 2021 23:59:59 +0100</pubDate>
+      <itunes:title>Retrouvez tous les épisodes sur l’appli Radio France</itunes:title>
+      <itunes:author>Radio France</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Retrouvez tous les épisodes sur l’appli Radio France</itunes:subtitle>
+      <itunes:summary>Retrouvez tous les épisodes sur l’appli Radio France</itunes:summary>
+      <itunes:duration>00:00:12</itunes:duration>
+      <itunes:image href="https://www.radiofrance.fr/s3/cruiser-production/2022/01/04f722eb-ed54-439f-9be6-532ecad002c9/1400x1400_radio-france-avatar.jpg"/>
+    </item>
+  </channel>
+</rss>
