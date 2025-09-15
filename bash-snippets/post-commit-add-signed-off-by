@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+if ! git log -1 HEAD | tail -n1 | grep -q "Signed-off-by" ; then
+  git ci --amend --signoff --no-edit
+fi
+
